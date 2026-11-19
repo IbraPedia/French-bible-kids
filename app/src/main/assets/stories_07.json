@@ -1,0 +1,117 @@
+[
+  {
+    "id": 31, "moduleId": 4, "title": "Josué et les Murs de Jéricho", "reference": "Josué 6", "testament": "ANCIEN", "emoji": "🎺", "durationMinutes": 3,
+    "moral": "Obéir avec foi et courage fait tomber les plus grands obstacles.",
+    "paragraphs": [
+      "Après Moïse, le courageux Josué devint le guide du peuple. Ils arrivèrent devant Jéricho, une ville entourée d'énormes murailles de pierre ! 🧱",
+      "Comment entrer sans machines de guerre ? Dieu donna à Josué un plan très original : pas de combat, mais une grande marche en musique !",
+      "Pendant six jours, tout le peuple fit une fois le tour de la ville en silence, derrière sept prêtres qui soufflaient dans des trompettes en corne. 🎺",
+      "Le septième jour, ils firent sept fois le tour ! Puis Josué cria : « Poussez un grand cri de joie ! »",
+      "BOUM ! Les immenses murailles s'écroulèrent tout d'un coup, et la gentille Rahab et sa famille furent protégées comme promis ! ✨"
+    ],
+    "scenes": [
+      {"id": "s31_1", "title": "Les immenses murs de Jéricho", "backdrop": "BATTLEFIELD", "primaryChar": "DAVID", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🧱", "propEmoji": "🛡️", "expression": "BRAVE"},
+      {"id": "s31_2", "title": "La marche avec les trompettes", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎺", "propEmoji": "🎶", "expression": "PEACEFUL"},
+      {"id": "s31_3", "title": "Les murailles tombent dans la joie !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "DAVID", "secondaryChar": "ANGEL", "moodEmoji": "🎉", "propEmoji": "✨", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui dirigeait le peuple devant Jéricho ?", "options": ["Josué", "Noé", "Jonas"], "correctIndex": 0, "explanation": "Bravo ! Josué était le successeur fidèle de Moïse. 🛡️"},
+      {"question": "Quel instrument accompagnait la marche ?", "options": ["Des trompettes", "Des pianos", "Des guitares électriques"], "correctIndex": 0, "explanation": "Oui ! Sept trompettes résonnaient autour des remparts. 🎺"},
+      {"question": "Combien de tours firent-ils le septième jour ?", "options": ["Sept tours", "Un demi-tour", "Vingt tours"], "correctIndex": 0, "explanation": "Exact ! Sept tours le septième jour avant le grand cri ! 🎉"},
+      {"question": "Que s'est-il passé quand tout le monde a crié ensemble ?", "options": ["Les murailles sont tombées", "Les portes se sont fermées", "Il a neigé"], "correctIndex": 0, "explanation": "Super ! Dieu a ouvert la ville sans violence. ✨"},
+      {"question": "Qui a été protégée dans la ville pour sa bonté ?", "options": ["Rahab et sa famille", "Personne", "Un chat"], "correctIndex": 0, "explanation": "Très bien ! Dieu récompense toujours ceux qui aident les autres. 💛"}
+    ]
+  },
+  {
+    "id": 32, "moduleId": 4, "title": "Débora, la Juge Sage sous le Palmier", "reference": "Juges 4–5", "testament": "ANCIEN", "emoji": "🌴", "durationMinutes": 3,
+    "moral": "La sagesse et l'écoute apportent la paix à tout le monde.",
+    "paragraphs": [
+      "Au temps des Juges, une femme extraordinaire appelée Débora s'asseyait à l'ombre d'un grand palmier pour écouter et conseiller les familles. 🌴",
+      "Elle aimait beaucoup Dieu et trouvait toujours des solutions justes quand deux voisins se disputaient.",
+      "Un jour, un chef méchant menaçait le pays. Débora encouragea le général Barak : « N'aie pas peur, Dieu marche devant toi ! »",
+      "Barak demanda à Débora de venir avec lui pour lui donner du courage. Grâce à l'aide de Dieu, le pays retrouva vite le calme ! 🕊️",
+      "Débora chanta alors un magnifique cantique de joie pour dire merci à Dieu qui donne du courage aux cœurs sincères. 🎵"
+    ],
+    "scenes": [
+      {"id": "s32_1", "title": "Débora conseille sous son palmier", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌴", "propEmoji": "📜", "expression": "PEACEFUL"},
+      {"id": "s32_2", "title": "Débora encourage le courageux Barak", "backdrop": "BATTLEFIELD", "primaryChar": "MARY", "secondaryChar": "DAVID", "moodEmoji": "🛡️", "propEmoji": "✨", "expression": "BRAVE"},
+      {"id": "s32_3", "title": "Le grand chant de paix", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MARY", "secondaryChar": "ANGEL", "moodEmoji": "🎵", "propEmoji": "🕊️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Sous quel arbre Débora accueillait-elle les gens ?", "options": ["Un grand palmier", "Un sapin", "Un pommier"], "correctIndex": 0, "explanation": "Oui ! On l'appelait le palmier de Débora. 🌴"},
+      {"question": "Quel était le rôle de Débora ?", "options": ["Juge sage et prophétesse", "Boulangère", "Navigatrice"], "correctIndex": 0, "explanation": "Bravo ! Elle aidait à résoudre les disputes avec justice. ⚖️"},
+      {"question": "Qui a-t-elle encouragé à avoir du courage ?", "options": ["Barak", "Goliath", "Caïn"], "correctIndex": 0, "explanation": "Exact ! Ensemble et avec Dieu, ils ont ramené la paix. 🛡️"},
+      {"question": "Qu'a fait Débora après la victoire de la paix ?", "options": ["Elle a chanté un cantique à Dieu", "Elle a boudé", "Elle est partie"], "correctIndex": 0, "explanation": "Super ! Chanter dit merci à Dieu avec tout notre cœur. 🎵"},
+      {"question": "Qui peut montrer sagesse et courage selon Dieu ?", "options": ["Les filles comme les garçons !", "Seulement les géants", "Personne"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu donne Sa sagesse à tous ceux qui L'aiment. 💛"}
+    ]
+  },
+  {
+    "id": 33, "moduleId": 4, "title": "Gédéon et les 300 Flambeaux", "reference": "Juges 7", "testament": "ANCIEN", "emoji": "🔦", "durationMinutes": 3,
+    "moral": "On n'a pas besoin d'être très nombreux quand Dieu est avec nous.",
+    "paragraphs": [
+      "Gédéon se sentait tout petit et un peu peureux quand Dieu l'appela pour délivrer son pays. Pourtant, Dieu l'appela : « Vaillant héros ! » 🛡️",
+      "Trente-deux mille hommes vinrent l'aider, mais Dieu dit : « C'est trop ! Je veux montrer que c'est Moi qui vous protège. »",
+      "Il ne resta finalement que trois cents amis très attentifs, armés non pas d'épées… mais de cruches en terre, de trompettes et de flambeaux ! 🔦",
+      "Au milieu de la nuit, ils encerclèrent le camp ennemi, cassèrent leurs cruches d'un coup, brandirent leurs flambeaux brillants et sonnèrent de la trompette !",
+      "Éblouis par toutes ces lumières dans la nuit, les ennemis prirent peur et s'enfuirent sans même qu'il y ait de bagarre ! ✨"
+    ],
+    "scenes": [
+      {"id": "s33_1", "title": "Dieu encourage le timide Gédéon", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "DAVID", "secondaryChar": "ANGEL", "moodEmoji": "🛡️", "propEmoji": "🌾", "expression": "SURPRISED"},
+      {"id": "s33_2", "title": "Trois cents amis avec cruches et flambeaux", "backdrop": "DESERT_NIGHT", "primaryChar": "DAVID", "secondaryChar": "KID_FRIEND", "moodEmoji": "🔥", "propEmoji": "🏺", "expression": "BRAVE"},
+      {"id": "s33_3", "title": "La nuit brille de trois cents lumières !", "backdrop": "BATTLEFIELD", "primaryChar": "DAVID", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🎺", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment l'ange a-t-il salué Gédéon ?", "options": ["« Vaillant héros ! »", "« Petit dormeur ! »", "« Grand roi »"], "correctIndex": 0, "explanation": "Oui ! Dieu voit notre courage même quand on a un peu peur. 🛡️"},
+      {"question": "Combien de compagnons restèrent finalement avec Gédéon ?", "options": ["300 compagnons", "50 000 soldats", "2 personnes"], "correctIndex": 0, "explanation": "Bravo ! Juste 300 personnes pour montrer la force de Dieu. ✨"},
+      {"question": "Qu'ont-ils caché dans leurs cruches en terre ?", "options": ["Des flambeaux allumés", "Des bonbons", "De l'eau glacée"], "correctIndex": 0, "explanation": "Exact ! Quand les cruches se sont cassées, la lumière a brillé partout ! 🔥"},
+      {"question": "À quel moment ont-ils fait briller les lumières ?", "options": ["En pleine nuit", "À midi", "Sous la pluie"], "correctIndex": 0, "explanation": "Oui ! Dans le noir, 300 flambeaux impressionnaient énormément. 🌙"},
+      {"question": "Quel message retient-on avec Gédéon ?", "options": ["La lumière et la foi gagnent sans violence", "Il faut être des millions", "Il ne faut jamais essayer"], "correctIndex": 0, "explanation": "Super ! Avec Dieu, un petit groupe peut faire de grandes choses. 💛"}
+    ]
+  },
+  {
+    "id": 34, "moduleId": 4, "title": "Samson, la Force et l'Humilité", "reference": "Juges 13–16", "testament": "ANCIEN", "emoji": "💪", "durationMinutes": 3,
+    "moral": "Notre vraie force vient de notre amitié avec Dieu, pas seulement de nos muscles.",
+    "paragraphs": [
+      "Avant sa naissance, un ange annonça que Samson serait spécial pour aider son peuple et qu'on ne devrait jamais couper ses longs cheveux. 💪",
+      "En grandissant, Samson devint incroyablement fort grâce à l'Esprit de Dieu : il pouvait même arrêter un lion à mains nues !",
+      "Mais parfois, Samson oubliait d'être prudent et se croyait invincible tout seul. Il révéla son secret à Dalila qui lui fit couper les cheveux pendant son sommeil.",
+      "Samson perdit alors sa force et fut mis en prison. Là, tout triste, il pria Dieu avec humilité et regretta son imprudence. 🙏",
+      "Dieu entendit sa prière sincère, ses cheveux repoussèrent et Dieu lui redonna courage une dernière fois pour protéger son peuple. ✨"
+    ],
+    "scenes": [
+      {"id": "s34_1", "title": "Samson possède une force incroyable", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "DAVID", "secondaryChar": "LION", "moodEmoji": "💪", "propEmoji": "🦁", "expression": "BRAVE"},
+      {"id": "s34_2", "title": "Samson en prison regrette et prie", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "⛓️", "expression": "SAD_CELL"},
+      {"id": "s34_3", "title": "Dieu redonne espoir et force", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "DAVID", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🏛️", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Quel signe rappelait la promesse spéciale de Samson ?", "options": ["Ses cheveux jamais coupés", "Un grand chapeau", "Une bague rouge"], "correctIndex": 0, "explanation": "Oui ! Ses longs cheveux symbolisaient son engagement envers Dieu. 💪"},
+      {"question": "D'où venait vraiment l'immense force de Samson ?", "options": ["De Dieu", "D'une soupe magique", "De ses chaussures"], "correctIndex": 0, "explanation": "Exact ! C'est l'Esprit de Dieu qui le rendait si fort. ✨"},
+      {"question": "Quelle erreur fit Samson avec Dalila ?", "options": ["Il révéla son secret sans prudence", "Il lui offrit un gâteau", "Il chanta trop fort"], "correctIndex": 0, "explanation": "Oui, il oublia d'écouter la sagesse de Dieu. 😟"},
+      {"question": "Qu'a fait Samson quand il était en prison ?", "options": ["Il a prié Dieu humblement", "Il a oublié Dieu", "Il a ri"], "correctIndex": 0, "explanation": "Bravo ! Dieu écoute toujours un cœur qui demande pardon. 🙏"},
+      {"question": "Quelle est la leçon de l'histoire de Samson ?", "options": ["Garder le cœur humble et proche de Dieu", "Se vanter de ses muscles", "Ne jamais demander aide"], "correctIndex": 0, "explanation": "Très bien ! La fidélité à Dieu est notre plus belle force. 💛"}
+    ]
+  },
+  {
+    "id": 35, "moduleId": 4, "title": "Ruth, la Belle-Fille Fidèle", "reference": "Ruth 1–4", "testament": "ANCIEN", "emoji": "🌾", "durationMinutes": 3,
+    "moral": "Prendre soin de ceux qui sont seuls est un geste magnifique aux yeux de Dieu.",
+    "paragraphs": [
+      "Naomi avait perdu sa famille et devait rentrer toute seule dans sa petite ville de Bethléem. Sa jeune belle-fille Ruth ne voulut pas la laisser seule ! 💛",
+      "« Où tu iras, j'irai, dit tendrement Ruth à Naomi. Ton peuple sera mon peuple, et ton Dieu sera mon Dieu. »",
+      "Arrivées à Bethléem pendant la moisson, Ruth travailla dur dans les champs dorés à ramasser les épis de blé oubliés pour nourrir Naomi. 🌾",
+      "Le gentil propriétaire du champ, Booz, remarqua combien Ruth était travailleuse et attentionnée envers sa belle-maman.",
+      "Booz protégea Ruth, l'épousa avec joie, et ils eurent un beau bébé ! Bien plus tard, le grand roi David naquit dans cette même famille. 👑"
+    ],
+    "scenes": [
+      {"id": "s35_1", "title": "Ruth reste fidèle près de Naomi", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "💛", "expression": "PEACEFUL"},
+      {"id": "s35_2", "title": "Ruth glane le blé avec courage", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "SHEPHERD", "moodEmoji": "🌾", "propEmoji": "☀️", "expression": "HAPPY"},
+      {"id": "s35_3", "title": "La grande joie d'une nouvelle famille", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "👶", "propEmoji": "👑", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui Ruth a-t-elle refusé d'abandonner ?", "options": ["Sa belle-mère Naomi", "Son voisin", "Un marchand"], "correctIndex": 0, "explanation": "Bravo ! Ruth a aimé Naomi comme sa propre maman. 💛"},
+      {"question": "Dans quelle ville sont-elles allées vivre ?", "options": ["Bethléem", "Rome", "Babylone"], "correctIndex": 0, "explanation": "Oui ! La jolie petite ville de Bethléem. 🏘️"},
+      {"question": "Comment Ruth trouvait-elle à manger ?", "options": ["En ramassant les épis de blé dans les champs", "En achetant un restaurant", "En pêchant"], "correctIndex": 0, "explanation": "Exact ! Elle travaillait avec courage pendant la moisson. 🌾"},
+      {"question": "Qui fut très gentil avec Ruth ?", "options": ["Booz, le propriétaire du champ", "Goliath", "Pharaon"], "correctIndex": 0, "explanation": "Oui ! Booz a admiré la bonté et la fidélité de Ruth. 😊"},
+      {"question": "Quel futur roi célèbre descend de la famille de Ruth ?", "options": ["Le roi David", "Hérode", "César"], "correctIndex": 0, "explanation": "Super ! Dieu a merveilleusement béni la fidélité de Ruth. 👑"}
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 86, "moduleId": 9, "title": "La Prière au Jardin des Oliviers", "reference": "Luc 22:39–46", "testament": "NOUVEAU", "emoji": "🫒", "durationMinutes": 3,
+    "moral": "Dans les moments difficiles, prier notre Père céleste donne une paix profonde.",
+    "paragraphs": [
+      "Après le repas, Jésus emmena Ses amis dans un jardin paisible plein de vieux oliviers argentés, appelé Gethsémané. 🫒",
+      "Jésus savait que des épreuves très dures allaient arriver le lendemain pour sauver le monde. Son cœur se sentait lourd et triste.",
+      "Il s'éloigna un peu sous les arbres, s'agenouilla et pria Dieu Son Père de tout son cœur. Un ange vint doucement du ciel pour L'encourager ! 👼",
+      "« Père, prie avec confiance Jésus, que Ta volonté d'amour se fasse ! » Il retrouva une force calme et courageuse.",
+      "Même quand on traverse un moment triste ou difficile, parler à Dieu comme Jésus nous apporte réconfort et courage. 🙏"
+    ],
+    "scenes": [
+      {"id": "s86_1", "title": "Sous les oliviers calmes la nuit", "backdrop": "DESERT_NIGHT", "primaryChar": "JESUS", "secondaryChar": "NONE", "moodEmoji": "🫒", "propEmoji": "🌙", "expression": "WORRIED"},
+      {"id": "s86_2", "title": "L'ange console Jésus pendant Sa prière", "backdrop": "DESERT_NIGHT", "primaryChar": "JESUS", "secondaryChar": "ANGEL", "moodEmoji": "🙏", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s86_3", "title": "La paix et le courage retrouvés", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🛡️", "propEmoji": "💛", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelait le jardin plein d'oliviers où Jésus pria ?", "options": ["Gethsémané", "Éden", "Cana"], "correctIndex": 0, "explanation": "Oui ! Le jardin paisible de Gethsémané. 🫒"},
+      {"question": "Qu'a fait Jésus quand Son cœur était très triste ?", "options": ["Il a prié Dieu Son Père", "Il s'est fâché", "Il s'est enfui"], "correctIndex": 0, "explanation": "Bravo ! La prière est le meilleur refuge dans la tristesse. 🙏"},
+      {"question": "Qui est venu encourager Jésus dans le jardin ?", "options": ["Un ange du ciel", "Un roi", "Un soldat"], "correctIndex": 0, "explanation": "Exact ! Dieu a envoyé un ange pour fortifier Jésus. 👼"},
+      {"question": "Qu'a dit Jésus dans Sa prière ?", "options": ["« Que Ta volonté se fasse »", "« J'abandonne tout »", "Rien"], "correctIndex": 0, "explanation": "Super ! Jésus faisait entièrement confiance à Son Père. 💛"},
+      {"question": "Que peux-tu faire quand tu es inquiet le soir ?", "options": ["Parler doucement à Dieu dans une prière", "Tout garder pour toi", "Crier"], "correctIndex": 0, "explanation": "Très bien ! Dieu écoute chaque petite prière avec tendresse. ✨"}
+    ]
+  },
+  {
+    "id": 87, "moduleId": 9, "title": "L'Amour Plus Fort que Tout", "reference": "Luc 23:33–46", "testament": "NOUVEAU", "emoji": "💛", "durationMinutes": 3,
+    "moral": "L'amour et le pardon de Jésus pour nous sont plus grands que tout !",
+    "paragraphs": [
+      "Le vendredi, des chefs jaloux arrêtèrent Jésus bien qu'Il n'ait jamais fait de mal à personne et n'ait fait que guérir et aimer. 🕊️",
+      "Jésus fut cloué sur une croix en bois sur une colline. Même dans cette grande souffrance, Il montra un cœur rempli de bonté incroyable !",
+      "Il pria tout doucement pour ceux qui lui faisaient du mal : « Père, pardonne-leur, car ils ne savent pas ce qu'ils font. » 🙏",
+      "À côté de Lui, un homme qui regrettait ses fautes reçut la douce promesse de Jésus : « Aujourd'hui même, tu seras avec Moi au paradis ! »",
+      "Jésus a tant aimé chacun de nous qu'Il a offert Sa vie par amour, ouvrant pour toujours le chemin entre nous et Dieu ! 💛"
+    ],
+    "scenes": [
+      {"id": "s87_1", "title": "Le pardon immense du cœur de Jésus", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "🕊️", "expression": "PEACEFUL"},
+      {"id": "s87_2", "title": "La promesse d'amour et d'espérance", "backdrop": "DESERT_NIGHT", "primaryChar": "JESUS", "secondaryChar": "PRISONER", "moodEmoji": "💛", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s87_3", "title": "Un amour qui ouvre le ciel", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ANGEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌅", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Jésus avait-Il fait quelque chose de mal ?", "options": ["Non, jamais ! Il n'a fait que du bien", "Oui, une erreur", "Parfois"], "correctIndex": 0, "explanation": "Oui ! Jésus était totalement bon et innocent. 🕊️"},
+      {"question": "Qu'a demandé Jésus à Dieu pour ceux qui L'ont blessé ?", "options": ["« Père, pardonne-leur ! »", "« Punis-les vite ! »", "Rien"], "correctIndex": 0, "explanation": "Bravo ! Son amour pardonne même dans les moments les plus durs. 🙏"},
+      {"question": "Qu'a promis Jésus à l'homme qui regrettait à côté de Lui ?", "options": ["« Tu seras avec Moi au paradis »", "« Il est trop tard »", "« Attends dix ans »"], "correctIndex": 0, "explanation": "Exact ! Le pardon de Jésus est toujours ouvert à celui qui le demande. 💛"},
+      {"question": "Pourquoi Jésus a-t-Il traversé cela ?", "options": ["Par amour immense pour nous tous", "Parce qu'Il était faible", "Par accident"], "correctIndex": 0, "explanation": "Super ! C'est le plus grand geste d'amour de toute l'histoire. ✨"},
+      {"question": "Quel grand jour arrive juste trois jours après ?", "options": ["Pâques, le matin de la Résurrection !", "La fin", "L'hiver"], "correctIndex": 0, "explanation": "Oui ! Prépare-toi pour la plus belle surprise de Pâques ! 🌅"}
+    ]
+  },
+  {
+    "id": 88, "moduleId": 9, "title": "Le Matin Joyeux de Pâques !", "reference": "Matthieu 28:1–10", "testament": "NOUVEAU", "emoji": "🌅", "durationMinutes": 4,
+    "moral": "Jésus est vivant pour toujours ! La joie et la vie ont gagné !",
+    "paragraphs": [
+      "Tôt le dimanche matin, alors que le soleil rose se levait sur le jardin fleuri, Marie-Madeleine et ses amies marchaient vers le tombeau de Jésus. 🌷",
+      "« Qui va nous aider à rouler la grosse pierre devant l'entrée ? » se demandaient-elles tout bas.",
+      "Mais en arrivant… SURPRISE ! La lourde pierre avait déjà roulé sur le côté ! Un ange lumineux comme un éclair était assis dessus avec un grand sourire ! ✨",
+      "« N'ayez pas peur ! dit l'ange joyeux. Jésus n'est pas ici : Il est ressuscité, Il est VIVANT ! » 🎉",
+      "En courant vite annoncer la nouvelle aux amis, elles rencontrèrent Jésus Lui-même qui leur dit : « Bonjour ! N'ayez plus peur ! » Quel matin de fête ! 🌅"
+    ],
+    "scenes": [
+      {"id": "s88_1", "title": "L'aurore rose sur le jardin", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "NONE", "moodEmoji": "🌷", "propEmoji": "🌅", "expression": "WORRIED"},
+      {"id": "s88_2", "title": "La pierre roulée et l'ange radieux !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ANGEL", "secondaryChar": "MARY", "moodEmoji": "✨", "propEmoji": "🪨", "expression": "SURPRISED"},
+      {"id": "s88_3", "title": "Jésus vivant sourit à Ses amies !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "MARY", "moodEmoji": "🎉", "propEmoji": "🌅", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel jour les amies de Jésus sont-elles allées au tombeau ?", "options": ["Le dimanche matin au lever du soleil", "Le mardi soir", "En plein hiver"], "correctIndex": 0, "explanation": "Oui ! Au tout premier rayon du dimanche matin ! 🌅"},
+      {"question": "Qu'ont-elles vu en arrivant devant le tombeau ?", "options": ["La grosse pierre roulée et un ange rayonnant", "La porte fermée", "Des soldats endormis seulement"], "correctIndex": 0, "explanation": "Bravo ! Le tombeau était ouvert et tout vide ! ✨"},
+      {"question": "Quelle incroyable nouvelle l'ange a-t-il annoncée ?", "options": ["« Jésus est ressuscité, Il est vivant ! »", "« Il dort encore »", "« Revenez demain »"], "correctIndex": 0, "explanation": "Exact ! La vie avait vaincu pour toujours ! 🎉"},
+      {"question": "Qui a dit « Bonjour ! » aux femmes sur le chemin ?", "options": ["Jésus Lui-même, bien vivant !", "Un voisin", "Pierre"], "correctIndex": 0, "explanation": "Super ! Quelle immense joie de Le revoir et de L'entendre ! 💛"},
+      {"question": "Que fête-t-on à Pâques ?", "options": ["La résurrection et la vie nouvelle en Jésus !", "Juste la pluie", "La rentrée des classes"], "correctIndex": 0, "explanation": "Merveilleux ! Pâques est la fête de la plus grande joie ! 🌷"}
+    ]
+  },
+  {
+    "id": 89, "moduleId": 9, "title": "Les Pèlerins sur la Route d'Emmaüs", "reference": "Luc 24:13–35", "testament": "NOUVEAU", "emoji": "🚶", "durationMinutes": 3,
+    "moral": "Jésus marche tout près de nous sur nos chemins, même quand on ne le remarque pas tout de suite.",
+    "paragraphs": [
+      "Ce même dimanche après-midi, deux amis marchaient tout tristes vers le petit village d'Emmaüs en parlant de tout ce qui s'était passé. 🚶",
+      "Un gentil voyageur les rejoignit sur la route et marcha à côté d'eux. C'était Jésus, mais leurs yeux ne Le reconnaissaient pas encore !",
+      "Tout en marchant, Jésus leur expliqua avec passion toutes les histoires de la Bible qui annonçaient ces belles promesses. Leurs cœurs se réchauffèrent ! 🔥",
+      "Arrivés à la maison le soir, ils L'invitèrent : « Reste dîner avec nous, il fait bientôt nuit ! »",
+      "À table, quand Jésus prit le pain, dit merci à Dieu et le rompit… leurs yeux s'ouvrirent ! C'était Jésus ! Ils coururent pleins de joie le raconter à Jérusalem ! 🍞"
+    ],
+    "scenes": [
+      {"id": "s89_1", "title": "Jésus marche avec les deux amis tristes", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "SHEPHERD", "moodEmoji": "🚶", "propEmoji": "💬", "expression": "PEACEFUL"},
+      {"id": "s89_2", "title": "Leurs cœurs s'illuminent en écoutant", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🔥", "propEmoji": "📖", "expression": "HAPPY"},
+      {"id": "s89_3", "title": "Ils reconnaissent Jésus au partage du pain !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "SHEPHERD", "moodEmoji": "🍞", "propEmoji": "✨", "expression": "SURPRISED"}
+    ],
+    "questions": [
+      {"question": "Vers quel village marchaient les deux amis ?", "options": ["Emmaüs", "Bethléem", "Nazareth"], "correctIndex": 0, "explanation": "Oui ! Sur la route calme d'Emmaüs. 🚶"},
+      {"question": "Ont-ils reconnu Jésus dès qu'Il les a rejoints ?", "options": ["Non, pas tout de suite", "Oui, à la seconde", "Ils ne L'ont jamais vu"], "correctIndex": 0, "explanation": "Exact ! Ils étaient si tristes qu'ils ne L'ont pas reconnu d'abord. 😊"},
+      {"question": "Qu'ont-ils ressenti quand Jésus leur expliquait les Écritures ?", "options": ["Un cœur tout chaud et joyeux", "De la fatigue", "De l'ennui"], "correctIndex": 0, "explanation": "Bravo ! Leur cœur brûlait de joie en L'écoutant ! 🔥"},
+      {"question": "À quel moment ont-ils enfin reconnu Jésus ?", "options": ["Quand Il a béni et partagé le pain à table", "En enlevant leurs chaussures", "En ouvrant la fenêtre"], "correctIndex": 0, "explanation": "Super ! Le geste si doux de Jésus leur a ouvert les yeux ! 🍞"},
+      {"question": "Qu'ont-ils fait aussitôt après ?", "options": ["Ils sont retournés vite partager la bonne nouvelle !", "Ils sont allés dormir", "Ils ont gardé le secret"], "correctIndex": 0, "explanation": "Merveilleux ! La joie de Jésus donne envie de courir la partager ! ✨"}
+    ]
+  },
+  {
+    "id": 90, "moduleId": 9, "title": "L'Ascension et la Belle Promesse", "reference": "Actes 1:1–11", "testament": "NOUVEAU", "emoji": "☁️", "durationMinutes": 3,
+    "moral": "Même au ciel, Jésus est toujours avec nous par Son Esprit Saint.",
+    "paragraphs": [
+      "Pendant quarante jours après Pâques, Jésus retrouva Ses amis, mangea avec eux au bord du lac et leur rappela combien Il les aimait. 🐟",
+      "Puis Il les emmena sur la colline des Oliviers et leur fit une merveilleuse promesse : « Je vous enverrai Mon Esprit Saint pour vous donner force et joie ! »",
+      "« Allez partout dans le monde raconter combien Dieu aime chaque enfant et chaque famille ! Et sachez que Je suis avec vous tous les jours ! » 🌍",
+      "Alors, sous leurs yeux émerveillés, Jésus s'éleva doucement vers le ciel et un nuage lumineux L'enveloppa ! ☁️",
+      "Deux anges en blanc sourirent aux disciples : « Un jour, Jésus reviendra dans la joie ! » Et les amis rentrèrent chanter et prier ensemble ! ✨"
+    ],
+    "scenes": [
+      {"id": "s90_1", "title": "Jésus confie Sa mission d'amour à Ses amis", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "FISHERMAN", "moodEmoji": "🌍", "propEmoji": "💛", "expression": "HAPPY"},
+      {"id": "s90_2", "title": "Jésus s'élève doucement dans le nuage lumineux", "backdrop": "HEAVEN_CITY", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "☁️", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s90_3", "title": "Les anges rassurent les disciples joyeux", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ANGEL", "secondaryChar": "FISHERMAN", "moodEmoji": "🕊️", "propEmoji": "🎶", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Combien de jours Jésus est-Il resté avec Ses amis après Pâques ?", "options": ["Quarante jours", "Deux heures", "Cinq ans"], "correctIndex": 0, "explanation": "Oui ! Quarante merveilleux jours pour les encourager. ✨"},
+      {"question": "Quelle promesse spéciale Jésus leur a-t-Il faite ?", "options": ["D'envoyer l'Esprit Saint et d'être toujours avec eux", "De ne plus revenir", "De leur envoyer de l'or"], "correctIndex": 0, "explanation": "Bravo ! L'Esprit Saint est notre guide et consolateur ! 🕊️"},
+      {"question": "Où les amis doivent-ils partager la bonne nouvelle ?", "options": ["Partout dans le monde entier", "Seulement dans une rue", "Nulle part"], "correctIndex": 0, "explanation": "Exact ! L'amour de Dieu est pour tous les pays ! 🌍"},
+      {"question": "Qu'a enveloppé Jésus quand Il est monté au ciel ?", "options": ["Un nuage lumineux", "Un arc-en-ciel vert", "Un ballon"], "correctIndex": 0, "explanation": "Oui ! Une belle nuée L'a accueilli dans la gloire. ☁️"},
+      {"question": "Comment étaient les disciples en rentrant chez eux ?", "options": ["Remplis d'une grande joie !", "Tristes et seuls", "Fâchés"], "correctIndex": 0, "explanation": "Super ! Ils savaient que Jésus restait toujours avec eux ! 💛"}
+    ]
+  }
+]

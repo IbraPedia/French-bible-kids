@@ -1,0 +1,117 @@
+[
+  {
+    "id": 76, "moduleId": 8, "title": "La Minuscule Graine de Moutarde", "reference": "Matthieu 13:31–32", "testament": "NOUVEAU", "emoji": "🌳", "durationMinutes": 3,
+    "moral": "Même tout petit, un geste d'amour grandit comme un grand arbre accueillant.",
+    "paragraphs": [
+      "Jésus montra un jour une graine si minuscule qu'on la voyait à peine au creux de la main : la graine de moutarde ! 🌱",
+      "« Regardez comme elle est toute petite ! dit Jésus avec un clin d'œil. On dirait presque un grain de poussière ! »",
+      "« Pourtant, quand on la plante dans le jardin, elle pousse, elle s'allonge et devient plus grande que toutes les plantes du potager ! » 🌿",
+      "Elle devient un si bel arbre solide que les petits oiseaux colorés viennent chanter et faire leurs nids douillets dans ses branches ! 🐦",
+      "Le Royaume de Dieu commence tout doucement dans notre cœur, puis grandit pour offrir de l'ombre et de la joie à plein d'amis ! 🌳"
+    ],
+    "scenes": [
+      {"id": "s76_1", "title": "Une graine minuscule dans la main", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌱", "propEmoji": "🔍", "expression": "HAPPY"},
+      {"id": "s76_2", "title": "La petite pousse grandit chaque jour", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌿", "propEmoji": "☀️", "expression": "PEACEFUL"},
+      {"id": "s76_3", "title": "Un grand arbre rempli d'oiseaux chanteurs", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "ANGEL", "moodEmoji": "🌳", "propEmoji": "🐦", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment est la graine de moutarde au départ ?", "options": ["Toute minuscule", "Grosse comme un ballon", "Carrée"], "correctIndex": 0, "explanation": "Oui ! C'est l'une des plus petites graines du jardin ! 🌱"},
+      {"question": "Que devient cette petite graine quand elle a bien poussé ?", "options": ["Un grand arbuste solide comme un arbre", "Un caillou", "Une fleur fanée"], "correctIndex": 0, "explanation": "Bravo ! Elle devient immense par rapport à sa taille de départ ! 🌳"},
+      {"question": "Qui vient s'abriter dans ses branches ?", "options": ["Les oiseaux du ciel", "Les poissons", "Les lions"], "correctIndex": 0, "explanation": "Exact ! Les oiseaux y font leurs petits nids tranquilles. 🐦"},
+      {"question": "Que compare Jésus à cette graine ?", "options": ["Le Royaume de Dieu qui grandit", "Un château fort", "Une montre"], "correctIndex": 0, "explanation": "Super ! Même une petite foi grandit énormément ! ✨"},
+      {"question": "Un tout petit geste gentil peut-il avoir un grand effet ?", "options": ["Oui ! Un sourire peut égayer toute une journée", "Non, c'est trop petit", "Jamais"], "correctIndex": 0, "explanation": "Merveilleux ! Les petites graines d'amour changent le monde. 💛"}
+    ]
+  },
+  {
+    "id": 77, "moduleId": 8, "title": "La Perle d'un Grand Prix", "reference": "Matthieu 13:45–46", "testament": "NOUVEAU", "emoji": "🦪", "durationMinutes": 3,
+    "moral": "L'amitié avec Jésus est le plus merveilleux trésor de toute la vie.",
+    "paragraphs": [
+      "Un marchand voyageait de marché en marché à la recherche des plus belles perles nacrées des océans. 🦪",
+      "Il avait déjà vu plein de bijoux brillants, des rubis rouges et des colliers dorés… mais il cherchait la perle la plus parfaite de toutes !",
+      "Un jour, il ouvrit un écrin de velours et son souffle se coupa : devant lui brillait une perle d'une beauté extraordinaire, pure comme la lune ! ✨",
+      "Sans hésiter une seconde, le marchand vendit joyeusement tout ce qu'il possédait juste pour avoir cette unique perle précieuse ! 💎",
+      "Jésus expliqua : « Connaître l'amour de Dieu vaut bien plus que tous les jouets ou les trésors du monde entier ! » 💛"
+    ],
+    "scenes": [
+      {"id": "s77_1", "title": "Le marchand cherche de belles perles", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "PHARAOH", "secondaryChar": "NONE", "moodEmoji": "🦪", "propEmoji": "🔍", "expression": "PEACEFUL"},
+      {"id": "s77_2", "title": "La découverte de la perle brillante !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "PHARAOH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "💎", "expression": "SURPRISED"},
+      {"id": "s77_3", "title": "Le trésor de l'amour de Dieu", "backdrop": "HEAVEN_CITY", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🦪", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que cherchait le marchand dans cette histoire ?", "options": ["De belles perles précieuses", "Des chaussures", "Des tomates"], "correctIndex": 0, "explanation": "Oui ! Il voyageait partout pour trouver de belles perles. 🦪"},
+      {"question": "Qu'a-t-il fait quand il a trouvé la perle parfaite ?", "options": ["Il a tout vendu avec joie pour l'obtenir", "Il l'a laissée là", "Il a pleuré"], "correctIndex": 0, "explanation": "Bravo ! Il savait que rien ne valait plus que ce trésor ! 💎"},
+      {"question": "Que représente cette perle précieuse ?", "options": ["L'amitié avec Dieu et Son Royaume", "Un simple caillou", "De l'argent"], "correctIndex": 0, "explanation": "Exact ! Aimer Dieu est le plus beau trésor de notre cœur. 💛"},
+      {"question": "Le marchand était-il triste d'échanger ses autres objets ?", "options": ["Non, il était rempli de joie !", "Oui, furieux", "Un peu"], "correctIndex": 0, "explanation": "Super ! Quand on trouve le meilleur, on est tout heureux ! ✨"},
+      {"question": "Quel est le plus grand trésor pour un enfant de Dieu ?", "options": ["Savoir qu'on est aimé de Jésus pour toujours", "Avoir 1000 bonbons", "Tout garder"], "correctIndex": 0, "explanation": "Très bien ! L'amour de Jésus ne s'abîme jamais. 🌟"}
+    ]
+  },
+  {
+    "id": 78, "moduleId": 8, "title": "Le Trésor Caché dans le Champ", "reference": "Matthieu 13:44", "testament": "NOUVEAU", "emoji": "🗺️", "durationMinutes": 3,
+    "moral": "Découvrir la Parole de Dieu est une aventure pleine de joie !",
+    "paragraphs": [
+      "Un ouvrier travaillait un matin dans un grand champ plein de fleurs sauvages quand sa bêche fit soudain « CLONG ! » contre quelque chose de dur ! ⛏️",
+      "Curieux, il creusa doucement autour avec ses mains… et découvrit un vieux coffre en bois rempli d'or et de pierres étincelantes ! 💰",
+      "Son cœur se mit à battre à toute allure ! Il recouvrit vite le trésor d'un peu d'herbe pour le protéger.",
+      "Puis il courut tout joyeux vendre ses affaires pour acheter légalement tout le champ et garder ce merveilleux trésor ! 🗺️",
+      "Jésus raconta cette petite histoire pour dire que découvrir l'amitié de Dieu est la plus excitante et joyeuse des découvertes ! ✨"
+    ],
+    "scenes": [
+      {"id": "s78_1", "title": "CLONG ! Quelque chose brille sous la terre", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "NONE", "moodEmoji": "⛏️", "propEmoji": "🌿", "expression": "SURPRISED"},
+      {"id": "s78_2", "title": "Un coffre au trésor rempli de lumière", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💰", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s78_3", "title": "La joie d'avoir trouvé le vrai trésor", "backdrop": "RESURRECTION_DAWN", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🗺️", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qu'a trouvé l'homme en creusant dans le champ ?", "options": ["Un trésor caché", "Une vieille chaussette", "Un ballon"], "correctIndex": 0, "explanation": "Oui ! Un magnifique coffre rempli de richesses ! 💰"},
+      {"question": "Avec quel sentiment est-il allé acheter le champ ?", "options": ["Avec une immense joie", "Avec colère", "En pleurant"], "correctIndex": 0, "explanation": "Bravo ! C'est la joie qui l'a poussé à agir vite ! 😊"},
+      {"question": "Pourquoi a-t-il caché le trésor avant d'acheter le champ ?", "options": ["Pour le protéger en attendant d'acheter le terrain", "Pour l'oublier", "Parce qu'il n'en voulait pas"], "correctIndex": 0, "explanation": "Exact ! Il voulait acheter honnêtement le champ tout entier. 🗺️"},
+      {"question": "Que veut montrer Jésus par cette parabole ?", "options": ["Que la vie avec Dieu est pleine de joie et de valeur", "Qu'il faut creuser dans le jardin", "Qu'il faut aimer l'or"], "correctIndex": 0, "explanation": "Super ! Jésus est notre plus précieux trésor. ✨"},
+      {"question": "Où trouvons-nous chaque jour les trésors de Dieu ?", "options": ["Dans la Bible et dans l'amour autour de nous", "Sous le canapé", "Dans les nuages"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque histoire lue ici est une pépite d'or ! 📖"}
+    ]
+  },
+  {
+    "id": 79, "moduleId": 8, "title": "La Générosité du Maître de la Vigne", "reference": "Matthieu 20:1–16", "testament": "NOUVEAU", "emoji": "🍇", "durationMinutes": 3,
+    "moral": "Ne soyons pas jaloux quand Dieu est généreux avec nos amis !",
+    "paragraphs": [
+      "Un gentil fermier avait besoin d'aide pour cueillir ses beaux raisins violets bien mûrs. Tôt le matin, il engagea des ouvriers pour une pièce d'argent. 🍇",
+      "À midi, puis encore l'après-midi, il vit d'autres personnes qui attendaient tristement du travail et les invita aussi dans sa vigne !",
+      "Même tout à la fin de la journée, à dix-sept heures, il accueillit ceux qui n'avaient encore rien trouvé et les invita à cueillir avec joie.",
+      "Le soir venu, le bon maître paya à TOUS exactement la même belle pièce d'argent pour qu'aucune famille n'ait faim le soir ! 💰",
+      "Ceux du matin râlèrent un peu, mais le maître sourit avec bonté : « Je suis juste avec vous… alors pourquoi être jaloux si je suis généreux avec les autres ? » 💛"
+    ],
+    "scenes": [
+      {"id": "s79_1", "title": "La cueillette joyeuse des raisins", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "🍇", "propEmoji": "🧺", "expression": "HAPPY"},
+      {"id": "s79_2", "title": "Le bon maître invite encore en fin de journée", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "SHEPHERD", "moodEmoji": "🌅", "propEmoji": "🤝", "expression": "PEACEFUL"},
+      {"id": "s79_3", "title": "La générosité qui aide toutes les familles", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🪙", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel fruit récoltait-on dans l'histoire ?", "options": ["Des raisins dans une vigne", "Des bananes", "Des fraises"], "correctIndex": 0, "explanation": "Oui ! De belles grappes de raisin mûr. 🍇"},
+      {"question": "À qui le maître a-t-il donné une pièce entière le soir ?", "options": ["À tous les ouvriers, même les derniers", "Seulement aux plus forts", "À personne"], "correctIndex": 0, "explanation": "Bravo ! Il voulait que chaque famille puisse acheter son pain du soir. 🥖"},
+      {"question": "Pourquoi les premiers ouvriers ont-ils râlé ?", "options": ["Parce qu'ils étaient jaloux de la générosité du maître", "Ils avaient reçu moins que promis", "Ils avaient soif"], "correctIndex": 0, "explanation": "Exact ! Pourtant ils avaient bien reçu exactement ce qui était promis ! 😟"},
+      {"question": "Qu'a répondu le maître avec douceur ?", "options": ["« Es-tu jaloux parce que je suis bon ? »", "« Tu as raison »", "« Va-t'en ! »"], "correctIndex": 0, "explanation": "Super ! La bonté de Dieu est généreuse pour tout le monde. 💛"},
+      {"question": "Que devons-nous ressentir quand un ami reçoit un beau cadeau ?", "options": ["Être contents pour lui !", "Être jaloux", "Cacher le cadeau"], "correctIndex": 0, "explanation": "Très bien ! Se réjouir pour les autres rend le cœur très léger. 🎉"}
+    ]
+  },
+  {
+    "id": 80, "moduleId": 8, "title": "La Maison Bâtie sur le Roc", "reference": "Matthieu 7:24–27", "testament": "NOUVEAU", "emoji": "🪨", "durationMinutes": 3,
+    "moral": "Mettre en pratique les paroles d'amour de Jésus rend notre cœur solide comme un roc.",
+    "paragraphs": [
+      "Deux bâtisseurs décidèrent un jour de construire chacun une jolie petite maison. Le premier était pressé : il construisit directement sur le sable doux de la plage ! 🏖️",
+      "Le second prit son temps, chercha un endroit solide et bâtit sa maison bien solidement sur un gros rocher ferme ! 🪨",
+      "Bientôt, de gros nuages noirs arrivèrent ! La pluie tomba à verse, la rivière monta et le vent souffla très fort contre les deux maisons ! ⛈️",
+      "CRAC ! La maison posée sur le sable mou glissa et s'écroula dans les vagues ! Mais la maison sur le rocher ne bougea pas d'un millimètre !",
+      "Jésus sourit à tous les enfants : « Celui qui écoute Mes paroles d'amour et les met en pratique est comme le bâtisseur sage sur le roc ! » 🏡"
+    ],
+    "scenes": [
+      {"id": "s80_1", "title": "Une maison sur le sable et une sur le roc", "backdrop": "RED_SEA", "primaryChar": "KID_FRIEND", "secondaryChar": "SHEPHERD", "moodEmoji": "🏠", "propEmoji": "🪨", "expression": "HAPPY"},
+      {"id": "s80_2", "title": "La tempête souffle sur les deux maisons", "backdrop": "ARK_OCEAN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "⛈️", "propEmoji": "💨", "expression": "BRAVE"},
+      {"id": "s80_3", "title": "La maison sur le rocher reste debout en paix !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🏡", "propEmoji": "✨", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Sur quoi le premier homme pressé a-t-il construit sa maison ?", "options": ["Sur le sable", "Sur un rocher", "Dans un arbre"], "correctIndex": 0, "explanation": "Oui ! Le sable était facile mais pas solide du tout. 🏖️"},
+      {"question": "Sur quoi le bâtisseur sage a-t-il construit ?", "options": ["Sur le roc solide", "Sur l'eau", "Sur la neige"], "correctIndex": 0, "explanation": "Bravo ! Le roc offrait une base très sûre ! 🪨"},
+      {"question": "Que s'est-il passé quand la tempête est arrivée ?", "options": ["La maison sur le roc est restée bien debout", "Toutes deux sont tombées", "Le soleil brillait"], "correctIndex": 0, "explanation": "Exact ! La maison sur le sable est tombée, mais celle sur le roc a tenu bon ! 🏡"},
+      {"question": "Qui est comme le bâtisseur sage selon Jésus ?", "options": ["Celui qui écoute et pratique les paroles de Jésus", "Celui qui court vite", "Celui qui oublie tout"], "correctIndex": 0, "explanation": "Super ! Mettre l'amour en pratique rend notre vie solide. 💛"},
+      {"question": "Comment « bâtir sur le roc » aujourd'hui ?", "options": ["En pardonnant, disant la vérité et aimant son prochain", "En se disputant", "En étant paresseux"], "correctIndex": 0, "explanation": "Merveilleux ! Jésus est le rocher sûr sur lequel on peut toujours s'appuyer. ✨"}
+    ]
+  }
+]

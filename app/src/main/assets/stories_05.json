@@ -1,0 +1,117 @@
+[
+  {
+    "id": 21, "moduleId": 3, "title": "Le Petit Moïse sur le Nil", "reference": "Exode 2", "testament": "ANCIEN", "emoji": "🧺", "durationMinutes": 3,
+    "moral": "Dieu protège les tout-petits et prépare de grands cœurs.",
+    "paragraphs": [
+      "Bien longtemps après Joseph, un nouveau Pharaon qui ne connaissait pas Dieu devint méchant avec la famille d'Israël en Égypte. 🧺",
+      "Une maman courageuse voulut protéger son adorable petit garçon. Elle tressa un petit panier en roseaux bien imperméable comme un mini-bateau.",
+      "Elle déposa doucement le bébé dans le panier au bord des roseaux du grand fleuve Nil, tandis que sa grande sœur Myriam veillait de loin.",
+      "Justement, la princesse d'Égypte vint se baigner ! Elle vit le panier, entendit le bébé gazouiller et eut le cœur tout attendri. 👑",
+      "Myriam proposa alors d'appeler la propre maman du bébé pour s'occuper de lui ! On l'appela Moïse, car il avait été sauvé des eaux. 💧"
+    ],
+    "scenes": [
+      {"id": "s21_1", "title": "Le petit panier sur le fleuve", "backdrop": "ARK_OCEAN", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "🧺", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s21_2", "title": "La princesse découvre bébé Moïse", "backdrop": "EGYPT_PALACE", "primaryChar": "POTIPHAR_WIFE", "secondaryChar": "BABY_JESUS", "moodEmoji": "👑", "propEmoji": "🧺", "expression": "SURPRISED"},
+      {"id": "s21_3", "title": "La grande sœur Myriam aide avec joie", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "💛", "propEmoji": "🌿", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Dans quoi la maman de Moïse l'a-t-elle déposé ?", "options": ["Un panier tressé en roseaux", "Une valise en cuir", "Une boîte en fer"], "correctIndex": 0, "explanation": "Oui ! Un joli panier étanche caché dans les roseaux. 🧺"},
+      {"question": "Qui veillait sur le panier depuis la berge ?", "options": ["Sa grande sœur Myriam", "Un crocodile", "Un soldat"], "correctIndex": 0, "explanation": "Bravo ! Myriam surveillait son petit frère avec amour. 👀"},
+      {"question": "Qui a trouvé le bébé dans l'eau ?", "options": ["La princesse, fille de Pharaon", "Un pêcheur", "Un lion"], "correctIndex": 0, "explanation": "Exact ! La princesse a eu beaucoup de tendresse pour le bébé. 👑"},
+      {"question": "Que signifie le prénom Moïse ?", "options": ["Sauvé des eaux", "Petit soleil", "Grand chanteur"], "correctIndex": 0, "explanation": "Super ! Il a été retiré de l'eau du fleuve Nil. 💧"},
+      {"question": "Qui a pu élever bébé Moïse grâce à Myriam ?", "options": ["Sa propre maman !", "Un magicien", "Personne"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu avait tout merveilleusement organisé. 💛"}
+    ]
+  },
+  {
+    "id": 22, "moduleId": 3, "title": "Le Buisson Ardent", "reference": "Exode 3", "testament": "ANCIEN", "emoji": "🔥", "durationMinutes": 3,
+    "moral": "Quand Dieu nous confie une mission, Il nous donne aussi Sa force.",
+    "paragraphs": [
+      "Devenu adulte, Moïse vivait tranquille dans le désert où il gardait les moutons près d'une haute montagne. 🐑",
+      "Un jour, il vit une chose extraordinaire : un buisson brûlait avec de grandes flammes dorées, mais ses feuilles restaient toutes vertes !",
+      "Soudain, la voix de Dieu l'appela depuis le feu : « Moïse, Moïse ! Enlève tes sandales, car cet endroit est saint. » 🔥",
+      "Dieu lui dit : « J'ai entendu les pleurs de Mon peuple en Égypte. Va dire à Pharaon de les laisser partir libres ! »",
+      "« Moi ? Mais je bégaie un peu ! » s'inquiéta Moïse. Dieu le rassura : « N'aie pas peur, Je serai toujours avec toi, et ton frère Aaron t'aidera ! » ✨"
+    ],
+    "scenes": [
+      {"id": "s22_1", "title": "Moïse garde les moutons", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "MOSES", "secondaryChar": "SHEPHERD", "moodEmoji": "🐑", "propEmoji": "⛰️", "expression": "PEACEFUL"},
+      {"id": "s22_2", "title": "Le buisson qui brûle sans se consumer", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🔥", "propEmoji": "🌿", "expression": "SURPRISED"},
+      {"id": "s22_3", "title": "Dieu encourage Moïse", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🪄", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Qu'y avait-il d'étonnant avec le buisson ?", "options": ["Il brûlait sans être détruit", "Il parlait en chanson", "Il poussait sous l'eau"], "correctIndex": 0, "explanation": "Bravo ! Ses feuilles restaient intactes dans les flammes ! 🔥"},
+      {"question": "Que demanda Dieu à Moïse par respect ?", "options": ["D'enlever ses sandales", "De mettre un chapeau", "De sauter très haut"], "correctIndex": 0, "explanation": "Oui ! Le sol était saint en présence de Dieu. 👡"},
+      {"question": "Quelle grande mission Dieu donna-t-Il à Moïse ?", "options": ["Libérer le peuple d'Israël d'Égypte", "Construire un pont", "Compter les cailloux"], "correctIndex": 0, "explanation": "Exact ! Dieu voulait libérer Son peuple de l'esclavage. 🕊️"},
+      {"question": "Pourquoi Moïse hésitait-il ?", "options": ["Il avait peur de ne pas savoir bien parler", "Il n'aimait pas marcher", "Il avait trop de travail"], "correctIndex": 0, "explanation": "Oui, il se sentait timide, mais Dieu promit de l'aider ! 💪"},
+      {"question": "Qui allait accompagner Moïse ?", "options": ["Son frère Aaron et Dieu Lui-même", "Un lion", "Personne"], "correctIndex": 0, "explanation": "Super ! À deux et avec Dieu, on est beaucoup plus fort. ✨"}
+    ]
+  },
+  {
+    "id": 23, "moduleId": 3, "title": "Le Bâton devant Pharaon", "reference": "Exode 5 & 7", "testament": "ANCIEN", "emoji": "🪄", "durationMinutes": 3,
+    "moral": "La vraie puissance appartient à Dieu, plus grand que tous les rois.",
+    "paragraphs": [
+      "Moïse et son frère Aaron rentrèrent courageusement en Égypte et entrèrent dans la grande salle du palais de Pharaon. 🏛️",
+      "« Dieu dit : Laisse partir Mon peuple pour qu'il soit libre ! » annonça Moïse d'une voix ferme.",
+      "Pharaon fronça les sourcils et refusa tout net : « Je ne connais pas votre Dieu, et personne ne partira ! »",
+      "Alors, devant tout le monde, Aaron jeta son bâton de bois par terre : par la puissance de Dieu, le bâton se transforma en serpent ! 🐍",
+      "Pharaon garda un cœur dur comme la pierre, mais Moïse savait que Dieu allait montrer Sa bonté et Sa grandeur pour libérer les familles. ✨"
+    ],
+    "scenes": [
+      {"id": "s23_1", "title": "Moïse et Aaron devant Pharaon", "backdrop": "EGYPT_PALACE", "primaryChar": "MOSES", "secondaryChar": "PHARAOH", "moodEmoji": "🗣️", "propEmoji": "👑", "expression": "BRAVE"},
+      {"id": "s23_2", "title": "Le signe du bâton de Dieu", "backdrop": "EGYPT_PALACE", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🪄", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s23_3", "title": "Le courage de persévérer", "backdrop": "DESERT_NIGHT", "primaryChar": "MOSES", "secondaryChar": "ANGEL", "moodEmoji": "💪", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Que demandèrent Moïse et Aaron à Pharaon ?", "options": ["De laisser partir le peuple libre", "De leur donner des bijoux", "De construire une pyramide"], "correctIndex": 0, "explanation": "Oui ! Ils demandaient la liberté au nom de Dieu. 🕊️"},
+      {"question": "Comment Pharaon a-t-il répondu ?", "options": ["Il a refusé avec orgueil", "Il a dit oui tout de suite", "Il a offert un gâteau"], "correctIndex": 0, "explanation": "Exact ! Son cœur restait fermé et entêté. 😠"},
+      {"question": "En quoi le bâton s'est-il transformé devant le roi ?", "options": ["En serpent", "En fleur", "En épée"], "correctIndex": 0, "explanation": "Bravo ! C'était un signe de la puissance de Dieu. 🪄"},
+      {"question": "Qui aidait Moïse à parler devant Pharaon ?", "options": ["Son frère Aaron", "Son neveu", "Un berger inconnu"], "correctIndex": 0, "explanation": "Oui ! Aaron parlait avec courage aux côtés de Moïse. 🤝"},
+      {"question": "Moïse a-t-il abandonné après le premier refus ?", "options": ["Non, il a gardé confiance en Dieu", "Oui, il est rentré dormir", "Il a pleuré"], "correctIndex": 0, "explanation": "Très bien ! La persévérance avec Dieu finit par gagner. ✨"}
+    ]
+  },
+  {
+    "id": 24, "moduleId": 3, "title": "Les Signes en Égypte", "reference": "Exode 7–11", "testament": "ANCIEN", "emoji": "🐸", "durationMinutes": 3,
+    "moral": "Écouter avec un cœur doux évite bien des ennuis.",
+    "paragraphs": [
+      "Comme Pharaon refusait toujours d'écouter, Dieu envoya des signes étonnants en Égypte pour montrer qu'Il est le seul vrai Créateur. 🐸",
+      "Des milliers de petites grenouilles sautèrent partout dans les maisons et les cuisines ! Pharaon promit de dire oui… puis changea d'avis dès que les grenouilles partirent.",
+      "Ensuite, il y eut de gros nuages de sauterelles, puis une nuit sombre pendant trois jours sur le palais, alors que les maisons d'Israël restaient bien éclairées ! 💡",
+      "Chaque fois, Moïse priait pour que le signe s'arrête quand Pharaon demandait pardon, montrant la patience de Dieu.",
+      "Mais Pharaon s'entêtait encore, jusqu'à la nuit décisive où Dieu allait enfin ouvrir les portes de la liberté. 🕊️"
+    ],
+    "scenes": [
+      {"id": "s24_1", "title": "Des grenouilles partout au palais", "backdrop": "EGYPT_PALACE", "primaryChar": "PHARAOH", "secondaryChar": "MOSES", "moodEmoji": "🐸", "propEmoji": "👑", "expression": "SURPRISED"},
+      {"id": "s24_2", "title": "La lumière dans les maisons d'Israël", "backdrop": "DESERT_NIGHT", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💡", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s24_3", "title": "Moïse prie pour la fin de l'épreuve", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MOSES", "secondaryChar": "ANGEL", "moodEmoji": "🙏", "propEmoji": "🕊️", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Quel petit animal sautait partout dans le palais ?", "options": ["Des grenouilles", "Des pingouins", "Des kangourous"], "correctIndex": 0, "explanation": "Oui ! Des grenouilles sautillaient partout ! 🐸"},
+      {"question": "Que faisait Pharaon dès que les signes s'arrêtaient ?", "options": ["Il oubliait sa promesse et refusait encore", "Il organisait un festin", "Il partait en voyage"], "correctIndex": 0, "explanation": "Exact ! Il ne tenait pas parole. 😟"},
+      {"question": "Comment étaient les maisons d'Israël pendant la grande obscurité ?", "options": ["Elles avaient de la lumière", "Elles étaient sous l'eau", "Elles étaient gelées"], "correctIndex": 0, "explanation": "Bravo ! Dieu protégeait toujours Son peuple. 💡"},
+      {"question": "Que faisait Moïse quand Pharaon demandait de l'aide ?", "options": ["Il priait Dieu pour arrêter l'épreuve", "Il riait", "Il partait"], "correctIndex": 0, "explanation": "Oui ! Moïse montrait de la patience et priait. 🙏"},
+      {"question": "Quelle leçon apprend-on de Pharaon ?", "options": ["Il vaut mieux avoir un cœur qui sait écouter", "Il faut être têtu", "Il faut faire semblant"], "correctIndex": 0, "explanation": "Super ! Un cœur doux comprend vite le bien. 💛"}
+    ]
+  },
+  {
+    "id": 25, "moduleId": 3, "title": "La Nuit de la Pâque et le Départ", "reference": "Exode 12", "testament": "ANCIEN", "emoji": "🥖", "durationMinutes": 3,
+    "moral": "Dieu protège ceux qui Lui font confiance et ouvre la route de la liberté.",
+    "paragraphs": [
+      "Enfin arriva la nuit spéciale appelée la Pâque, qui veut dire « passage ». Chaque famille d'Israël prépara un repas avec du pain sans levain tout plat. 🥖",
+      "Sur le conseil de Moïse, ils mirent un signe de protection sur les montants de leur porte et restèrent tous ensemble bien prêts à partir.",
+      "Cette nuit-là, Dieu passa au-dessus de leurs maisons et les protégea comme un grand bouclier d'amour.",
+      "Au matin, Pharaon dit enfin : « Allez, partez tous avec vos enfants et vos troupeaux ! » Quel soulagement ! 🎉",
+      "Toute la grande famille d'Israël sortit d'Égypte en chantant merci à Dieu, guidée par un nuage le jour et une lumière de feu la nuit. 🔥"
+    ],
+    "scenes": [
+      {"id": "s25_1", "title": "Le repas de fête en famille", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MOSES", "secondaryChar": "KID_FRIEND", "moodEmoji": "🥖", "propEmoji": "🏠", "expression": "PEACEFUL"},
+      {"id": "s25_2", "title": "Enfin libres de partir !", "backdrop": "EGYPT_PALACE", "primaryChar": "MOSES", "secondaryChar": "SHEPHERD", "moodEmoji": "🎉", "propEmoji": "🕊️", "expression": "HAPPY"},
+      {"id": "s25_3", "title": "La colonne de feu qui guide la nuit", "backdrop": "DESERT_NIGHT", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🔥", "propEmoji": "✨", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Quel genre de pain ont-ils préparé pour partir vite ?", "options": ["Du pain sans levain", "Des croissants au chocolat", "Des baguettes géantes"], "correctIndex": 0, "explanation": "Bravo ! Ils n'ont pas eu le temps d'attendre que la pâte gonfle. 🥖"},
+      {"question": "Comment s'appelle cette fête du passage vers la liberté ?", "options": ["La Pâque", "Noël", "Le Carnaval"], "correctIndex": 0, "explanation": "Oui ! La Pâque rappelle la protection et la liberté données par Dieu. 🕊️"},
+      {"question": "Que fit Pharaon après cette nuit ?", "options": ["Il les laissa enfin partir", "Il les enferma", "Il partit avec eux"], "correctIndex": 0, "explanation": "Exact ! Les portes de l'Égypte se sont enfin ouvertes. 🎉"},
+      {"question": "Comment Dieu guidait-Il le peuple dans le désert ?", "options": ["Un nuage le jour et une lumière de feu la nuit", "Une carte papier", "Un panneau bleu"], "correctIndex": 0, "explanation": "Super ! Dieu montrait Lui-même le chemin jour et nuit. 🔥"},
+      {"question": "Que ressentait le peuple en quittant l'Égypte ?", "options": ["De la joie et de la gratitude", "De la colère", "De l'ennui"], "correctIndex": 0, "explanation": "Très bien ! Ils étaient enfin libres et heureux. 💛"}
+    ]
+  }
+]

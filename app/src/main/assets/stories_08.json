@@ -1,0 +1,118 @@
+[
+  {
+    "id": 36, "moduleId": 4, "title": "Le Petit Samuel à l'Écoute", "reference": "1 Samuel 3", "testament": "ANCIEN", "emoji": "👂", "durationMinutes": 3,
+    "moral": "Même quand on est enfant, Dieu aime nous parler dans le calme du cœur.",
+    "paragraphs": [
+      "Le petit Samuel habitait dans le temple avec le vieux prêtre Éli pour l'aider à allumer les lampes et garder la maison de Dieu propre. 🕯️",
+      "Une nuit paisible, alors que Samuel venait de se coucher dans son petit lit, une voix douce l'appela : « Samuel ! Samuel ! »",
+      "Samuel sauta vite du lit et courut vers Éli : « Me voici, tu m'as appelé ? » Mais Éli répondit : « Non, mon petit, retourne dormir. »",
+      "Cela arriva trois fois ! À la troisième fois, Éli comprit que c'était Dieu qui appelait le petit garçon et lui dit comment répondre. ✨",
+      "Quand Dieu appela de nouveau, Samuel répondit tout doucement : « Parle, Seigneur, Ton serviteur écoute ! » Et Samuel grandit en devenant un sage prophète. 💛"
+    ],
+    "scenes": [
+      {"id": "s36_1", "title": "Samuel aide avec joie au temple", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "KID_FRIEND", "secondaryChar": "ABRAHAM", "moodEmoji": "🕯️", "propEmoji": "🧹", "expression": "HAPPY"},
+      {"id": "s36_2", "title": "Une voix douce appelle dans la nuit", "backdrop": "DESERT_NIGHT", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "👂", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s36_3", "title": "« Parle Seigneur, Ton serviteur écoute ! »", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Où vivait le petit Samuel ?", "options": ["Dans le temple avec le prêtre Éli", "Dans une grotte", "Sur un navire"], "correctIndex": 0, "explanation": "Oui ! Il aidait fidèlement le vieux prêtre Éli. 🕯️"},
+      {"question": "Combien de fois Samuel a-t-il cru qu'Éli l'appelait ?", "options": ["Trois fois", "Dix fois", "Une seule fois"], "correctIndex": 0, "explanation": "Bravo ! Trois fois il s'est levé gentiment en courant ! 🏃"},
+      {"question": "Qui appelait réellement Samuel dans la nuit ?", "options": ["Dieu", "Un hibou", "Le vent"], "correctIndex": 0, "explanation": "Exact ! Dieu avait un message pour ce jeune garçon. ✨"},
+      {"question": "Quelle belle phrase Éli apprit-il à Samuel ?", "options": ["« Parle Seigneur, Ton serviteur écoute »", "« Chut, je dors »", "« À demain »"], "correctIndex": 0, "explanation": "Super ! C'est une très jolie prière pour écouter Dieu. 🙏"},
+      {"question": "Faut-il être adulte pour être important pour Dieu ?", "options": ["Non, Dieu aime parler aux enfants !", "Oui, il faut avoir 50 ans", "Oui, seulement les rois"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque enfant est précieux pour Dieu. 💛"}
+    ]
+  },
+  {
+    "id": 37, "moduleId": 4, "title": "Saül, le Premier Roi d'Israël", "reference": "1 Samuel 9–10", "testament": "ANCIEN", "emoji": "👑", "durationMinutes": 3,
+    "moral": "Un bon chef reste humble et écoute les conseils de Dieu.",
+    "paragraphs": [
+      "Un jour, les habitants d'Israël demandèrent à Samuel d'avoir un roi, comme les autres pays voisins. 👑",
+      "Justement, un grand jeune homme nommé Saül cherchait les ânesses perdues de son papa et vint demander conseil au prophète Samuel.",
+      "Dieu dit à Samuel : « C'est lui que J'ai choisi ! » Samuel versa de l'huile parfumée sur la tête de Saül pour le bénir comme premier roi.",
+      "Au début, Saül était tout timide et se cacha même derrière les bagages ! Mais avec la force de Dieu, il devint un roi courageux.",
+      "Cette histoire rappelle que le plus important pour un chef n'est pas d'être le plus grand, mais d'avoir un cœur qui écoute Dieu. 💛"
+    ],
+    "scenes": [
+      {"id": "s37_1", "title": "Saül cherche les ânesses perdues", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "ABRAHAM", "moodEmoji": "🐴", "propEmoji": "🧭", "expression": "HAPPY"},
+      {"id": "s37_2", "title": "Samuel bénit Saül comme premier roi", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "ABRAHAM", "secondaryChar": "PHARAOH", "moodEmoji": "👑", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s37_3", "title": "Acclamé avec joie par tout le peuple", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "PHARAOH", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "👑", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Qui fut le tout premier roi d'Israël ?", "options": ["Saül", "Joseph", "Jonas"], "correctIndex": 0, "explanation": "Oui ! Saül fut couronné premier roi par Samuel. 👑"},
+      {"question": "Que cherchait Saül avant de rencontrer Samuel ?", "options": ["Les ânesses perdues de son père", "Des fraises", "Une couronne"], "correctIndex": 0, "explanation": "Bravo ! C'est en rendant service à son papa qu'il rencontra Samuel. 🐴"},
+      {"question": "Où le timide Saül s'était-il caché le jour de la fête ?", "options": ["Derrière les bagages", "Dans un puits", "Sur un toit"], "correctIndex": 0, "explanation": "Exact ! Il était très impressionné au début ! 😊"},
+      {"question": "Qu'a versé Samuel sur la tête de Saül ?", "options": ["De l'huile parfumée de bénédiction", "De l'eau froide", "Du sable"], "correctIndex": 0, "explanation": "Oui ! C'était le signe royal pour bénir le nouveau roi. ✨"},
+      {"question": "Qu'est-ce qui rend un chef vraiment grand selon Dieu ?", "options": ["Écouter Dieu avec humilité", "Crier fort", "Être le plus grand en taille"], "correctIndex": 0, "explanation": "Super ! La vraie grandeur est toujours dans le cœur. 💛"}
+    ]
+  },
+  {
+    "id": 38, "moduleId": 4, "title": "David et le Géant Goliath", "reference": "1 Samuel 17", "testament": "ANCIEN", "emoji": "🪨", "durationMinutes": 4,
+    "moral": "Avec Dieu dans notre cœur, aucun géant n'est trop grand !",
+    "paragraphs": [
+      "Un géant immense nommé Goliath, haut comme deux hommes avec une lourde armure en bronze, effrayait toute l'armée d'Israël ! 🛡️",
+      "Personne n'osait avancer. Alors arriva David, un jeune berger joyeux qui apportait du pain et du fromage à ses grands frères.",
+      "« N'ayez pas peur de ce géant ! dit David. Dieu m'a aidé à protéger mes moutons des lions, Il m'aidera encore aujourd'hui ! »",
+      "David refusa la lourde armure du roi. Il choisit cinq cailloux bien lisses dans le ruisseau et prit sa simple fronde de berger. 🪨",
+      "En courant avec courage, David fit tournoyer sa fronde : le petit caillou partit droit et fit tomber le géant Goliath ! Tout le peuple poussa un immense cri de joie ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s38_1", "title": "L'immense géant Goliath fait peur à tous", "backdrop": "BATTLEFIELD", "primaryChar": "GOLIATH", "secondaryChar": "SHEPHERD", "moodEmoji": "😨", "propEmoji": "🛡️", "expression": "WORRIED"},
+      {"id": "s38_2", "title": "David choisit cinq cailloux lisses", "backdrop": "GARDEN_EDEN", "primaryChar": "DAVID", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🪨", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s38_3", "title": "David affronte Goliath avec la foi", "backdrop": "BATTLEFIELD", "primaryChar": "DAVID", "secondaryChar": "GOLIATH", "moodEmoji": "💪", "propEmoji": "🪨", "expression": "BRAVE"},
+      {"id": "s38_4", "title": "La victoire de la confiance en Dieu !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "DAVID", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "👑", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel métier faisait le jeune David ?", "options": ["Berger de moutons", "Forgeron", "Capitaine de bateau"], "correctIndex": 0, "explanation": "Oui ! David gardait les moutons en jouant de la harpe. 🐑"},
+      {"question": "Comment s'appelait l'immense géant ?", "options": ["Goliath", "Pharaon", "Samson"], "correctIndex": 0, "explanation": "Bravo ! Goliath était un géant très impressionnant. 🛡️"},
+      {"question": "Combien de cailloux lisses David prit-il dans le ruisseau ?", "options": ["Cinq cailloux", "Cent cailloux", "Un seul grain de sable"], "correctIndex": 0, "explanation": "Exact ! Il mit cinq petits cailloux dans son sac et n'en utilisa qu'un ! 🪨"},
+      {"question": "Pourquoi David n'avait-il pas peur de Goliath ?", "options": ["Parce qu'il faisait confiance à Dieu", "Parce qu'il avait une fusée", "Parce qu'il était plus grand que lui"], "correctIndex": 0, "explanation": "Super ! David savait que Dieu était plus fort que le géant. ✨"},
+      {"question": "Que nous apprend cette histoire quand on a peur ?", "options": ["Dieu nous donne le courage de vaincre nos « géants »", "Il faut fuir tout de suite", "Seuls les grands gagnent"], "correctIndex": 0, "explanation": "Merveilleux ! Même petit, tu peux être très courageux avec Dieu. 💛"}
+    ]
+  },
+  {
+    "id": 39, "moduleId": 4, "title": "L'Amitié de David et Jonathan", "reference": "1 Samuel 18–20", "testament": "ANCIEN", "emoji": "🤝", "durationMinutes": 3,
+    "moral": "Un véritable ami est loyal, partage de bon cœur et protège ceux qu'il aime.",
+    "paragraphs": [
+      "Au palais, David rencontra Jonathan, le fils du roi Saül. Dès le premier instant, ils devinrent les meilleurs amis du monde ! 🤝",
+      "Jonathan ne fut jamais jaloux de David. Au contraire, il lui offrit son propre manteau royal et son arc en signe d'amitié fidèle.",
+      "Un jour, le roi Saül devint très jaloux de David et voulut lui faire du mal. Jonathan prit la défense de son ami !",
+      "Dans un champ secret, Jonathan prévint David avec un signal de flèches pour qu'il puisse se mettre à l'abri en sécurité. 🏹",
+      "Avant de se séparer, les deux amis se firent une promesse d'amitié éternelle devant Dieu, une promesse que David garda toute sa vie. 💛"
+    ],
+    "scenes": [
+      {"id": "s39_1", "title": "Jonathan offre son manteau à David", "backdrop": "EGYPT_PALACE", "primaryChar": "DAVID", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤝", "propEmoji": "🧥", "expression": "HAPPY"},
+      {"id": "s39_2", "title": "Le signal secret des flèches dans le champ", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "DAVID", "moodEmoji": "🏹", "propEmoji": "🌿", "expression": "BRAVE"},
+      {"id": "s39_3", "title": "Une promesse d'amitié pour toujours", "backdrop": "RESURRECTION_DAWN", "primaryChar": "DAVID", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Qui était le meilleur ami de David ?", "options": ["Jonathan, le prince", "Goliath", "Potiphar"], "correctIndex": 0, "explanation": "Bravo ! Jonathan aimait David comme un frère. 🤝"},
+      {"question": "Jonathan était-il jaloux de David ?", "options": ["Non, il était heureux pour lui et généreux", "Oui, très jaloux", "Il ne lui parlait pas"], "correctIndex": 0, "explanation": "Exact ! La vraie amitié se réjouit du bonheur de son ami. 💛"},
+      {"question": "Quel objet Jonathan utilisa-t-il comme signal secret ?", "options": ["Des flèches et un arc", "Un tambour", "Un cerf-volant"], "correctIndex": 0, "explanation": "Oui ! Il tira des flèches pour prévenir David du danger. 🏹"},
+      {"question": "Comment Jonathan a-t-il aidé David ?", "options": ["Il l'a protégé et averti avec loyauté", "Il l'a enfermé", "Il l'a oublié"], "correctIndex": 0, "explanation": "Super ! Un ami fidèle aide dans les moments difficiles. 🛡️"},
+      {"question": "Quelle qualité brille dans cette histoire ?", "options": ["L'amitié loyale et sans jalousie", "La dispute", "L'égoïsme"], "correctIndex": 0, "explanation": "Très bien ! Prendre soin de ses amis est un cadeau précieux. ✨"}
+    ]
+  },
+  {
+    "id": 40, "moduleId": 4, "title": "La Sagesse du Roi Salomon", "reference": "1 Rois 3 & 6", "testament": "ANCIEN", "emoji": "🦉", "durationMinutes": 3,
+    "moral": "Demander un cœur sage et juste est le plus beau des cadeaux.",
+    "paragraphs": [
+      "Quand David devint âgé, son fils Salomon devint le nouveau roi d'Israël. Salomon était jeune et voulait bien s'occuper de son peuple. 👑",
+      "Une nuit, Dieu apparut à Salomon en rêve et lui dit : « Demande-Moi ce que tu veux, et Je te le donnerai ! »",
+      "Salomon ne demanda ni montagne d'or ni superpouvoirs. Il répondit humblement : « Donne-moi un cœur sage pour être juste et distinguer le bien du mal ! » 🦉",
+      "Dieu fut si touché par cette belle prière qu'Il lui offrit une sagesse extraordinaire, et même la paix et de grandes richesses en plus !",
+      "Salomon bâtit ensuite le magnifique Temple de Jérusalem pour remercier Dieu, et des gens du monde entier venaient écouter ses sages conseils. ✨"
+    ],
+    "scenes": [
+      {"id": "s40_1", "title": "Dieu parle à Salomon en rêve", "backdrop": "DESERT_NIGHT", "primaryChar": "PHARAOH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "👑", "expression": "PEACEFUL"},
+      {"id": "s40_2", "title": "Le don précieux de la sagesse", "backdrop": "EGYPT_PALACE", "primaryChar": "PHARAOH", "secondaryChar": "KID_FRIEND", "moodEmoji": "🦉", "propEmoji": "⚖️", "expression": "HAPPY"},
+      {"id": "s40_3", "title": "La splendeur du Temple de Jérusalem", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "PHARAOH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🏛️", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que proposa Dieu à Salomon pendant son rêve ?", "options": ["« Demande-Moi ce que tu veux »", "« Va courir »", "« Construis un bateau »"], "correctIndex": 0, "explanation": "Oui ! Dieu lui a offert de choisir un cadeau. ✨"},
+      {"question": "Qu'a choisi le jeune roi Salomon ?", "options": ["Un cœur sage et juste", "Des tonnes de bonbons", "Mille chevaux"], "correctIndex": 0, "explanation": "Bravo ! Salomon voulait avant tout bien aider les autres. 🦉"},
+      {"question": "Comment Dieu a-t-Il réagi à ce choix ?", "options": ["Il lui a donné la sagesse et bien plus encore", "Il était déçu", "Il a refusé"], "correctIndex": 0, "explanation": "Exact ! Dieu a admiré le cœur généreux de Salomon. 💛"},
+      {"question": "Quel grand monument Salomon a-t-il construit pour Dieu ?", "options": ["Le beau Temple de Jérusalem", "Une pyramide", "Un phare"], "correctIndex": 0, "explanation": "Oui ! Un lieu magnifique pour prier et chanter. 🏛️"},
+      {"question": "Pourquoi la sagesse est-elle si utile ?", "options": ["Elle aide à faire de bons choix justes", "Elle sert à dormir", "Elle rend fâché"], "correctIndex": 0, "explanation": "Super ! On peut toujours demander à Dieu de la sagesse ! 🙏"}
+    ]
+  }
+]

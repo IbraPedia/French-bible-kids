@@ -1,0 +1,117 @@
+[
+  {
+    "id": 51, "moduleId": 6, "title": "L'Ange Gabriel chez Marie", "reference": "Luc 1:26–38", "testament": "NOUVEAU", "emoji": "👼", "durationMinutes": 3,
+    "moral": "Dire oui à Dieu avec confiance apporte une joie immense au monde.",
+    "paragraphs": [
+      "Dans le joli village de Nazareth vivait une jeune femme douce et gentille appelée Marie, qui aimait beaucoup Dieu. 🌸",
+      "Un jour, une lumière merveilleuse remplit sa maison : c'était l'ange Gabriel ! « N'aie pas peur, Marie ! lui sourit l'ange. Tu es très aimée de Dieu. » 👼",
+      "Gabriel lui annonça une nouvelle extraordinaire : « Tu vas avoir un bébé spécial, le Fils de Dieu, et tu L'appelleras Jésus ! »",
+      "Marie fut d'abord toute surprise ! Puis son cœur se remplit de paix et de confiance envers Dieu.",
+      "« Je suis la servante du Seigneur, répondit-elle simplement. Que tout se passe comme Tu l'as dit ! » Et elle chanta un cantique de joie. ✨"
+    ],
+    "scenes": [
+      {"id": "s51_1", "title": "L'ange Gabriel visite Marie", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "ANGEL", "moodEmoji": "👼", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s51_2", "title": "La douce promesse de Noël", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MARY", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌟", "propEmoji": "💛", "expression": "PEACEFUL"},
+      {"id": "s51_3", "title": "Le chant de joie de Marie", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "ANGEL", "moodEmoji": "🎵", "propEmoji": "🌸", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelait l'ange qui a parlé à Marie ?", "options": ["Gabriel", "David", "Daniel"], "correctIndex": 0, "explanation": "Bravo ! L'ange Gabriel était le messager de Dieu. 👼"},
+      {"question": "Dans quel village habitait Marie ?", "options": ["Nazareth", "Jéricho", "Ninive"], "correctIndex": 0, "explanation": "Oui ! Marie vivait tranquillement à Nazareth. 🌸"},
+      {"question": "Quel prénom devait-elle donner au bébé ?", "options": ["Jésus", "Moïse", "Salomon"], "correctIndex": 0, "explanation": "Exact ! Jésus veut dire « Dieu sauve ». ✨"},
+      {"question": "Comment Marie a-t-elle répondu à Dieu ?", "options": ["Avec confiance : « Que tout se passe comme Tu l'as dit »", "Elle a refusé", "Elle a fui"], "correctIndex": 0, "explanation": "Super ! Le « oui » confiant de Marie a changé l'histoire. 💛"},
+      {"question": "Que ressentait Marie après l'annonce ?", "options": ["Une grande joie et de la paix", "De la colère", "De l'ennui"], "correctIndex": 0, "explanation": "Très bien ! Elle a même composé un beau chant pour Dieu. 🎵"}
+    ]
+  },
+  {
+    "id": 52, "moduleId": 6, "title": "Marie rend visite à Élisabeth", "reference": "Luc 1:39–56", "testament": "NOUVEAU", "emoji": "🤗", "durationMinutes": 3,
+    "moral": "Partager nos belles nouvelles avec nos proches double la joie !",
+    "paragraphs": [
+      "Tout heureuse, Marie partit vite dans les collines rendre visite à sa cousine Élisabeth, qui attendait elle aussi un bébé surprise, le petit Jean ! 🌿",
+      "Dès que Marie franchit la porte et dit « Bonjour ! », le bébé dans le ventre d'Élisabeth fit un petit bond de joie !",
+      "Élisabeth sourit tendrement à Marie : « Tu es bénie entre toutes les femmes, et heureux le petit enfant que tu vas accueillir ! » 🤗",
+      "Les deux cousines se serrèrent dans les bras en remerciant Dieu pour Ses merveilleux cadeaux.",
+      "Alors Marie chanta son grand poème de louange, le Magnificat, pour célébrer la bonté de Dieu envers les petits et les humbles. 🎶"
+    ],
+    "scenes": [
+      {"id": "s52_1", "title": "Marie voyage dans les collines fleuries", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "NONE", "moodEmoji": "🌿", "propEmoji": "🌸", "expression": "HAPPY"},
+      {"id": "s52_2", "title": "Les retrouvailles joyeuses avec Élisabeth", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "💛", "expression": "HAPPY"},
+      {"id": "s52_3", "title": "Le chant d'action de grâce", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MARY", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🎶", "propEmoji": "✨", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Chez qui Marie est-elle allée partager sa joie ?", "options": ["Chez sa cousine Élisabeth", "Chez Pharaon", "À Rome"], "correctIndex": 0, "explanation": "Oui ! Élisabeth était sa chère cousine. 🤗"},
+      {"question": "Quel bébé attendait Élisabeth ?", "options": ["Jean-Baptiste", "Goliath", "Noé"], "correctIndex": 0, "explanation": "Bravo ! C'était Jean, qui préparera le chemin pour Jésus. 👶"},
+      {"question": "Que s'est-il passé quand Marie a salué Élisabeth ?", "options": ["Le bébé d'Élisabeth a bondi de joie", "Il a neigé", "Elles ont dormi"], "correctIndex": 0, "explanation": "Exact ! Quelle émotion pleine de tendresse ! 💛"},
+      {"question": "Qu'a fait Marie pour remercier Dieu ?", "options": ["Elle a chanté un beau cantique", "Elle a boudé", "Elle est partie"], "correctIndex": 0, "explanation": "Super ! Elle a loué Dieu de tout son cœur. 🎶"},
+      {"question": "Pourquoi est-ce chouette de partager les bonnes nouvelles ?", "options": ["Parce que la joie grandit quand on la partage", "Pour se vanter", "Pour rien"], "correctIndex": 0, "explanation": "Très bien ! La joie partagée est deux fois plus belle. ✨"}
+    ]
+  },
+  {
+    "id": 53, "moduleId": 6, "title": "La Naissance à Bethléem", "reference": "Luc 2:1–7", "testament": "NOUVEAU", "emoji": "👶", "durationMinutes": 4,
+    "moral": "Le plus grand Roi est venu tout simplement, avec humilité et douceur.",
+    "paragraphs": [
+      "Joseph et Marie durent faire un long voyage jusqu'à Bethléem. Marie montait un gentil petit âne gris tandis que Joseph marchait à côté. 🫏",
+      "Quand ils arrivèrent le soir, toutes les auberges de la ville étaient déjà complètes ! Pas une seule chambre libre.",
+      "Un aubergiste bienveillant leur proposa un abri calme et chaud dans une petite étable avec les animaux : un bœuf et le petit âne. 🌟",
+      "Cette nuit-là, sous les étoiles brillantes, le petit Jésus naquit ! Marie L'enveloppa dans de doux langes bien chauds.",
+      "Elle coucha doucement le bébé dans une mangeoire remplie de paille dorée. C'était la plus belle et la plus douce nuit de Noël ! 👶"
+    ],
+    "scenes": [
+      {"id": "s53_1", "title": "Le voyage vers Bethléem", "backdrop": "DESERT_NIGHT", "primaryChar": "MARY", "secondaryChar": "SHEPHERD", "moodEmoji": "🫏", "propEmoji": "🌟", "expression": "PEACEFUL"},
+      {"id": "s53_2", "title": "L'étable calme et chaleureuse", "backdrop": "BETHLEHEM_STABLE", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "👶", "propEmoji": "🕯️", "expression": "HAPPY"},
+      {"id": "s53_3", "title": "Jésus dort paisiblement dans la crèche", "backdrop": "BETHLEHEM_STABLE", "primaryChar": "BABY_JESUS", "secondaryChar": "ANGEL", "moodEmoji": "✨", "propEmoji": "⭐", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Dans quelle ville Jésus est-Il né ?", "options": ["Bethléem", "Nazareth", "Jéricho"], "correctIndex": 0, "explanation": "Bravo ! Jésus est né à Bethléem, comme annoncé par les prophètes ! ⭐"},
+      {"question": "Pourquoi Joseph et Marie sont-ils allés dans une étable ?", "options": ["Toutes les auberges étaient pleines", "Ils préféraient le froid", "Ils aimaient courir"], "correctIndex": 0, "explanation": "Oui ! Il n'y avait plus de place dans l'hôtellerie. 🏠"},
+      {"question": "Qu'a servi de berceau pour le petit Jésus ?", "options": ["Une mangeoire avec de la paille douce", "Un lit en or", "Une barque"], "correctIndex": 0, "explanation": "Exact ! Une simple crèche toute chaude. 👶"},
+      {"question": "Qui veillait avec amour sur le bébé ?", "options": ["Marie et Joseph", "Des soldats", "Personne"], "correctIndex": 0, "explanation": "Oui ! Ils étaient émerveillés devant leur petit garçon. 💛"},
+      {"question": "Que nous montre la naissance simple de Jésus ?", "options": ["Que Dieu aime l'humilité et la simplicité", "Qu'il faut être riche", "Que Noël c'est juste des jouets"], "correctIndex": 0, "explanation": "Super ! L'amour est le plus grand trésor de Noël. ✨"}
+    ]
+  },
+  {
+    "id": 54, "moduleId": 6, "title": "Les Bergers et le Chœur des Anges", "reference": "Luc 2:8–20", "testament": "NOUVEAU", "emoji": "🐑", "durationMinutes": 3,
+    "moral": "Dieu invite tout le monde, même les plus humbles bergers, à Sa grande fête !",
+    "paragraphs": [
+      "Non loin de Bethléem, des bergers gardaient leurs moutons endormis dans les collines silencieuses autour d'un petit feu. 🐑",
+      "Soudain, le ciel noir s'illumina comme en plein jour ! Un ange rayonnant apparut devant eux : « N'ayez pas peur ! Je vous apporte une grande joie ! » ✨",
+      "« Aujourd'hui à Bethléem est né un Sauveur ! Vous Le trouverez couché dans une mangeoire ! » Puis tout un chœur d'anges chanta : « Gloire à Dieu et paix sur la terre ! » 🎶",
+      "Les bergers coururent vite jusqu'à l'étable pour voir l'Enfant Jésus et racontèrent à Marie ce que les anges avaient chanté.",
+      "En repartant vers leurs troupeaux, les bergers chantaient et remerciaient Dieu de tout leur cœur ! 💛"
+    ],
+    "scenes": [
+      {"id": "s54_1", "title": "Le ciel s'illumine pour les bergers", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "ANGEL", "moodEmoji": "✨", "propEmoji": "🐑", "expression": "SURPRISED"},
+      {"id": "s54_2", "title": "Le chœur joyeux des anges chante", "backdrop": "HEAVEN_CITY", "primaryChar": "ANGEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🎶", "propEmoji": "⭐", "expression": "HAPPY"},
+      {"id": "s54_3", "title": "Les bergers adorent le petit Jésus", "backdrop": "BETHLEHEM_STABLE", "primaryChar": "SHEPHERD", "secondaryChar": "BABY_JESUS", "moodEmoji": "🐑", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "À qui les anges ont-ils annoncé la naissance en premier ?", "options": ["Aux bergers dans les champs", "Aux généraux romains", "Aux marchands"], "correctIndex": 0, "explanation": "Oui ! Les humbles bergers furent les premiers invités ! 🐑"},
+      {"question": "Qu'ont chanté les nombreux anges dans le ciel ?", "options": ["« Gloire à Dieu et paix sur la terre ! »", "« Bonne nuit »", "« Vive le vent »"], "correctIndex": 0, "explanation": "Bravo ! Un chant magnifique de paix et de joie ! 🎶"},
+      {"question": "Qu'ont fait les bergers après avoir entendu les anges ?", "options": ["Ils ont couru voir le bébé Jésus", "Ils se sont rendormis", "Ils ont pris la fuite"], "correctIndex": 0, "explanation": "Exact ! Ils étaient trop heureux pour attendre ! 🏃"},
+      {"question": "Comment les bergers ont-ils reconnu Jésus ?", "options": ["Couché dans une mangeoire", "Sur un trône en or", "Dans un jardin"], "correctIndex": 0, "explanation": "Oui ! L'ange leur avait donné ce doux indice. 👶"},
+      {"question": "Que faisaient les bergers en rentrant ?", "options": ["Ils louaient et remerciaient Dieu", "Ils pleuraient", "Ils oubliaient tout"], "correctIndex": 0, "explanation": "Super ! Rencontrer Jésus remplit de joie ! ✨"}
+    ]
+  },
+  {
+    "id": 55, "moduleId": 6, "title": "L'Étoile et les Rois Mages", "reference": "Matthieu 2:1–12", "testament": "NOUVEAU", "emoji": "⭐", "durationMinutes": 3,
+    "moral": "Offrir le meilleur de notre cœur est le plus beau cadeau pour Jésus.",
+    "paragraphs": [
+      "Très loin à l'Est, des savants appelés Mages observaient les étoiles chaque nuit. Un soir, ils virent briller une étoile toute nouvelle, immense et dorée ! ⭐",
+      "Ils comprirent qu'un Roi merveilleux venait de naître ! Alors ils chargèrent leurs chameaux et suivirent l'étoile brillante pendant de longs jours.",
+      "L'étoile s'arrêta juste au-dessus de la maison où grandissait le petit Jésus avec Marie et Joseph ! ✨",
+      "Les Mages entrèrent avec beaucoup de respect et offrirent trois précieux cadeaux : de l'or brillant, de l'encens parfumé et de la myrrhe.",
+      "Puis Dieu les avertit dans un rêve de rentrer par un autre chemin pour protéger le petit Jésus. Ils rentrèrent chez eux remplis de joie ! 🎁"
+    ],
+    "scenes": [
+      {"id": "s55_1", "title": "Les Mages suivent la grande étoile", "backdrop": "DESERT_NIGHT", "primaryChar": "PHARAOH", "secondaryChar": "ABRAHAM", "moodEmoji": "⭐", "propEmoji": "🐪", "expression": "SURPRISED"},
+      {"id": "s55_2", "title": "L'étoile brille sur la maison de Jésus", "backdrop": "BETHLEHEM_STABLE", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "✨", "propEmoji": "🌟", "expression": "PEACEFUL"},
+      {"id": "s55_3", "title": "Les trois précieux cadeaux offerts avec joie", "backdrop": "BETHLEHEM_STABLE", "primaryChar": "PHARAOH", "secondaryChar": "BABY_JESUS", "moodEmoji": "🎁", "propEmoji": "👑", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qu'est-ce qui a guidé les Mages jusqu'à Jésus ?", "options": ["Une étoile brillante", "Une boussole", "Un nuage de pluie"], "correctIndex": 0, "explanation": "Oui ! Une magnifique étoile dans le ciel de nuit. ⭐"},
+      {"question": "Quels trois cadeaux les Mages ont-ils offerts ?", "options": ["Or, encens et myrrhe", "Chocolat, jouets et livres", "Pain, fromage et pommes"], "correctIndex": 0, "explanation": "Bravo ! Trois cadeaux royaux et parfumés. 🎁"},
+      {"question": "Comment les Mages se sont-ils comportés devant le petit Jésus ?", "options": ["Avec joie et grand respect", "En riant fort", "En repartant sans entrer"], "correctIndex": 0, "explanation": "Exact ! Ils se sont inclinés devant ce petit Roi d'amour. 👑"},
+      {"question": "Comment Dieu a-t-Il protégé Jésus après leur visite ?", "options": ["Il a prévenu les Mages en rêve de changer de route", "Il a envoyé la neige", "Il a fermé les routes"], "correctIndex": 0, "explanation": "Super ! Ils ont pris un autre chemin pour rentrer. 🌙"},
+      {"question": "Quel cadeau pouvons-nous offrir à Jésus aujourd'hui ?", "options": ["Notre amour, notre gentillesse et nos prières", "De l'or pur", "Rien"], "correctIndex": 0, "explanation": "Merveilleux ! Un cœur aimant est le plus beau présent. 💛"}
+    ]
+  }
+]

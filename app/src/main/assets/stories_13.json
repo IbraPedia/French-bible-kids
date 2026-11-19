@@ -1,0 +1,117 @@
+[
+  {
+    "id": 61, "moduleId": 7, "title": "La Fête des Noces de Cana", "reference": "Jean 2:1–11", "testament": "NOUVEAU", "emoji": "🍇", "durationMinutes": 3,
+    "moral": "Jésus s'intéresse même aux petits soucis de nos fêtes pour garder la joie !",
+    "paragraphs": [
+      "Jésus, Marie et Ses nouveaux amis furent invités à une joyeuse fête de mariage dans le joli village de Cana. Tout le monde dansait et souriait ! 🎉",
+      "Mais au milieu du repas, catastrophe : il n'y avait plus du tout de jus de raisin dans les cruches ! Les mariés risquaient d'être très embarrassés.",
+      "Marie s'approcha doucement de Jésus et dit aux serveurs : « Faites tout ce qu'Il vous dira ! »",
+      "Jésus montra six grandes jarres en pierre : « Remplissez-les d'eau fraîche jusqu'au bord ! » Les serveurs obéirent aussitôt. 🏺",
+      "Quand ils en versèrent au chef de la fête, l'eau était devenue le meilleur jus de raisin de toute la fête ! C'était le premier miracle de Jésus ! ✨"
+    ],
+    "scenes": [
+      {"id": "s61_1", "title": "La fête joyeuse du mariage à Cana", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "MARY", "moodEmoji": "🎉", "propEmoji": "💐", "expression": "HAPPY"},
+      {"id": "s61_2", "title": "Les six grandes jarres remplies d'eau", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🏺", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s61_3", "title": "Un miracle joyeux pour les mariés !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🍇", "propEmoji": "✨", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "À quel événement Jésus était-Il invité à Cana ?", "options": ["Un mariage", "Un match", "Une course"], "correctIndex": 0, "explanation": "Oui ! Une belle fête de noces avec famille et amis. 🎉"},
+      {"question": "Quel problème est arrivé pendant la fête ?", "options": ["Il n'y avait plus de boisson pour les invités", "Il pleuvait", "La musique s'est cassée"], "correctIndex": 0, "explanation": "Exact ! Les réserves étaient complètement vides. 😟"},
+      {"question": "Qu'a conseillé Marie aux serveurs ?", "options": ["« Faites tout ce qu'Il vous dira ! »", "« Rentrez chez vous »", "« Allez dormir »"], "correctIndex": 0, "explanation": "Bravo ! Marie savait qu'on peut faire confiance à Jésus. 💛"},
+      {"question": "Qu'a transformé Jésus dans les six grandes jarres ?", "options": ["De l'eau en délicieux vin / jus de fête", "Du sable en or", "Des feuilles en pain"], "correctIndex": 0, "explanation": "Super ! Ce fut le tout premier miracle de Jésus ! 🍇"},
+      {"question": "Que montre ce premier miracle sur Jésus ?", "options": ["Qu'Il aime partager la joie avec nous", "Qu'Il n'aime pas les fêtes", "Qu'Il reste sérieux tout le temps"], "correctIndex": 0, "explanation": "Très bien ! Jésus aime nous voir heureux et unis. ✨"}
+    ]
+  },
+  {
+    "id": 62, "moduleId": 7, "title": "La Pêche Miraculeuse", "reference": "Luc 5:1–11", "testament": "NOUVEAU", "emoji": "🐟", "durationMinutes": 3,
+    "moral": "Écouter Jésus même quand on est fatigué transforme les efforts en merveilles.",
+    "paragraphs": [
+      "Au bord du grand lac de Galilée, le pêcheur Pierre et ses amis lavaient leurs filets tout tristes : ils avaient pêché toute la nuit sans attraper un seul poisson ! ⛵",
+      "Jésus monta dans la barque de Pierre pour parler à la foule sur la plage, puis Il lui dit : « Avance un peu au large et jette tes filets ! »",
+      "Pierre soupira doucement : « Maître, on a travaillé toute la nuit pour rien… mais puisque Tu le dis, je vais jeter le filet ! »",
+      "À peine dans l'eau, le filet devint si lourd qu'il faillit craquer ! Il était rempli d'une montagne de poissons argentés ! 🐟",
+      "Ils appelèrent l'autre barque à l'aide ! Émerveillés, Pierre, Jacques et Jean laissèrent tout pour suivre Jésus partout. ✨"
+    ],
+    "scenes": [
+      {"id": "s62_1", "title": "Les filets vides après la nuit", "backdrop": "GALILEE_BOAT", "primaryChar": "FISHERMAN", "secondaryChar": "NONE", "moodEmoji": "😔", "propEmoji": "🕸️", "expression": "WORRIED"},
+      {"id": "s62_2", "title": "Jésus enseigne depuis la barque", "backdrop": "GALILEE_BOAT", "primaryChar": "JESUS", "secondaryChar": "FISHERMAN", "moodEmoji": "⛵", "propEmoji": "🌊", "expression": "PEACEFUL"},
+      {"id": "s62_3", "title": "Des filets débordants de poissons !", "backdrop": "GALILEE_BOAT", "primaryChar": "FISHERMAN", "secondaryChar": "JESUS", "moodEmoji": "🐟", "propEmoji": "✨", "expression": "SURPRISED"}
+    ],
+    "questions": [
+      {"question": "Quel était le métier de Pierre au début ?", "options": ["Pêcheur sur le lac", "Boulanger", "Berger"], "correctIndex": 0, "explanation": "Oui ! Pierre pêchait sur le lac de Galilée. ⛵"},
+      {"question": "Combien de poissons avaient-ils attrapé pendant la nuit ?", "options": ["Zéro, pas un seul !", "Cent", "Dix"], "correctIndex": 0, "explanation": "Exact ! Ils étaient fatigués et déçus. 😔"},
+      {"question": "Pourquoi Pierre a-t-il relancé son filet ?", "options": ["Par confiance en la parole de Jésus", "Parce qu'il s'ennuyait", "Par erreur"], "correctIndex": 0, "explanation": "Bravo ! Même fatigué, il a fait confiance à Jésus. 💛"},
+      {"question": "Que s'est-il passé quand le filet est tombé à l'eau ?", "options": ["Il s'est rempli d'une énorme quantité de poissons", "Il a attrapé une botte", "Il a coulé"], "correctIndex": 0, "explanation": "Super ! Il a fallu deux barques pour tout porter ! 🐟"},
+      {"question": "Qu'ont décidé Pierre et ses amis ensuite ?", "options": ["De suivre Jésus comme disciples", "D'ouvrir une boutique", "De repartir"], "correctIndex": 0, "explanation": "Merveilleux ! Ils sont devenus les amis proches de Jésus. ✨"}
+    ]
+  },
+  {
+    "id": 63, "moduleId": 7, "title": "Jésus Apaise la Grande Tempête", "reference": "Marc 4:35–41", "testament": "NOUVEAU", "emoji": "⛈️", "durationMinutes": 3,
+    "moral": "Même quand la tempête fait rage, Jésus est dans notre barque pour nous garder en paix.",
+    "paragraphs": [
+      "Un soir, Jésus et Ses amis traversaient le lac en barque. Fatigué de Sa belle journée, Jésus dormait paisiblement sur un coussin à l'arrière. ⛵",
+      "Soudain, un vent furieux souffla ! D'énormes vagues blanches sautaient par-dessus la barque et commençaient à la remplir d'eau ! ⛈️",
+      "Les disciples tremblaient de peur et réveillèrent Jésus : « Maître, réveille-Toi ! Nous allons couler ! »",
+      "Jésus se leva calmement, regarda le vent et la mer agitée et dit d'une voix douce mais forte : « Silence ! Calme-toi ! » 🌊",
+      "Aussitôt, le vent s'arrêta net et le lac devint lisse comme un miroir ! Les amis de Jésus se regardèrent émerveillés : même le vent Lui obéit ! ✨"
+    ],
+    "scenes": [
+      {"id": "s63_1", "title": "La tempête secoue la barque", "backdrop": "ARK_OCEAN", "primaryChar": "FISHERMAN", "secondaryChar": "JESUS", "moodEmoji": "⛈️", "propEmoji": "🌊", "expression": "WORRIED"},
+      {"id": "s63_2", "title": "Jésus dit : « Silence ! Calme-toi ! »", "backdrop": "GALILEE_BOAT", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✋", "propEmoji": "✨", "expression": "BRAVE"},
+      {"id": "s63_3", "title": "Le lac calme comme un miroir", "backdrop": "GALILEE_BOAT", "primaryChar": "JESUS", "secondaryChar": "FISHERMAN", "moodEmoji": "🌅", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Que faisait Jésus au début de la tempête ?", "options": ["Il dormait paisiblement sur un coussin", "Il ramait très vite", "Il nageait"], "correctIndex": 0, "explanation": "Oui ! Jésus était tellement fatigué et en paix qu'Il dormait. 😴"},
+      {"question": "Comment se sentaient les disciples devant les grosses vagues ?", "options": ["Très effrayés", "Amusés", "Endormis"], "correctIndex": 0, "explanation": "Exact ! La barque se remplissait d'eau et ils avaient peur. ⛈️"},
+      {"question": "Qu'a dit Jésus au vent et à la mer ?", "options": ["« Silence ! Calme-toi ! »", "« Soufflez plus fort ! »", "« À demain ! »"], "correctIndex": 0, "explanation": "Bravo ! Trois mots pleins de puissance et de paix ! ✨"},
+      {"question": "Comment est devenu le lac juste après ?", "options": ["Tout calme et plat", "Plein de glace", "Encore plus agité"], "correctIndex": 0, "explanation": "Super ! Même la nature écoute la voix de son Créateur. 🌊"},
+      {"question": "Que pouvons-nous faire quand nous avons peur la nuit ?", "options": ["Prier Jésus qui est toujours près de nous", "Cacher la tête sans rien dire", "Pousser les autres"], "correctIndex": 0, "explanation": "Merveilleux ! Jésus apporte Sa grande paix dans nos cœurs. 💛"}
+    ]
+  },
+  {
+    "id": 64, "moduleId": 7, "title": "Cinq Pains et Deux Petits Poissons", "reference": "Jean 6:1–14", "testament": "NOUVEAU", "emoji": "🍞", "durationMinutes": 4,
+    "moral": "Un tout petit partage offert à Jésus peut nourrir une foule immense !",
+    "paragraphs": [
+      "Cinq mille personnes étaient venues sur la colline verte pour écouter les belles histoires de Jésus ! Mais le soir arrivait et tout le monde avait faim. 🍞",
+      "Les disciples s'inquiétaient : « Il n'y a pas de boulangerie ici ! Comment nourrir tout ce monde ? »",
+      "Alors un petit garçon s'avança gentiment avec son pique-nique : « J'ai cinq petits pains d'orge et deux petits poissons, si vous voulez ! » 🐟",
+      "Jésus sourit au garçon, prit les cinq pains et les deux poissons, leva les yeux vers le ciel et dit merci à Dieu. 🙏",
+      "Puis Il distribua à tout le monde : chacun mangea à sa faim, et il resta même douze paniers pleins de morceaux ! Quel miracle de partage ! ✨"
+    ],
+    "scenes": [
+      {"id": "s64_1", "title": "Un garçon offre son petit pique-nique", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🍞", "propEmoji": "🐟", "expression": "HAPPY"},
+      {"id": "s64_2", "title": "Jésus remercie Dieu et bénit les pains", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s64_3", "title": "Douze paniers remplis après le festin !", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🧺", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui a offert son goûter pour aider la foule ?", "options": ["Un petit garçon généreux", "Un soldat", "Le maire"], "correctIndex": 0, "explanation": "Bravo ! Un enfant a donné tout ce qu'il avait avec amour. 👦"},
+      {"question": "Qu'y avait-il dans son panier ?", "options": ["5 pains et 2 poissons", "10 pommes", "3 gâteaux"], "correctIndex": 0, "explanation": "Oui ! Cinq petits pains et deux poissons. 🍞"},
+      {"question": "Qu'a fait Jésus avant de distribuer la nourriture ?", "options": ["Il a dit merci à Dieu", "Il a coupé en minuscules miettes", "Il a caché le panier"], "correctIndex": 0, "explanation": "Exact ! Jésus remercie toujours Son Père avec gratitude. 🙏"},
+      {"question": "Combien de paniers de restes a-t-on ramassés après ?", "options": ["Douze paniers pleins !", "Zéro", "Un seul"], "correctIndex": 0, "explanation": "Super ! Avec Jésus, il y en a même plus qu'au début ! 🧺"},
+      {"question": "Que nous montre ce petit garçon ?", "options": ["Même un petit geste de partage compte énormément", "Il faut tout garder pour soi", "Les enfants ne peuvent pas aider"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu multiplie tout ce qu'on donne avec amour. 💛"}
+    ]
+  },
+  {
+    "id": 65, "moduleId": 7, "title": "Jésus Marche sur l'Eau", "reference": "Matthieu 14:22–33", "testament": "NOUVEAU", "emoji": "🌊", "durationMinutes": 3,
+    "moral": "Garder les yeux fixés sur Jésus nous empêche de couler dans la peur.",
+    "paragraphs": [
+      "Cette nuit-là, les disciples ramaient fort contre le vent sur le lac pendant que Jésus priait seul sur la colline. 🌙",
+      "Au petit matin, ils virent une silhouette lumineuse marcher tranquillement sur les vagues ! « Oh ! » s'écrièrent-ils tout surpris.",
+      "« N'ayez pas peur, c'est Moi ! » leur cria Jésus avec Sa voix rassurante. Alors Pierre répondit : « Seigneur, si c'est Toi, dis-moi de venir vers Toi sur l'eau ! »",
+      "Jésus lui dit : « Viens ! » Pierre sortit de la barque et… incroyable ! Il marcha sur l'eau en regardant Jésus ! 🌊",
+      "Quand il regarda les grosses vagues, Pierre eut peur et commença à s'enfoncer. Aussitôt, Jésus tendit la main, le rattrapa et lui sourit avec bonté. 🤝"
+    ],
+    "scenes": [
+      {"id": "s65_1", "title": "Jésus s'approche sur les vagues", "backdrop": "ARK_OCEAN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🌊", "expression": "PEACEFUL"},
+      {"id": "s65_2", "title": "Pierre fait ses premiers pas sur l'eau", "backdrop": "GALILEE_BOAT", "primaryChar": "FISHERMAN", "secondaryChar": "JESUS", "moodEmoji": "😲", "propEmoji": "💧", "expression": "BRAVE"},
+      {"id": "s65_3", "title": "Jésus tend la main à Pierre", "backdrop": "GALILEE_BOAT", "primaryChar": "JESUS", "secondaryChar": "FISHERMAN", "moodEmoji": "🤝", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que faisait Jésus quand les disciples L'ont vu sur le lac ?", "options": ["Il marchait sur l'eau", "Il faisait du surf", "Il volait"], "correctIndex": 0, "explanation": "Oui ! Jésus marchait paisiblement sur les vagues. 🌊"},
+      {"question": "Quel disciple a demandé à marcher vers Jésus ?", "options": ["Pierre", "Thomas", "Matthieu"], "correctIndex": 0, "explanation": "Bravo ! Pierre était plein d'élan et de courage. 🚶"},
+      {"question": "Pourquoi Pierre a-t-il commencé à s'enfoncer ?", "options": ["Parce qu'il a eu peur en regardant les vagues", "Parce que ses bottes étaient lourdes", "Parce qu'il a sauté"], "correctIndex": 0, "explanation": "Exact ! La peur a détourné son regard de Jésus. 😟"},
+      {"question": "Qu'a fait Jésus quand Pierre a appelé à l'aide ?", "options": ["Il a tout de suite tendu la main pour le rattraper", "Il a ri", "Il est parti"], "correctIndex": 0, "explanation": "Super ! Jésus est toujours prêt à nous tendre la main ! 🤝"},
+      {"question": "Quel est le secret pour garder courage ?", "options": ["Regarder Jésus plutôt que nos peurs", "Fermer les yeux", "Ne jamais essayer"], "correctIndex": 0, "explanation": "Merveilleux ! La confiance en Jésus nous tient debout. ✨"}
+    ]
+  }
+]

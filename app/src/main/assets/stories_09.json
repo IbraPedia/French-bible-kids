@@ -1,0 +1,117 @@
+[
+  {
+    "id": 41, "moduleId": 5, "title": "Élie Nourri par les Corbeaux", "reference": "1 Rois 17", "testament": "ANCIEN", "emoji": "🐦", "durationMinutes": 3,
+    "moral": "Dieu sait prendre soin de nous même de façons surprenantes !",
+    "paragraphs": [
+      "Le prophète Élie devait annoncer un message important, alors qu'il n'y avait plus de pluie et que les champs étaient tout secs. 🏜️",
+      "Pour le garder en sécurité, Dieu lui dit : « Va te reposer près du petit ruisseau de Kerith. Là, les corbeaux t'apporteront à manger ! »",
+      "Élie s'assit au bord de l'eau claire. Et incroyable : chaque matin et chaque soir, de grands corbeaux noirs volaient jusqu'à lui avec du pain et de la nourriture dans leur bec ! 🐦",
+      "Plus tard, quand le ruisseau sécha, Dieu envoya Élie chez une gentille maman à Sarepta qui partagea avec lui sa dernière poignée de farine et d'huile.",
+      "Par miracle, le pot de farine et le flacon d'huile ne se vidèrent jamais pendant toute la sécheresse ! Dieu bénit toujours les cœurs généreux. 🏺"
+    ],
+    "scenes": [
+      {"id": "s41_1", "title": "Élie près du ruisseau paisible", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "NONE", "moodEmoji": "💧", "propEmoji": "🌿", "expression": "PEACEFUL"},
+      {"id": "s41_2", "title": "Les corbeaux apportent du pain !", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🐦", "propEmoji": "🥖", "expression": "SURPRISED"},
+      {"id": "s41_3", "title": "La jarre qui reste toujours pleine", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "ABRAHAM", "moodEmoji": "🏺", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quels oiseaux ont nourri Élie près du ruisseau ?", "options": ["Des corbeaux", "Des flamants roses", "Des poules"], "correctIndex": 0, "explanation": "Oui ! Chaque matin et soir, les corbeaux apportaient à manger ! 🐦"},
+      {"question": "Où Élie trouvait-il de l'eau à boire au début ?", "options": ["Dans le petit ruisseau de Kerith", "Dans un puits d'huile", "Dans un nuage"], "correctIndex": 0, "explanation": "Bravo ! Dieu avait choisi un endroit sûr pour lui. 💧"},
+      {"question": "Qui a ensuite partagé son dernier repas avec Élie ?", "options": ["Une gentille maman à Sarepta", "Un roi égoïste", "Un lion"], "correctIndex": 0, "explanation": "Exact ! Elle a partagé même quand il ne lui restait presque rien. 🥖"},
+      {"question": "Quel miracle est arrivé dans la maison de cette maman ?", "options": ["Sa farine et son huile ne finissaient jamais", "La maison s'est envolée", "Il a plu des bonbons"], "correctIndex": 0, "explanation": "Super ! Dieu a rempli ses pots chaque jour. 🏺"},
+      {"question": "Que nous montre cette histoire ?", "options": ["Partager avec amour attire les bénédictions de Dieu", "Il faut tout garder pour soi", "Les oiseaux savent cuisiner"], "correctIndex": 0, "explanation": "Très bien ! La générosité ouvre la porte aux merveilles. 💛"}
+    ]
+  },
+  {
+    "id": 42, "moduleId": 5, "title": "Élie et la Douce Brise de Dieu", "reference": "1 Rois 18–19", "testament": "ANCIEN", "emoji": "🍃", "durationMinutes": 3,
+    "moral": "Dieu ne crie pas pour nous effrayer : Il parle souvent comme un murmure plein de paix.",
+    "paragraphs": [
+      "Un jour sur le Mont Carmel, Élie montra à tout le monde que seul le vrai Dieu répond aux prières et envoya enfin une bonne pluie douce sur la terre sèche. 🌧️",
+      "Mais après ces grands efforts, Élie se sentit très fatigué et un peu triste. Il partit marcher jusque dans une grotte calme de la montagne.",
+      "Dieu lui demanda avec douceur : « Que fais-tu ici, Élie ? Sors et tiens-toi sur la montagne. »",
+      "Il y eut d'abord un grand vent fort, puis un tremblement de terre, puis un feu brillant… mais Dieu n'était pas dans ce grand bruit !",
+      "Enfin arriva un tout petit murmure doux comme une brise légère. Là, Élie reconnut la présence tendre de Dieu et retrouva toute sa paix. 🍃"
+    ],
+    "scenes": [
+      {"id": "s42_1", "title": "La pluie bienfaisante revient enfin", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌧️", "propEmoji": "🌿", "expression": "HAPPY"},
+      {"id": "s42_2", "title": "Élie fatigué se repose", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "ABRAHAM", "secondaryChar": "ANGEL", "moodEmoji": "😔", "propEmoji": "🥖", "expression": "WORRIED"},
+      {"id": "s42_3", "title": "La douce brise de paix de Dieu", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🍃", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Comment se sentait Élie en arrivant à la grotte ?", "options": ["Fatigué et découragé", "Très excité", "En train de danser"], "correctIndex": 0, "explanation": "Oui ! Même les grands prophètes ont parfois besoin de repos. 😔"},
+      {"question": "Dans quoi Dieu ne s'est-Il pas manifesté en premier ?", "options": ["Le grand vent, le séisme et le feu", "La mer", "Le chant"], "correctIndex": 0, "explanation": "Exact ! Dieu n'était pas dans le vacarme impressionnant. 🌪️"},
+      {"question": "Comment Dieu a-t-Il finalement parlé à Élie ?", "options": ["Dans un murmure doux et léger", "Avec un coup de tonnerre", "En criant"], "correctIndex": 0, "explanation": "Bravo ! Dans le calme, on entend mieux la voix de Dieu. 🍃"},
+      {"question": "Qu'a retrouvé Élie après ce moment avec Dieu ?", "options": ["La paix et le courage", "La peur", "La faim"], "correctIndex": 0, "explanation": "Super ! Dieu console et relève toujours ceux qui sont fatigués. 💛"},
+      {"question": "Quand entend-on le mieux Dieu dans notre cœur ?", "options": ["Dans un moment calme et tranquille", "En faisant beaucoup de bruit", "En se disputant"], "correctIndex": 0, "explanation": "Très bien ! Prendre un moment calme aide à prier. 🙏"}
+    ]
+  },
+  {
+    "id": 43, "moduleId": 5, "title": "Naaman Guéri dans le Jourdain", "reference": "2 Rois 5", "testament": "ANCIEN", "emoji": "💧", "durationMinutes": 3,
+    "moral": "Écouter les petits conseils avec simplicité apporte de grandes guérisons.",
+    "paragraphs": [
+      "Naaman était un grand général très important, mais il avait une maladie de peau très gênante dont personne ne pouvait le guérir. 😟",
+      "Une petite servante pleine de bonté lui dit : « En Israël, le prophète Élisée prie Dieu et peut vous guérir ! »",
+      "Naaman voyagea avec ses beaux chevaux jusqu'à la petite maison d'Élisée. Élisée lui fit dire : « Va te laver sept fois dans la rivière du Jourdain ! »",
+      "Au début, Naaman bouda un peu : il trouvait la rivière trop simple ! Mais ses amis lui conseillèrent gentiment d'essayer.",
+      "Naaman plongea une fois, deux fois… jusqu'à sept fois ! En sortant de l'eau, sa peau était toute douce et guérie comme celle d'un bébé ! ✨"
+    ],
+    "scenes": [
+      {"id": "s43_1", "title": "La petite fille donne un conseil d'espoir", "backdrop": "EGYPT_PALACE", "primaryChar": "KID_FRIEND", "secondaryChar": "PHARAOH", "moodEmoji": "💬", "propEmoji": "💛", "expression": "PEACEFUL"},
+      {"id": "s43_2", "title": "Naaman hésite devant la rivière", "backdrop": "GARDEN_EDEN", "primaryChar": "PHARAOH", "secondaryChar": "SHEPHERD", "moodEmoji": "🤔", "propEmoji": "💧", "expression": "WORRIED"},
+      {"id": "s43_3", "title": "Sept plongeons et la joie d'être guéri !", "backdrop": "RED_SEA", "primaryChar": "PHARAOH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "💧", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui a parlé d'Élisée à Naaman ?", "options": ["Une petite fille servante", "Un lion", "Le roi d'Égypte"], "correctIndex": 0, "explanation": "Bravo ! Même toute petite, elle a aidé à sauver le général ! 👧"},
+      {"question": "Que demanda Élisée à Naaman de faire ?", "options": ["Se plonger 7 fois dans le Jourdain", "Escalader une montagne", "Boire du vinaigre"], "correctIndex": 0, "explanation": "Oui ! Sept plongeons simples dans la rivière du Jourdain. 💧"},
+      {"question": "Pourquoi Naaman a-t-il hésité au début ?", "options": ["Il trouvait cette solution trop simple", "L'eau était gelée", "Il avait oublié sa serviette"], "correctIndex": 0, "explanation": "Exact ! Il s'attendait à quelque chose de spectaculaire. 🤔"},
+      {"question": "Que s'est-il passé au septième plongeon ?", "options": ["Sa peau est devenue toute neuve et guérie", "Il a attrapé un rhume", "Rien"], "correctIndex": 0, "explanation": "Super ! En obéissant simplement, il a été guéri par Dieu. ✨"},
+      {"question": "Quel beau geste la petite fille a-t-elle montré ?", "options": ["La compassion et le désir d'aider", "La moquerie", "La rancune"], "correctIndex": 0, "explanation": "Très bien ! Souhaiter du bien aux autres est magnifique. 💛"}
+    ]
+  },
+  {
+    "id": 44, "moduleId": 5, "title": "Josias, le Jeune Roi Qui Aimait la Bible", "reference": "2 Rois 22", "testament": "ANCIEN", "emoji": "📖", "durationMinutes": 3,
+    "moral": "On n'est jamais trop jeune pour aimer lire et partager la Parole de Dieu.",
+    "paragraphs": [
+      "Josias n'avait que huit ans quand il devint roi ! Imagine un roi de l'âge d'un élève de CE2 ! 👑",
+      "Contrairement à d'autres, le jeune Josias voulait faire ce qui est juste et beau aux yeux de Dieu.",
+      "À dix-huit ans, il fit nettoyer et réparer le grand Temple qui avait été oublié. En rangeant, les ouvriers firent une découverte incroyable !",
+      "Ils retrouvèrent le vieux rouleau précieux de la Parole de Dieu caché sous la poussière ! 📜",
+      "Josias le fit lire à voix haute devant tous les parents et les enfants, et tout le pays retrouva la joie de suivre Dieu ! 📖"
+    ],
+    "scenes": [
+      {"id": "s44_1", "title": "Josias devient roi à huit ans", "backdrop": "EGYPT_PALACE", "primaryChar": "KID_FRIEND", "secondaryChar": "ANGEL", "moodEmoji": "👑", "propEmoji": "💛", "expression": "BRAVE"},
+      {"id": "s44_2", "title": "Découverte du rouleau sacré", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "KID_FRIEND", "secondaryChar": "ABRAHAM", "moodEmoji": "📜", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s44_3", "title": "Lecture joyeuse avec tout le peuple", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "MARY", "moodEmoji": "📖", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel âge avait Josias quand il est devenu roi ?", "options": ["Huit ans", "Quarante ans", "Deux ans"], "correctIndex": 0, "explanation": "Oui ! Il avait seulement huit ans ! 👑"},
+      {"question": "Qu'a fait Josias pour le Temple de Dieu ?", "options": ["Il l'a fait réparer et nettoyer", "Il l'a vendu", "Il l'a fermé"], "correctIndex": 0, "explanation": "Bravo ! Il voulait prendre soin de la maison de Dieu. 🧹"},
+      {"question": "Quel trésor a-t-on retrouvé dans le Temple ?", "options": ["Le livre de la Parole de Dieu", "Un coffre de bonbons", "Une épée laser"], "correctIndex": 0, "explanation": "Exact ! Le précieux rouleau des Écritures avait été retrouvé ! 📜"},
+      {"question": "Qu'a fait Josias avec ce livre ?", "options": ["Il l'a lu à tout le monde et l'a suivi", "Il l'a caché à nouveau", "Il l'a mis à la poubelle"], "correctIndex": 0, "explanation": "Oui ! Il voulait que chacun connaisse les paroles de Dieu. 📖"},
+      {"question": "Que nous montre le jeune roi Josias ?", "options": ["Les enfants peuvent aimer la Bible et montrer l'exemple", "Il faut attendre d'être vieux", "Lire ne sert à rien"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque page de la Bible éclaire nos pas. ✨"}
+    ]
+  },
+  {
+    "id": 45, "moduleId": 5, "title": "La Reine Esther, Belle et Courageuse", "reference": "Esther 4–7", "testament": "ANCIEN", "emoji": "👸", "durationMinutes": 4,
+    "moral": "Dieu nous place parfois au bon endroit pour protéger et aider les autres avec courage.",
+    "paragraphs": [
+      "Esther était une jeune femme douce et gentille qui devint reine dans un grand palais perse. Personne au palais ne savait qu'elle appartenait au peuple de Dieu. 👸",
+      "Un jour, un ministre méchant nommé Haman prépara un plan cruel pour faire du mal à tout le peuple d'Esther.",
+      "Son cousin Mardochée lui envoya ce message important : « Et si tu étais devenue reine justement pour sauver ton peuple aujourd'hui ? »",
+      "Esther avait un peu peur, car entrer chez le roi sans être invitée était interdit ! Elle pria avec ses amis pendant trois jours. 🙏",
+      "Puis, avec un immense courage, Esther entra devant le roi, révéla la vérité lors d'un repas, et sauva tout son peuple qui fêta la paix dans la joie ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s45_1", "title": "La gentille reine Esther au palais", "backdrop": "EGYPT_PALACE", "primaryChar": "POTIPHAR_WIFE", "secondaryChar": "NONE", "moodEmoji": "👸", "propEmoji": "👑", "expression": "PEACEFUL"},
+      {"id": "s45_2", "title": "Esther prie pour recevoir du courage", "backdrop": "DESERT_NIGHT", "primaryChar": "MARY", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "✨", "expression": "WORRIED"},
+      {"id": "s45_3", "title": "Esther parle au roi et sauve son peuple", "backdrop": "EGYPT_PALACE", "primaryChar": "MARY", "secondaryChar": "PHARAOH", "moodEmoji": "🛡️", "propEmoji": "🎉", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Qui était Esther ?", "options": ["Une reine courageuse et fidèle", "Une bergère", "Une pirate"], "correctIndex": 0, "explanation": "Oui ! La reine Esther aimait profondément Dieu et son peuple. 👸"},
+      {"question": "Qui a encouragé Esther à agir ?", "options": ["Son cousin Mardochée", "Pharaon", "Jonas"], "correctIndex": 0, "explanation": "Bravo ! Mardochée lui rappela qu'elle pouvait sauver tout le monde. 💬"},
+      {"question": "Qu'a fait Esther avant d'aller voir le roi ?", "options": ["Elle a prié pendant trois jours", "Elle a pris la fuite", "Elle s'est cachée"], "correctIndex": 0, "explanation": "Exact ! La prière lui a donné une grande paix et du courage. 🙏"},
+      {"question": "Pourquoi fallait-il être très courageuse ?", "options": ["Entrer sans invitation devant le roi était risqué", "Le palais était trop haut", "Il faisait nuit"], "correctIndex": 0, "explanation": "Oui ! Mais le roi tendit son sceptre d'or avec bonté ! 👑"},
+      {"question": "Quel fut le résultat du courage d'Esther ?", "options": ["Son peuple fut sauvé dans la joie", "Rien ne changea", "Elle perdit sa couronne"], "correctIndex": 0, "explanation": "Super ! Un cœur courageux peut changer toute une histoire. 🎉"}
+    ]
+  }
+]

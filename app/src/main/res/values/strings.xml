@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">La Bible App pour les Enfants</string>
+    <string name="app_subtitle">100 Histoires Bibliques Illustrées</string>
+    <string name="offline_ready">Mode hors ligne actif</string>
+</resources>

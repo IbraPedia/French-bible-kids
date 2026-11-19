@@ -1,0 +1,117 @@
+[
+  {
+    "id": 6, "moduleId": 1, "title": "La Tour de Babel", "reference": "Genèse 11", "testament": "ANCIEN", "emoji": "🗼", "durationMinutes": 3,
+    "moral": "La vraie grandeur vient de l'humilité et du partage, pas de l'orgueil.",
+    "paragraphs": [
+      "Longtemps après Noé, tous les humains parlaient exactement la même langue et voyageaient ensemble vers une grande plaine. 🧱",
+      "Un jour, ils se dirent : « Construisons une tour si haute qu'elle touchera les nuages, comme ça tout le monde dira que nous sommes les plus forts ! »",
+      "Ils fabriquèrent des milliers de briques et empilèrent les murs de plus en plus haut, oubliant de demander conseil à Dieu.",
+      "Dieu vit que leur fierté les éloignait les uns des autres. Avec sagesse, Il fit naître plein de belles langues différentes dans leurs bouches ! 🗣️",
+      "Soudain, quand l'un demandait une brique, son voisin comprenait du fromage ! Ils arrêtèrent la tour et partirent peupler tous les pays du monde entier. 🌍"
+    ],
+    "scenes": [
+      {"id": "s6_1", "title": "Les briques de la grande tour", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "PHARAOH", "moodEmoji": "🧱", "propEmoji": "🗼", "expression": "BRAVE"},
+      {"id": "s6_2", "title": "La tour qui veut toucher les nuages", "backdrop": "EGYPT_PALACE", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "☁️", "propEmoji": "🗼", "expression": "SURPRISED"},
+      {"id": "s6_3", "title": "Toutes les langues de la Terre", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "ANGEL", "moodEmoji": "🌍", "propEmoji": "💬", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que voulaient construire les habitants de la plaine ?", "options": ["Une tour géante jusqu'au ciel", "Un pont sous la mer", "Une école"], "correctIndex": 0, "explanation": "Exact ! Ils voulaient bâtir la tour de Babel jusqu'au ciel. 🗼"},
+      {"question": "Pourquoi la construisaient-ils ?", "options": ["Pour montrer qu'ils étaient les plus forts", "Pour aider les oiseaux", "Pour voir la mer"], "correctIndex": 0, "explanation": "Oui, leur orgueil leur faisait oublier Dieu. 🧱"},
+      {"question": "Qu'est-ce que Dieu changea soudainement ?", "options": ["Leurs langues", "La couleur du soleil", "Leurs prénoms"], "correctIndex": 0, "explanation": "Bravo ! Chacun s'est mis à parler une langue différente. 🗣️"},
+      {"question": "Ont-ils pu terminer la tour ?", "options": ["Non, car ils ne se comprenaient plus", "Oui, en deux jours", "Elle s'est envolée"], "correctIndex": 0, "explanation": "C'est juste ! Ils sont partis voyager partout sur la Terre. 🌍"},
+      {"question": "Quelle qualité plaît à Dieu ?", "options": ["L'humilité et le cœur doux", "Se vanter tout le temps", "Se moquer des autres"], "correctIndex": 0, "explanation": "Très bien ! L'humilité nous rapproche de Dieu et des amis. 💛"}
+    ]
+  },
+  {
+    "id": 7, "moduleId": 1, "title": "Le Grand Voyage d'Abraham", "reference": "Genèse 12", "testament": "ANCIEN", "emoji": "⛺", "durationMinutes": 3,
+    "moral": "Avoir confiance en Dieu donne le courage de partir à l'aventure.",
+    "paragraphs": [
+      "Abraham vivait dans une ville confortable avec sa femme Sara. Un jour, la voix douce de Dieu lui parla dans son cœur. 🐪",
+      "« Pars vers un pays nouveau que Je te montrerai, dit Dieu. Je te bénirai et tu seras une source de joie pour toutes les familles de la terre ! »",
+      "Sans même savoir où se trouvait ce pays sur la carte, Abraham plia ses tentes, prépara ses chameaux et fit confiance à Dieu.",
+      "Avec Sara et son neveu Lot, il marcha longtemps à travers les vallées dorées et les collines parfumées.",
+      "Arrivé au beau pays de Canaan, Abraham remercia Dieu avec bonheur, car Dieu était toujours près de lui sur la route. ✨"
+    ],
+    "scenes": [
+      {"id": "s7_1", "title": "Dieu appelle Abraham", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "⛺", "expression": "PEACEFUL"},
+      {"id": "s7_2", "title": "La caravane dans le désert", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "SHEPHERD", "moodEmoji": "🐪", "propEmoji": "🧭", "expression": "BRAVE"},
+      {"id": "s7_3", "title": "Arrivée en terre promise", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌿", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui Dieu a-t-Il appelé pour un grand voyage ?", "options": ["Abraham", "Goliath", "Jonas"], "correctIndex": 0, "explanation": "Bravo ! Dieu a appelé Abraham avec une belle promesse. ⛺"},
+      {"question": "Comment s'appelait la femme d'Abraham ?", "options": ["Sara", "Marie", "Esther"], "correctIndex": 0, "explanation": "Oui ! Sara a voyagé courageusement avec Abraham. 💛"},
+      {"question": "Abraham connaissait-il déjà la destination ?", "options": ["Non, mais il a fait confiance à Dieu", "Oui, il avait un GPS", "Il allait chez le boulanger"], "correctIndex": 0, "explanation": "Exact ! La foi, c'est avancer avec confiance en Dieu. ✨"},
+      {"question": "Comment se déplaçaient-ils ?", "options": ["À pied et à dos de chameau", "En train", "En bateau à moteur"], "correctIndex": 0, "explanation": "Oui ! Avec leurs tentes et leurs troupeaux. 🐪"},
+      {"question": "Que promit Dieu à Abraham ?", "options": ["De le bénir pour bénir le monde", "De lui donner un vélo", "De le laisser seul"], "correctIndex": 0, "explanation": "Super ! Dieu bénit Abraham pour répandre la joie partout. 🌍"}
+    ]
+  },
+  {
+    "id": 8, "moduleId": 1, "title": "Les Étoiles d'Abraham", "reference": "Genèse 15", "testament": "ANCIEN", "emoji": "🌟", "durationMinutes": 3,
+    "moral": "Les promesses de Dieu brillent plus fort que nos inquiétudes.",
+    "paragraphs": [
+      "Les années passaient et Abraham et Sara n'avaient toujours pas d'enfant. Parfois, le cœur d'Abraham se sentait un peu inquiet. 🌙",
+      "Une nuit calme et claire, Dieu invita Abraham à sortir de sa tente et à lever les yeux bien haut.",
+      "« Regarde le ciel et essaie de compter les étoiles, si tu le peux ! » lui dit Dieu avec tendresse. ✨",
+      "Abraham regarda des milliers de petits diamants scintiller dans la nuit bleue. Il était impossible de toutes les compter !",
+      "« Ta famille sera aussi nombreuse que ces étoiles », promit Dieu. Abraham sourit et crut en Dieu de tout son cœur. 🌟"
+    ],
+    "scenes": [
+      {"id": "s8_1", "title": "Abraham inquiet dans sa tente", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "NONE", "moodEmoji": "😔", "propEmoji": "⛺", "expression": "WORRIED"},
+      {"id": "s8_2", "title": "Le ciel rempli d'étoiles", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌟", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s8_3", "title": "Le sourire de la foi", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ABRAHAM", "secondaryChar": "ANGEL", "moodEmoji": "😊", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que demanda Dieu à Abraham de regarder la nuit ?", "options": ["Les étoiles du ciel", "Les poissons", "Les cailloux"], "correctIndex": 0, "explanation": "Bravo ! Le ciel était rempli d'étoiles scintillantes. 🌟"},
+      {"question": "Abraham pouvait-il compter toutes les étoiles ?", "options": ["Non, il y en avait beaucoup trop", "Oui, il y en avait 4", "Il n'y en avait aucune"], "correctIndex": 0, "explanation": "Exact ! Elles étaient innombrables comme la promesse de Dieu. ✨"},
+      {"question": "Que signifiait ce signe des étoiles ?", "options": ["Qu'il aurait une très grande famille", "Qu'il allait pleuvoir", "Qu'il fallait dormir"], "correctIndex": 0, "explanation": "Oui ! Dieu lui promit une descendance immense. 👨‍👩‍👧‍👦"},
+      {"question": "Quelle fut la réponse d'Abraham ?", "options": ["Il a cru à la promesse de Dieu", "Il a ri avec moquerie", "Il est reparti chez lui"], "correctIndex": 0, "explanation": "C'est ça ! Abraham a eu confiance en Dieu. 💛"},
+      {"question": "À quel moment Dieu parla-t-Il à Abraham ?", "options": ["Pendant une nuit étoilée", "Sous la neige", "En plein orage"], "correctIndex": 0, "explanation": "Exact ! Sous la voûte étoilée du désert. 🌙"}
+    ]
+  },
+  {
+    "id": 9, "moduleId": 1, "title": "Le Rire de Joie de Sara", "reference": "Genèse 18 & 21", "testament": "ANCIEN", "emoji": "👶", "durationMinutes": 3,
+    "moral": "Rien n'est trop merveilleux ni trop difficile pour Dieu !",
+    "paragraphs": [
+      "Abraham et Sara étaient devenus très vieux, avec de beaux cheveux tout blancs. Ils aimaient accueillir les voyageurs sous leur grand chêne. 🌳",
+      "Un après-midi ensoleillé, trois messagers du ciel arrivèrent. Abraham et Sara leur préparèrent vite du bon pain chaud et du lait frais.",
+      "L'un des messagers sourit : « L'année prochaine, Sara aura un petit garçon ! » Derrière la toile de la tente, Sara eut un petit rire étonné ! 🤭",
+      "« Rien n'est impossible à Dieu », dit doucement le Seigneur. Et exactement comme promis, l'année suivante, un adorable bébé naquit !",
+      "Ils l'appelèrent Isaac, ce qui veut dire « Il rit », parce que toute la maison éclatait de rire et de joie devant ce beau cadeau. 👶"
+    ],
+    "scenes": [
+      {"id": "s9_1", "title": "L'accueil des messagers sous l'arbre", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "ANGEL", "moodEmoji": "🥖", "propEmoji": "🌳", "expression": "HAPPY"},
+      {"id": "s9_2", "title": "La surprise de l'annonce", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🤭", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s9_3", "title": "La naissance du petit Isaac", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "BABY_JESUS", "moodEmoji": "👶", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que firent Abraham et Sara pour les trois voyageurs ?", "options": ["Ils les accueillirent avec un bon repas", "Ils fermèrent la porte", "Ils partirent se cacher"], "correctIndex": 0, "explanation": "Bravo ! L'hospitalité était une grande qualité chez eux. 🥖"},
+      {"question": "Quelle surprise les messagers annoncèrent-ils ?", "options": ["La naissance d'un bébé pour Sara", "Un trésor en or", "Une tempête"], "correctIndex": 0, "explanation": "Oui ! Même âgés, ils allaient devenir parents. 👶"},
+      {"question": "Que signifie le prénom Isaac ?", "options": ["Il rit", "Il court", "Il dort"], "correctIndex": 0, "explanation": "Exact ! Isaac veut dire « rire » de joie ! 😊"},
+      {"question": "Pourquoi est-ce une histoire magique et vraie ?", "options": ["Rien n'est impossible à Dieu", "Parce qu'ils avaient une baguette", "Par hasard"], "correctIndex": 0, "explanation": "Oui ! Dieu accomplit Ses promesses au bon moment. ✨"},
+      {"question": "Qu'éprouva Sara en tenant bébé Isaac ?", "options": ["Une immense joie", "De la colère", "De l'ennui"], "correctIndex": 0, "explanation": "Merveilleux ! Elle remercia Dieu avec un grand sourire. 💛"}
+    ]
+  },
+  {
+    "id": 10, "moduleId": 1, "title": "Isaac et la Gentille Rébecca", "reference": "Genèse 24", "testament": "ANCIEN", "emoji": "🏺", "durationMinutes": 3,
+    "moral": "Un cœur généreux qui aide les autres brille comme un trésor.",
+    "paragraphs": [
+      "Quand Isaac devint un jeune homme gentil et courageux, son papa Abraham envoya son fidèle serviteur chercher une épouse au cœur généreux. 🐪",
+      "Près d'un puits d'eau fraîche, le serviteur pria Dieu : « Montre-moi la jeune fille qui offrira de l'eau à moi et aussi à mes chameaux assoiffés. »",
+      "À peine avait-il fini sa prière qu'une jeune femme souriante nommée Rébecca arriva avec sa grande cruche sur l'épaule. 🏺",
+      "Non seulement elle donna à boire au voyageur, mais elle courut remplir sa cruche encore et encore pour les dix chameaux !",
+      "Le serviteur comprit que Dieu avait guidé son chemin. Rébecca accepta avec joie de partir rencontrer Isaac, et ils formèrent une famille pleine d'amour. 💛"
+    ],
+    "scenes": [
+      {"id": "s10_1", "title": "La prière près du puits", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "🐪", "expression": "PEACEFUL"},
+      {"id": "s10_2", "title": "Rébecca offre de l'eau avec joie", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "SHEPHERD", "moodEmoji": "🏺", "propEmoji": "💧", "expression": "HAPPY"},
+      {"id": "s10_3", "title": "La belle rencontre avec Isaac", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "MARY", "moodEmoji": "💛", "propEmoji": "🌸", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Où le serviteur s'est-il arrêté pour prier ?", "options": ["Près d'un puits d'eau", "Sur une montagne de glace", "Dans une grotte"], "correctIndex": 0, "explanation": "Oui ! Les voyageurs s'arrêtaient souvent au puits. 💧"},
+      {"question": "Comment s'appelait la jeune fille généreuse ?", "options": ["Rébecca", "Dalila", "Marthe"], "correctIndex": 0, "explanation": "Bravo ! Rébecca avait un cœur très serviable. 🏺"},
+      {"question": "Qu'a fait Rébecca pour montrer sa bonté ?", "options": ["Elle a donné à boire au serviteur et aux chameaux", "Elle a caché la cruche", "Elle est partie en courant"], "correctIndex": 0, "explanation": "Exact ! Donner à boire à dix chameaux demandait beaucoup d'efforts ! 🐪"},
+      {"question": "Qui avait guidé le serviteur vers Rébecca ?", "options": ["Dieu, en écoutant sa prière", "Une boussole cassée", "Un oiseau"], "correctIndex": 0, "explanation": "Super ! Dieu guide ceux qui Lui demandent son aide. ✨"},
+      {"question": "Quelle qualité admire-t-on chez Rébecca ?", "options": ["Sa gentillesse et sa générosité", "Son égoïsme", "Sa paresse"], "correctIndex": 0, "explanation": "Très bien ! Aider avec le sourire est un vrai trésor. 💛"}
+    ]
+  }
+]

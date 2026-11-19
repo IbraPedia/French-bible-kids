@@ -1,0 +1,117 @@
+[
+  {
+    "id": 71, "moduleId": 8, "title": "Le Bon Berger et Ses Brebis", "reference": "Jean 10:1–16", "testament": "NOUVEAU", "emoji": "🐑", "durationMinutes": 3,
+    "moral": "Jésus nous connaît chacun par notre prénom et prend soin de nous.",
+    "paragraphs": [
+      "Un jour, Jésus raconta une belle image que tous les enfants comprenaient : celle du Bon Berger dans les collines vertes. 🌿",
+      "« Un vrai berger aime ses moutons, expliqua Jésus. Il appelle chaque brebis par son petit nom, et les brebis reconnaissent sa voix douce ! »",
+      "Le bon berger marche devant elles pour vérifier que le sentier n'a ni ronces ni trous dangereux, et il les mène vers l'herbe fraîche. 🐑",
+      "Si un loup approche, un mauvais gardien s'enfuit… mais le Bon Berger reste pour protéger chaque petit agneau !",
+      "Jésus sourit : « Je suis le Bon Berger ! Je connais chacun d'entre vous et Je vous garde avec amour dans Mon troupeau. » 💛"
+    ],
+    "scenes": [
+      {"id": "s71_1", "title": "Le berger connaît chaque brebis par son nom", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "JESUS", "moodEmoji": "🐑", "propEmoji": "🌿", "expression": "HAPPY"},
+      {"id": "s71_2", "title": "Guidées vers l'eau calme et la prairie", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "💧", "propEmoji": "☀️", "expression": "PEACEFUL"},
+      {"id": "s71_3", "title": "Sous la protection sûre du Bon Berger", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💛", "propEmoji": "🛡️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "À qui Jésus s'est-Il comparé dans cette parabole ?", "options": ["Au Bon Berger", "À un roi sévère", "À un marchand"], "correctIndex": 0, "explanation": "Oui ! Jésus est notre doux et fidèle Bon Berger. 🐑"},
+      {"question": "Comment les brebis reconnaissent-elles le berger ?", "options": ["À sa voix douce qu'elles connaissent", "À son chapeau rouge", "À son vélo"], "correctIndex": 0, "explanation": "Bravo ! Elles connaissent et aiment la voix de leur ami. 🎵"},
+      {"question": "Que fait le Bon Berger face au danger ?", "options": ["Il protège courageusement ses brebis", "Il s'enfuit", "Il ferme les yeux"], "correctIndex": 0, "explanation": "Exact ! Il ne laisse jamais ses agneaux seuls. 🛡️"},
+      {"question": "Jésus connaît-Il chaque enfant ?", "options": ["Oui, chacun par son prénom !", "Non, nous sommes trop nombreux", "Seulement les grands"], "correctIndex": 0, "explanation": "Super ! Tu es précieux et connu de Jésus ! 💛"},
+      {"question": "Où le Bon Berger mène-t-il Son troupeau ?", "options": ["Vers l'herbe fraîche et la paix", "Dans le noir", "Dans le désert sec"], "correctIndex": 0, "explanation": "Très bien ! Avec Jésus, notre cœur est en sécurité. 🌿"}
+    ]
+  },
+  {
+    "id": 72, "moduleId": 8, "title": "La Petite Brebis Perdue", "reference": "Luc 15:1–7", "testament": "NOUVEAU", "emoji": "🐑", "durationMinutes": 3,
+    "moral": "Chaque enfant compte infiniment pour Dieu, même s'il s'est égaré.",
+    "paragraphs": [
+      "Un berger avait cent jolis moutons. Chaque soir, il les comptait avant de dormir : 97, 98, 99… Oh ! Il en manquait une ! 😟",
+      "La toute petite brebis blanche s'était égarée derrière un gros rocher en courant après un papillon, et la nuit tombait !",
+      "Est-ce que le berger s'est dit : « Bah, 99 c'est déjà bien » ? Oh non ! Il laissa les 99 bien en sécurité et partit chercher la petite perdue ! 🔦",
+      "Il chercha sous les buissons, dans les sentiers, en appelant son nom avec tendresse jusqu'à ce qu'il entende un petit « Bêê ! » apeuré.",
+      "Tout heureux, il prit la petite brebis sur ses épaules et invita tous ses amis à faire la fête : « Réjouissez-vous avec moi, j'ai retrouvé ma brebis ! » 🎉"
+    ],
+    "scenes": [
+      {"id": "s72_1", "title": "99 moutons sont là, mais il en manque un !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "NONE", "moodEmoji": "😟", "propEmoji": "🐑", "expression": "WORRIED"},
+      {"id": "s72_2", "title": "Le berger cherche dans la nuit étoilée", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🔦", "propEmoji": "🪨", "expression": "BRAVE"},
+      {"id": "s72_3", "title": "Retrouvée et portée sur ses épaules !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "🐑", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Combien de moutons avait le berger au départ ?", "options": ["Cent moutons", "Dix moutons", "Mille moutons"], "correctIndex": 0, "explanation": "Oui ! Cent moutons dans son troupeau. 🐑"},
+      {"question": "Qu'a fait le berger quand il en manquait une seule ?", "options": ["Il est parti tout de suite la chercher", "Il a laissé tomber", "Il est allé dormir"], "correctIndex": 0, "explanation": "Bravo ! Chaque brebis était très précieuse à ses yeux. 🔦"},
+      {"question": "Comment a-t-il ramené la petite brebis fatiguée ?", "options": ["Sur ses épaules, tout joyeux !", "En la tirant par la patte", "En la laissant marcher loin derrière"], "correctIndex": 0, "explanation": "Exact ! Quelle tendresse de la porter sur ses épaules ! 🤗"},
+      {"question": "Qu'a-t-il fait en rentrant au village ?", "options": ["Il a fait la fête avec ses amis", "Il l'a punie", "Il n'a rien dit"], "correctIndex": 0, "explanation": "Super ! Tout le ciel se réjouit quand quelqu'un revient vers Dieu ! 🎉"},
+      {"question": "Que veut dire cette histoire pour toi ?", "options": ["Que Dieu m'aime et ne m'oublie jamais", "Qu'il faut se perdre", "Que 99 suffit"], "correctIndex": 0, "explanation": "Merveilleux ! Tu comptes énormément pour Dieu ! 💛"}
+    ]
+  },
+  {
+    "id": 73, "moduleId": 8, "title": "Le Bon Samaritain", "reference": "Luc 10:25–37", "testament": "NOUVEAU", "emoji": "🩹", "durationMinutes": 4,
+    "moral": "Notre prochain, c'est toute personne qui a besoin de notre aide et de notre gentillesse.",
+    "paragraphs": [
+      "Un homme voyageait sur une route rocailleuse quand des brigands l'attaquèrent, prirent son sac et le laissèrent blessé au bord du chemin. 😟",
+      "Deux personnes importantes passèrent par là, le virent couché… mais elles changèrent de trottoir et continuèrent leur route sans s'arrêter !",
+      "Enfin arriva un voyageur venu d'un autre pays, un Samaritain. En voyant le blessé, son cœur fut rempli de pitié ! 💛",
+      "Il s'arrêta aussitôt, nettoya doucement ses blessures, posa de bons pansements, le hissa sur son âne et l'emmena dans une auberge chaleureuse. 🩹",
+      "Il paya même l'aubergiste pour qu'on prenne bien soin de lui ! Jésus demanda : « Lequel a été un vrai ami ? Fais de même chaque jour ! » 🌟"
+    ],
+    "scenes": [
+      {"id": "s73_1", "title": "Un voyageur blessé attend du secours", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "SHEPHERD", "secondaryChar": "NONE", "moodEmoji": "😟", "propEmoji": "🪨", "expression": "WORRIED"},
+      {"id": "s73_2", "title": "Le Bon Samaritain s'arrête et soigne", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "SHEPHERD", "moodEmoji": "🩹", "propEmoji": "🫏", "expression": "PEACEFUL"},
+      {"id": "s73_3", "title": "En sécurité à l'auberge accueillante", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "💛", "propEmoji": "🏡", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qu'ont fait les deux premiers passants devant le blessé ?", "options": ["Ils sont passés de l'autre côté sans aider", "Ils l'ont soigné", "Ils ont appelé une ambulance"], "correctIndex": 0, "explanation": "Oui, malheureusement ils n'ont pas voulu s'arrêter. 😔"},
+      {"question": "Qui s'est arrêté pour aider le blessé ?", "options": ["Le Bon Samaritain", "Un soldat romain", "Un bandit"], "correctIndex": 0, "explanation": "Bravo ! Même s'il venait d'un pays différent, il l'a aidé ! 💛"},
+      {"question": "Comment le Samaritain a-t-il pris soin de lui ?", "options": ["Il l'a pansé, mis sur son âne et conduit à l'auberge", "Il lui a juste dit bonjour", "Il a pris son sac"], "correctIndex": 0, "explanation": "Exact ! Il a agi concrètement avec beaucoup d'amour. 🩹"},
+      {"question": "Que voulait enseigner Jésus avec cette histoire ?", "options": ["Aimer et aider chacun, même celui qui est différent", "Aider seulement ses cousins", "Ne pas voyager"], "correctIndex": 0, "explanation": "Super ! La gentillesse n'a pas de frontières ! 🌍"},
+      {"question": "Comment être un « Bon Samaritain » à l'école ?", "options": ["Consoler un camarade tombé ou tout seul", "Se moquer", "Rester dans son coin"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque petit geste de secours plaît à Jésus. ✨"}
+    ]
+  },
+  {
+    "id": 74, "moduleId": 8, "title": "Le Fils Retrouvé et le Grand Câlin", "reference": "Luc 15:11–32", "testament": "NOUVEAU", "emoji": "🤗", "durationMinutes": 4,
+    "moral": "L'amour de Dieu notre Père est toujours prêt à pardonner et à ouvrir grand les bras !",
+    "paragraphs": [
+      "Un papa avait deux fils. Le plus jeune voulut partir vivre tout seul loin de la maison avec plein d'argent, pensant s'amuser sans règles. 🎒",
+      "Mais il gaspilla tout très vite et se retrouva sans argent, tout triste et affamé à garder des cochons dans la boue !",
+      "« Chez mon papa, même les ouvriers ont du bon pain chaud ! Je vais rentrer lui dire pardon », se dit le jeune homme tout honteux.",
+      "Alors qu'il était encore loin sur le chemin, son papa qui guettait chaque jour l'aperçut ! Le papa courut vers lui, l'embrassa et le serra fort dans ses bras ! 🤗",
+      "« Vite, apportez la plus belle robe et préparons une grande fête ! Mon fils était perdu et il est retrouvé ! » Quel amour immense de Dieu le Père ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s74_1", "title": "Tout seul et triste loin de la maison", "backdrop": "DESERT_NIGHT", "primaryChar": "KID_FRIEND", "secondaryChar": "NONE", "moodEmoji": "😢", "propEmoji": "🎒", "expression": "SAD_CELL"},
+      {"id": "s74_2", "title": "Le papa court et serre son fils dans ses bras", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "💛", "expression": "HAPPY"},
+      {"id": "s74_3", "title": "La grande fête joyeuse du retour", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "🧥", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Pourquoi le jeune fils est-il parti de la maison ?", "options": ["Il voulait tout dépenser librement loin de chez lui", "Il allait à l'école", "Il cherchait du bois"], "correctIndex": 0, "explanation": "Oui ! Il pensait être plus heureux sans sa famille. 🎒"},
+      {"question": "Comment s'est-il retrouvé quand tout son argent fut parti ?", "options": ["Triste, pauvre et affamé", "Riche et célèbre", "Roi"], "correctIndex": 0, "explanation": "Exact ! Il regrettait amèrement son erreur. 😔"},
+      {"question": "Comment le papa a-t-il réagi en le voyant revenir au loin ?", "options": ["Il a couru l'embrasser et lui pardonner", "Il a fermé la porte à clé", "Il l'a grondé"], "correctIndex": 0, "explanation": "Bravo ! Le papa l'attendait avec tellement d'amour ! 🤗"},
+      {"question": "Qu'a organisé le papa pour le retour de son fils ?", "options": ["Une grande fête joyeuse avec un beau manteau", "Une punition", "Rien"], "correctIndex": 0, "explanation": "Super ! Le pardon ramène la fête dans la maison ! 🎉"},
+      {"question": "À qui ressemble ce papa plein de tendresse ?", "options": ["À Dieu notre Père du ciel", "À un voisin sévère", "À personne"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu nous aime et nous accueille toujours quand on revient à Lui. 💛"}
+    ]
+  },
+  {
+    "id": 75, "moduleId": 8, "title": "Les Quatre Terres et la Bonne Graine", "reference": "Marc 4:1–20", "testament": "NOUVEAU", "emoji": "🌱", "durationMinutes": 3,
+    "moral": "Un cœur attentif qui aime apprendre fait pousser plein de beaux fruits !",
+    "paragraphs": [
+      "Assis dans une barque devant une grande foule, Jésus raconta l'histoire d'un semeur qui lançait de jolies petites graines dans son champ. 🌱",
+      "Certaines graines tombèrent sur le chemin dur : les petits oiseaux arrivèrent vite et les picorèrent.",
+      "D'autres tombèrent dans les cailloux ou au milieu des épines piquantes : elles ne purent pas bien grandir.",
+      "Mais beaucoup de graines tombèrent dans la bonne terre douce, bien arrosée par le soleil et la pluie ! ☀️",
+      "Là, chaque petite graine devint un grand épi doré portant trente, soixante ou cent grains ! Jésus expliqua : « La bonne terre, c'est un cœur qui écoute et met l'amour en pratique ! » 🌾"
+    ],
+    "scenes": [
+      {"id": "s75_1", "title": "Le semeur lance les graines dans le champ", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "JESUS", "moodEmoji": "🌱", "propEmoji": "🐦", "expression": "HAPPY"},
+      {"id": "s75_2", "title": "Le soleil et la pluie sur la bonne terre", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "☀️", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s75_3", "title": "De grands épis dorés pleins de fruits !", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌾", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que jetait le fermier dans son champ ?", "options": ["Des graines", "Des cailloux", "Des billes"], "correctIndex": 0, "explanation": "Oui ! Il semait de bonnes graines partout. 🌱"},
+      {"question": "Qu'est-il arrivé aux graines tombées sur le chemin dur ?", "options": ["Les oiseaux les ont mangées", "Elles sont devenues des arbres géants", "Elles ont fleuri"], "correctIndex": 0, "explanation": "Exact ! La terre était trop dure pour qu'elles poussent. 🐦"},
+      {"question": "Où les graines ont-elles donné une magnifique récolte ?", "options": ["Dans la bonne terre", "Sur les cailloux", "Dans les épines"], "correctIndex": 0, "explanation": "Bravo ! Dans la bonne terre douce et profonde ! 🌾"},
+      {"question": "Dans l'histoire de Jésus, que représentent les graines ?", "options": ["La Parole de Dieu", "Des bonbons", "Des pièces"], "correctIndex": 0, "explanation": "Oui ! Chaque histoire de la Bible est une graine de vie. 📖"},
+      {"question": "Comment avoir un cœur semblable à la « bonne terre » ?", "options": ["En écoutant avec joie et en aimant les autres", "En oubliant tout", "En se disputant"], "correctIndex": 0, "explanation": "Super ! Alors nos belles actions fleurissent partout ! 🌸"}
+    ]
+  }
+]

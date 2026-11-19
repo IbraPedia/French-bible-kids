@@ -1,0 +1,117 @@
+[
+  {
+    "id": 66, "moduleId": 7, "title": "Les Quatre Amis et le Toit", "reference": "Marc 2:1–12", "testament": "NOUVEAU", "emoji": "🏠", "durationMinutes": 3,
+    "moral": "De vrais amis ne se découragent jamais quand il s'agit d'aider quelqu'un !",
+    "paragraphs": [
+      "Jésus enseignait dans une petite maison de Capharnaüm, mais il y avait tant de monde que même devant la porte on ne pouvait plus passer ! 🏠",
+      "Quatre bons amis portaient un camarade paralysé sur un matelas pour que Jésus le guérisse. Comment entrer à travers cette foule ?",
+      "Les quatre amis eurent une idée géniale ! Ils montèrent par l'escalier extérieur sur le toit plat, enlevèrent doucement quelques tuiles et firent une ouverture ! ✨",
+      "Avec des cordes, ils descendirent tout doucement leur ami sur son matelas juste devant les pieds de Jésus !",
+      "Jésus sourit devant une si belle amitié ! Il pardonna à l'homme et lui dit : « Lève-toi, prends ton matelas et marche ! » Et l'homme sauta de joie ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s66_1", "title": "La maison pleine et l'idée du toit", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "SHEPHERD", "moodEmoji": "🏠", "propEmoji": "💡", "expression": "BRAVE"},
+      {"id": "s66_2", "title": "Descendu doucement devant Jésus", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "✨", "propEmoji": "🪢", "expression": "PEACEFUL"},
+      {"id": "s66_3", "title": "Il se lève et marche avec joie !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🎉", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Combien d'amis portaient l'homme paralysé ?", "options": ["Quatre amis", "Un seul", "Dix amis"], "correctIndex": 0, "explanation": "Oui ! Quatre amis unis et très inventifs ! 🤝"},
+      {"question": "Pourquoi ne pouvaient-ils pas entrer par la porte ?", "options": ["Il y avait beaucoup trop de monde", "La porte était cassée", "Il faisait nuit"], "correctIndex": 0, "explanation": "Exact ! La maison débordait de gens écoutant Jésus. 🏠"},
+      {"question": "Par où ont-ils fait descendre leur ami ?", "options": ["Par une ouverture dans le toit", "Par la cheminée", "Par la fenêtre"], "correctIndex": 0, "explanation": "Bravo ! Ils n'ont pas abandonné et ont trouvé une solution ! 💡"},
+      {"question": "Qu'a remarqué Jésus en les voyant ?", "options": ["Leur grande foi et leur amitié", "De la poussière", "Rien"], "correctIndex": 0, "explanation": "Super ! Jésus était très touché par leur confiance. ✨"},
+      {"question": "Que s'est-il passé à la fin ?", "options": ["L'homme a été guéri et est reparti en marchant", "Il est resté couché", "Il est remonté sur le toit"], "correctIndex": 0, "explanation": "Merveilleux ! Tout le monde a remercié Dieu avec joie ! 🎉"}
+    ]
+  },
+  {
+    "id": 67, "moduleId": 7, "title": "La Petite Fille de Jaïrus", "reference": "Marc 5:21–43", "testament": "NOUVEAU", "emoji": "🌷", "durationMinutes": 3,
+    "moral": "Rien n'est perdu quand Jésus tient notre main.",
+    "paragraphs": [
+      "Un papa très inquiet nommé Jaïrus courut se jeter aux pieds de Jésus : « Ma petite fille de douze ans est très malade ! Venez vite, s'il Vous plaît ! » 😟",
+      "Jésus partit aussitôt avec lui. En chemin, on vint annoncer une triste nouvelle : « Il est trop tard, la petite fille ne respire plus… »",
+      "Mais Jésus posa Sa main sur l'épaule de Jaïrus et dit tout doucement : « N'aie pas peur, crois seulement ! » 💛",
+      "Arrivé dans la chambre silencieuse, Jésus prit la petite main de la fillette et murmura tendrement : « Petite fille, lève-toi ! »",
+      "Aussitôt, la petite ouvrit les yeux, sourit et se leva ! Ses parents la serrèrent fort dans leurs bras et lui donnèrent vite un bon goûter ! 🌷"
+    ],
+    "scenes": [
+      {"id": "s67_1", "title": "Jaïrus supplie Jésus pour sa fille", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "JESUS", "moodEmoji": "🙏", "propEmoji": "💛", "expression": "WORRIED"},
+      {"id": "s67_2", "title": "« N'aie pas peur, crois seulement ! »", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "✨", "propEmoji": "🌷", "expression": "PEACEFUL"},
+      {"id": "s67_3", "title": "La petite fille réveillée sourit à ses parents", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🎉", "propEmoji": "🍞", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui est venu demander l'aide de Jésus ?", "options": ["Un papa nommé Jaïrus", "Un roi lointain", "Un marin"], "correctIndex": 0, "explanation": "Oui ! Jaïrus aimait énormément sa petite fille. 👨‍👧"},
+      {"question": "Quel âge avait la fille de Jaïrus ?", "options": ["Douze ans", "Deux ans", "Vingt ans"], "correctIndex": 0, "explanation": "Bravo ! Elle avait douze ans. 🌷"},
+      {"question": "Quels mots rassurants Jésus a-t-Il dits au papa ?", "options": ["« N'aie pas peur, crois seulement ! »", "« Rentrons chez nous »", "« Attendez l'année prochaine »"], "correctIndex": 0, "explanation": "Exact ! Jésus nous encourage toujours à garder confiance. 💛"},
+      {"question": "Comment Jésus a-t-Il réveillé la petite fille ?", "options": ["En lui prenant la main avec douceur", "En sonnant une cloche", "En criant fort"], "correctIndex": 0, "explanation": "Super ! Avec amour, Il l'a ramenée à la vie ! ✨"},
+      {"question": "Qu'a conseillé Jésus de faire juste après ?", "options": ["De lui donner à manger !", "De courir un marathon", "De rester cachée"], "correctIndex": 0, "explanation": "Oui ! Jésus prend soin même des petits détails pratiques ! 🍞"}
+    ]
+  },
+  {
+    "id": 68, "moduleId": 7, "title": "L'Aveugle Bartimée Voit le Soleil", "reference": "Marc 10:46–52", "testament": "NOUVEAU", "emoji": "👀", "durationMinutes": 3,
+    "moral": "Jésus s'arrête toujours pour écouter celui qui L'appelle avec confiance.",
+    "paragraphs": [
+      "Au bord du chemin près de Jéricho était assis Bartimée, un homme aveugle qui ne voyait ni les fleurs, ni les oiseaux, ni le soleil. ☀️",
+      "En entendant les pas d'une grande foule, il demanda qui passait : « C'est Jésus de Nazareth ! » Alors Bartimée cria de toutes ses forces : « Jésus, aie pitié de moi ! »",
+      "Certains autour lui disaient : « Chut, tais-toi ! » Mais Bartimée appela encore plus fort parce qu'il savait que Jésus était plein de bonté. 🗣️",
+      "Jésus s'arrêta tout net ! « Appelez-le ! » dit-Il avec un grand sourire. Bartimée jeta son manteau et bondit jusqu'à Jésus !",
+      "« Que veux-tu ? — Que je voie ! » À l'instant même, ses yeux s'ouvrirent ! La première chose qu'il vit fut le visage souriant de Jésus ! 👀"
+    ],
+    "scenes": [
+      {"id": "s68_1", "title": "Bartimée appelle Jésus au bord du chemin", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "🗣️", "propEmoji": "🧥", "expression": "BRAVE"},
+      {"id": "s68_2", "title": "Jésus s'arrête et l'accueille avec douceur", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "SHEPHERD", "moodEmoji": "💛", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s68_3", "title": "La joie de voir les couleurs du monde !", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "JESUS", "moodEmoji": "👀", "propEmoji": "☀️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel était le nom de l'homme aveugle ?", "options": ["Bartimée", "Zachée", "Lazare"], "correctIndex": 0, "explanation": "Oui ! Bartimée était assis près de Jéricho. 😊"},
+      {"question": "A-t-il écouté ceux qui lui disaient de se taire ?", "options": ["Non, il a appelé Jésus encore plus fort !", "Oui, il est parti", "Il a boudé"], "correctIndex": 0, "explanation": "Bravo ! Il n'a pas laissé les autres le décourager. 🗣️"},
+      {"question": "Comment Jésus a-t-Il réagi à son appel ?", "options": ["Il s'est arrêté et l'a appelé avec bonté", "Il a continué sans regarder", "Il était pressé"], "correctIndex": 0, "explanation": "Exact ! Jésus n'est jamais trop occupé pour quelqu'un qui L'appelle. 💛"},
+      {"question": "Qu'a demandé Bartimée à Jésus ?", "options": ["De retrouver la vue", "De l'argent", "Un chameau"], "correctIndex": 0, "explanation": "Oui ! « Maître, que je voie ! » 👀"},
+      {"question": "Qu'a fait Bartimée une fois guéri ?", "options": ["Il a suivi Jésus sur le chemin avec joie", "Il est retourné s'asseoir", "Il a oublié de dire merci"], "correctIndex": 0, "explanation": "Super ! Il voulait rester près de son nouvel Ami ! ✨"}
+    ]
+  },
+  {
+    "id": 69, "moduleId": 7, "title": "Un Seul Revient Dire Merci", "reference": "Luc 17:11–19", "testament": "NOUVEAU", "emoji": "💐", "durationMinutes": 3,
+    "moral": "Dire « merci » avec le cœur remplit la vie de joie et d'amitié.",
+    "paragraphs": [
+      "Un jour, en entrant dans un village, dix hommes malades qui vivaient isolés appelèrent Jésus de loin : « Jésus, Maître, guéris-nous ! » 🙏",
+      "Jésus les regarda avec beaucoup de tendresse et leur dit : « Allez vous montrer aux prêtres ! »",
+      "Pendant qu'ils marchaient avec confiance, miracle ! Tous les dix virent leur peau redevenir toute saine et guérie ! ✨",
+      "Neuf d'entre eux coururent vite retrouver leur vie, oubliant même de se retourner… Mais UN seul fit demi-tour en courant !",
+      "Il se jeta joyeusement aux pieds de Jésus en criant : « MERCI, merci beaucoup ! » Jésus sourit : « Ta foi t'a sauvé ! » 💐"
+    ],
+    "scenes": [
+      {"id": "s69_1", "title": "Dix malades appellent Jésus avec espoir", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "JESUS", "moodEmoji": "🙏", "propEmoji": "💛", "expression": "WORRIED"},
+      {"id": "s69_2", "title": "Guéris sur le chemin !", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🎉", "expression": "SURPRISED"},
+      {"id": "s69_3", "title": "Un ami revient dire « Merci ! »", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "JESUS", "moodEmoji": "💐", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Combien de malades Jésus a-t-Il guéris ce jour-là ?", "options": ["Dix", "Deux", "Cent"], "correctIndex": 0, "explanation": "Oui ! Tous les dix ont été complètement guéris ! ✨"},
+      {"question": "Combien sont revenus dire merci à Jésus ?", "options": ["Un seul !", "Tous les dix", "Cinq"], "correctIndex": 0, "explanation": "Exact ! Un seul a pris le temps de revenir dire merci. 💐"},
+      {"question": "Comment s'est senti Jésus devant celui qui disait merci ?", "options": ["Très touché et heureux", "Indifférent", "Fâché"], "correctIndex": 0, "explanation": "Bravo ! Dire merci réchauffe toujours le cœur ! 💛"},
+      {"question": "Que dit Jésus à l'homme reconnaissant ?", "options": ["« Lève-toi, ta foi t'a sauvé »", "« Tu es en retard »", "Rien"], "correctIndex": 0, "explanation": "Oui ! Sa gratitude lui a apporté une joie encore plus grande. 😊"},
+      {"question": "À qui peux-tu dire « merci » aujourd'hui ?", "options": ["À Dieu, à mes parents et à mes amis !", "À personne", "Seulement au chat"], "correctIndex": 0, "explanation": "Super ! Un petit « merci » est un rayon de soleil ! ☀️"}
+    ]
+  },
+  {
+    "id": 70, "moduleId": 7, "title": "Lazare, L'Ami Ressuscité", "reference": "Jean 11:1–44", "testament": "NOUVEAU", "emoji": "🌅", "durationMinutes": 4,
+    "moral": "Jésus ressent nos peines avec nous et apporte toujours l'espérance de la vie.",
+    "paragraphs": [
+      "Jésus avait trois très chers amis à Béthanie : deux sœurs, Marthe et Marie, et leur frère Lazare. 🏡",
+      "Un jour, Lazare tomba gravement malade et mourut avant que Jésus n'arrive. Quand Jésus vit Marthe et Marie pleurer, Lui aussi versa des larmes d'amitié. 💧",
+      "« Je suis la résurrection et la vie », dit doucement Jésus à Marthe. Ils marchèrent ensemble jusqu'au tombeau fermé par une grosse pierre.",
+      "« Enlevez la pierre ! » demanda Jésus, puis Il remercia Dieu son Père et appela d'une voix forte : « Lazare, sors dehors ! » ✨",
+      "Et merveille ! Lazare sortit vivant et sourit à ses sœurs qui le serrèrent fort dans leurs bras ! Tout le village célébra le pouvoir de la vie en Jésus ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s70_1", "title": "Jésus console Ses amies avec tendresse", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "MARY", "moodEmoji": "💧", "propEmoji": "💛", "expression": "WORRIED"},
+      {"id": "s70_2", "title": "Devant le tombeau : « Lazare, sors ! »", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🪨", "expression": "BRAVE"},
+      {"id": "s70_3", "title": "La grande fête de la vie retrouvée", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "🌅", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelait l'ami malade de Jésus ?", "options": ["Lazare", "Zachée", "Jonas"], "correctIndex": 0, "explanation": "Oui ! Lazare était le frère de Marthe et Marie. 🏡"},
+      {"question": "Qu'a fait Jésus en voyant Ses amies pleurer ?", "options": ["Il a pleuré avec elles par amour", "Il a ri", "Il est reparti"], "correctIndex": 0, "explanation": "Bravo ! Jésus comprend toujours nos peines et pleure avec nous. 💧"},
+      {"question": "Qu'a crié Jésus devant le tombeau ouvert ?", "options": ["« Lazare, sors dehors ! »", "« Bonne nuit ! »", "« Cache-toi ! »"], "correctIndex": 0, "explanation": "Exact ! La voix de Jésus donne la vie ! ✨"},
+      {"question": "Que s'est-il passé aussitôt ?", "options": ["Lazare est sorti vivant", "La pierre a roulé", "Il a plu"], "correctIndex": 0, "explanation": "Super ! Quelle joie incroyable pour Marthe et Marie ! 🎉"},
+      {"question": "Que nous montre ce miracle ?", "options": ["Jésus est plus fort que la tristesse et la mort", "Il faut rester triste", "Les amis ne comptent pas"], "correctIndex": 0, "explanation": "Merveilleux ! En Jésus brille toujours l'espérance de la vie. 🌅"}
+    ]
+  }
+]

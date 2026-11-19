@@ -1,0 +1,6 @@
+{
+  "name": "La Bible App pour les Enfants",
+  "description": "100 histoires bibliques illustrées à l'aquarelle pour enfants en français avec lecture audio, quiz, badges aquarelle, série quotidienne et espace parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

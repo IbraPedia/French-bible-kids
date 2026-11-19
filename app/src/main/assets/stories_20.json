@@ -1,0 +1,117 @@
+[
+  {
+    "id": 96, "moduleId": 10, "title": "Pierre Libéré de Prison par un Ange", "reference": "Actes 12:1–17", "testament": "NOUVEAU", "emoji": "🔓", "durationMinutes": 4,
+    "moral": "Les prières unies des amis ont une force immense devant Dieu !",
+    "paragraphs": [
+      "Un roi méchant fit arrêter l'apôtre Pierre et le fit enfermer dans une prison bien gardée, attaché entre deux soldats ! 🔒",
+      "Mais pendant toute la nuit, tous les amis de Pierre étaient réunis dans la maison de Marie et priaient Dieu sans s'arrêter pour lui. 🙏",
+      "En prison, Pierre était si calme et confiant qu'il dormait profondément ! Soudain, une belle lumière remplit la cellule et un ange le réveilla doucement ! ✨",
+      "CLING ! Les chaînes tombèrent de ses poignets ! L'ange le guida dehors devant les gardes endormis, et la grande porte en fer s'ouvrit toute seule ! 🔓",
+      "Pierre courut frapper chez ses amis ! Quand la jeune servante Rhode ouvrit et le vit, elle fut si folle de joie qu'elle oublia même de le laisser entrer au début ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s96_1", "title": "Pierre dort paisiblement dans sa cellule", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "NONE", "moodEmoji": "🔒", "propEmoji": "⛓️", "expression": "PEACEFUL"},
+      {"id": "s96_2", "title": "L'ange lumineux libère Pierre en cellule", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "ANGEL", "moodEmoji": "✨", "propEmoji": "🔓", "expression": "SURPRISED"},
+      {"id": "s96_3", "title": "La porte de la maison s'ouvre dans la joie !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "FISHERMAN", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que faisaient les amis de Pierre pendant qu'il était en prison ?", "options": ["Ils priaient Dieu ensemble toute la nuit", "Ils dormaient", "Ils partaient en vacances"], "correctIndex": 0, "explanation": "Oui ! Leurs prières unies montaient vers Dieu ! 🙏"},
+      {"question": "Comment Pierre réagissait-il dans sa cellule ?", "options": ["Il était en paix et dormait profondément", "Il criait", "Il pleurait sans fin"], "correctIndex": 0, "explanation": "Bravo ! Il avait une confiance totale en Jésus ! 😴"},
+      {"question": "Qui a réveillé Pierre et fait tomber ses chaînes ?", "options": ["Un ange envoyé par Dieu", "Un chat", "Le gardien"], "correctIndex": 0, "explanation": "Exact ! L'ange l'a guidé jusque dans la rue ! 👼"},
+      {"question": "Comment a réagi la jeune Rhode à la porte de la maison ?", "options": ["Elle était si contente qu'elle a couru l'annoncer avant d'ouvrir !", "Elle a eu peur", "Elle a fermé les volets"], "correctIndex": 0, "explanation": "Super ! Quelle scène amusante et pleine de joie ! 🎉"},
+      {"question": "Que nous montre cette délivrance ?", "options": ["Dieu écoute toujours les prières de Ses enfants", "Les portes ne s'ouvrent jamais", "Il est inutile de prier"], "correctIndex": 0, "explanation": "Merveilleux ! Rien n'arrête les réponses d'amour de Dieu. ✨"}
+    ]
+  },
+  {
+    "id": 97, "moduleId": 10, "title": "Paul et Silas Chantent en Prison", "reference": "Actes 16:16–34", "testament": "NOUVEAU", "emoji": "🎵", "durationMinutes": 4,
+    "moral": "Chanter et dire merci à Dieu même dans un moment dur illumine toute la nuit !",
+    "paragraphs": [
+      "Paul et son ami Silas furent arrêtés injustement dans la ville de Philippes et jetés dans la cellule la plus sombre de la prison ! 🔒",
+      "Leurs pieds étaient attachés dans du bois, mais au lieu de se plaindre, que firent-ils à minuit ? Ils se mirent à prier et à chanter de joyeux chants pour Dieu ! 🎵",
+      "Tous les autres prisonniers écoutaient, émerveillés d'entendre une si belle musique d'espérance dans la cellule !",
+      "Tout à coup, un grand tremblement secoua la prison, toutes les portes s'ouvrirent et les chaînes se détachèrent ! ⚡",
+      "Personne ne s'enfuit ! Ému par leur bonté qui lui sauva la vie, le gardien de la prison et toute sa famille crurent en Jésus et partagèrent un bon repas ensemble ! 🥖"
+    ],
+    "scenes": [
+      {"id": "s97_1", "title": "Paul et Silas chantent en prison avec les prisonniers", "backdrop": "PRISON_CELL", "primaryChar": "PAUL", "secondaryChar": "PRISONER", "moodEmoji": "🎵", "propEmoji": "⛓️", "expression": "HAPPY"},
+      {"id": "s97_2", "title": "La lumière brise les chaînes à minuit", "backdrop": "PRISON_CELL", "primaryChar": "PAUL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "⚡", "propEmoji": "🔓", "expression": "SURPRISED"},
+      {"id": "s97_3", "title": "Le gardien et sa famille accueillent Jésus", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "PAUL", "secondaryChar": "KID_FRIEND", "moodEmoji": "🥖", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que faisaient Paul et Silas à minuit dans leur cellule ?", "options": ["Ils priaient et chantaient pour Dieu", "Ils râlaient", "Ils cassaient le mur"], "correctIndex": 0, "explanation": "Oui ! Leur joie venait de Jésus, pas des murs de la prison ! 🎵"},
+      {"question": "Qui écoutait leurs chants avec attention ?", "options": ["Les autres prisonniers", "Des oiseaux", "Personne"], "correctIndex": 0, "explanation": "Bravo ! Leur chanson encourageait toute la prison. 🤝"},
+      {"question": "Qu'est-ce qui a ouvert toutes les portes de la prison ?", "options": ["Un grand tremblement de terre envoyé par Dieu", "Une clé dorée", "Un éléphant"], "correctIndex": 0, "explanation": "Exact ! Toutes les chaînes sont tombées d'un coup ! ⚡"},
+      {"question": "Les prisonniers se sont-ils tous enfuis ?", "options": ["Non, Paul a rassuré le gardien que tous étaient là", "Oui, tous", "Ils sont allés nager"], "correctIndex": 0, "explanation": "Super ! Paul a protégé le gardien par amour. 💛"},
+      {"question": "Qu'a fait le gardien de prison à la fin ?", "options": ["Il a cru en Jésus avec toute sa famille et partagé un repas", "Il a refermé la porte", "Il est parti"], "correctIndex": 0, "explanation": "Merveilleux ! La bonté a changé toute une famille ! 🎉"}
+    ]
+  },
+  {
+    "id": 98, "moduleId": 10, "title": "Paul, la Tempête et l'Île de Malte", "reference": "Actes 27–28", "testament": "NOUVEAU", "emoji": "⛵", "durationMinutes": 3,
+    "moral": "Garder son calme et encourager les autres aide tout l'équipage à garder espoir.",
+    "paragraphs": [
+      "Paul voyageait sur un grand bateau vers Rome avec deux cent soixante-seize personnes quand une énorme tempête d'hiver éclata sur la mer ! ⛈️",
+      "Pendant deux semaines sans voir ni soleil ni étoiles, les marins avaient très peur que le navire ne coule !",
+      "Alors Paul rassura tout le monde : « Courage ! Cette nuit, un ange de Dieu m'a dit que pas une seule personne ne sera perdue ! » 👼",
+      "Paul leur distribua du pain en disant merci à Dieu pour leur redonner des forces. Bientôt, le bateau s'échoua près d'une jolie île appelée Malte ! 🏝️",
+      "Tous les 276 passagers arrivèrent sains et saufs sur la plage, et les gentils habitants allumèrent un grand feu chaud pour les accueillir ! 🔥"
+    ],
+    "scenes": [
+      {"id": "s98_1", "title": "La grande tempête agite le navire", "backdrop": "ARK_OCEAN", "primaryChar": "PAUL", "secondaryChar": "FISHERMAN", "moodEmoji": "⛈️", "propEmoji": "⛵", "expression": "WORRIED"},
+      {"id": "s98_2", "title": "Paul encourage tout le monde avec foi", "backdrop": "GALILEE_BOAT", "primaryChar": "PAUL", "secondaryChar": "ANGEL", "moodEmoji": "👼", "propEmoji": "🍞", "expression": "BRAVE"},
+      {"id": "s98_3", "title": "Tous sauvés autour du feu sur l'île de Malte", "backdrop": "RED_SEA", "primaryChar": "PAUL", "secondaryChar": "KID_FRIEND", "moodEmoji": "🔥", "propEmoji": "🏝️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qu'est-ce qui a frappé le bateau de Paul en mer ?", "options": ["Une longue et forte tempête", "Une chute de neige", "Un calme plat"], "correctIndex": 0, "explanation": "Oui ! Des vagues énormes pendant quatorze jours ! ⛈️"},
+      {"question": "Comment Paul a-t-il encouragé les marins effrayés ?", "options": ["Il a partagé la promesse de l'ange et du pain", "Il a crié", "Il s'est caché"], "correctIndex": 0, "explanation": "Bravo ! Sa paix rassurait tous les voyageurs ! 🍞"},
+      {"question": "Combien de personnes ont été sauvées ?", "options": ["Toutes les 276 personnes !", "Seulement la moitié", "Trois personnes"], "correctIndex": 0, "explanation": "Exact ! Pas une seule personne n'a été perdue, comme promis ! ✨"},
+      {"question": "Sur quelle île accueillante ont-ils débarqué ?", "options": ["L'île de Malte", "La Corse", "L'Irlande"], "correctIndex": 0, "explanation": "Super ! Les habitants de Malte ont été si chaleureux ! 🏝️"},
+      {"question": "Comment peux-tu aider quand tes amis ont peur ?", "options": ["Avec des mots doux et encourageants comme Paul", "En ayant encore plus peur", "En te moquant"], "correctIndex": 0, "explanation": "Très bien ! Un mot gentil calme bien des tempêtes ! 💛"}
+    ]
+  },
+  {
+    "id": 99, "moduleId": 10, "title": "Les Lettres d'Amour de Paul", "reference": "1 Corinthiens 13", "testament": "NOUVEAU", "emoji": "💌", "durationMinutes": 3,
+    "moral": "De toutes les qualités du monde, la plus grande de toutes, c'est l'amour !",
+    "paragraphs": [
+      "Pour encourager ses amis dans plein de villes lointaines, l'apôtre Paul écrivait de belles lettres remplies de conseils doux comme des câlins ! 💌",
+      "Dans sa lettre la plus célèbre, Paul écrivit un poème merveilleux sur la plus belle chose au monde : l'AMOUR !",
+      "« Même si je parlais toutes les langues ou si je savais tout… si je n'aime pas les autres, ça ne sert à rien ! » expliqua Paul. ✨",
+      "« L'amour est patient, l'amour est doux et serviable. Il n'est pas jaloux, il ne se vante pas, il pardonne et se réjouit de la vérité ! » 💛",
+      "Trois choses restent toujours précieuses : la foi, l'espérance et l'amour… mais la plus grande des trois, c'est l'amour ! 🌟"
+    ],
+    "scenes": [
+      {"id": "s99_1", "title": "Paul écrit avec joie à ses amis", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "PAUL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💌", "propEmoji": "📜", "expression": "PEACEFUL"},
+      {"id": "s99_2", "title": "L'amour est patient, doux et gentil", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "MARY", "moodEmoji": "💛", "propEmoji": "🌸", "expression": "HAPPY"},
+      {"id": "s99_3", "title": "Foi, Espérance et surtout Amour !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌟", "propEmoji": "🕊️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment Paul encourageait-il ses amis lointains ?", "options": ["En leur écrivant de belles lettres", "Par téléphone", "Par pigeon"], "correctIndex": 0, "explanation": "Oui ! Ses lettres se trouvent encore aujourd'hui dans la Bible ! 💌"},
+      {"question": "Selon Paul, quelles qualités a le véritable amour ?", "options": ["Il est patient, doux et sans jalousie", "Il est pressé et colérique", "Il se vante tout le temps"], "correctIndex": 0, "explanation": "Bravo ! L'amour prend soin de chacun avec patience. 💛"},
+      {"question": "Quelles sont les trois choses qui demeurent toujours ?", "options": ["La foi, l'espérance et l'amour", "L'or, l'argent et les jouets", "Le vent, la pluie et le sable"], "correctIndex": 0, "explanation": "Exact ! Trois grands trésors pour le cœur. ✨"},
+      {"question": "Laquelle de ces trois est la plus grande ?", "options": ["L'amour !", "Le vent", "Aucune"], "correctIndex": 0, "explanation": "Super ! L'amour est le cœur même de Dieu ! 🌟"},
+      {"question": "Comment montrer cet amour aujourd'hui ?", "options": ["En étant patient, gentil et en pardonnant", "En boudant", "En se vantant"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque sourire plein d'amour vient de Dieu. 🕊️"}
+    ]
+  },
+  {
+    "id": 100, "moduleId": 10, "title": "La Nouvelle Terre de Paix", "reference": "Apocalypse 21–22", "testament": "NOUVEAU", "emoji": "🏆", "durationMinutes": 4,
+    "moral": "L'histoire de la Bible se termine par une promesse de joie et d'amour sans fin !",
+    "paragraphs": [
+      "Tout à la fin de la Bible, l'apôtre Jean reçut une merveilleuse vision du futur magnifique que Dieu prépare pour tous Ses amis ! 🌈",
+      "Il vit un ciel nouveau et une terre nouvelle toute brillante, propre et paisible, avec une cité lumineuse aux portes de perles blanches ! ✨",
+      "Au milieu coulait une rivière d'eau claire comme du cristal, bordée d'arbres de vie aux doux fruits pour guérir tous les cœurs. 🌳",
+      "Dieu Lui-même était au milieu de tout le monde : Il essuyait chaque larme des yeux, et il n'y avait plus jamais ni peine, ni cri, ni peur, ni nuit ! ☀️",
+      "Félicitations ! Tu as découvert les 100 belles histoires de la Bible : souviens-toi chaque jour que Dieu t'aime pour toujours ! 🏆"
+    ],
+    "scenes": [
+      {"id": "s100_1", "title": "La belle cité de lumière et de perles", "backdrop": "HEAVEN_CITY", "primaryChar": "ANGEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "🌈", "expression": "HAPPY"},
+      {"id": "s100_2", "title": "La rivière cristalline et l'arbre de vie", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌳", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s100_3", "title": "Plus de larmes, seulement la joie avec Dieu !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🏆", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel apôtre a vu la belle vision à la fin de la Bible ?", "options": ["L'apôtre Jean", "Goliath", "Pharaon"], "correctIndex": 0, "explanation": "Oui ! Jean a écrit le beau livre de l'Apocalypse rempli d'espoir. 📖"},
+      {"question": "Que fera Dieu pour chaque larme sur la nouvelle terre ?", "options": ["Il essuiera toute larme avec tendresse", "Il laissera pleurer", "Il oubliera"], "correctIndex": 0, "explanation": "Bravo ! Plus jamais de tristesse ni de peur ! 💛"},
+      {"question": "De quoi sont faites les belles portes de la cité ?", "options": ["De perles brillantes", "De fer rouillé", "De carton"], "correctIndex": 0, "explanation": "Exact ! Des portes scintillantes toujours ouvertes ! ✨"},
+      {"question": "Qui éclaire cette belle cité mieux que le soleil ?", "options": ["La lumière de Dieu et de Jésus", "Des bougies", "Des lampes de poche"], "correctIndex": 0, "explanation": "Super ! Là-bas, la lumière d'amour de Dieu brille toujours ! ☀️"},
+      {"question": "Quel est le grand message de toute la Bible du début à la fin ?", "options": ["Dieu nous aime et veut vivre en paix avec nous pour toujours !", "Que des règles tristes", "Juste des voyages"], "correctIndex": 0, "explanation": "Félicitations ! Tu es un vrai champion des 100 histoires bibliques ! 🏆"}
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 16, "moduleId": 2, "title": "Les Rêves dans la Prison", "reference": "Genèse 40", "testament": "ANCIEN", "emoji": "🍇", "durationMinutes": 3,
+    "moral": "Aider nos amis avec les dons que Dieu nous donne apporte de l'espoir.",
+    "paragraphs": [
+      "En prison, Joseph rencontra deux nouveaux prisonniers qui étaient très tristes : l'échanson qui servait le jus de raisin au roi, et le grand boulanger. 🍇",
+      "Un matin, les deux hommes avaient fait des rêves étranges. Joseph leur demanda gentiment : « Pourquoi avez-vous l'air si soucieux ? »",
+      "« Dieu seul connaît le secret des rêves, racontez-moi ! » proposa Joseph dans la cellule éclairée par un petit rayon de soleil.",
+      "À l'échanson, qui avait rêvé de trois grappes de raisin pressées dans une coupe, Joseph annonça avec joie qu'il allait vite retrouver son travail au palais !",
+      "Trois jours plus tard, tout arriva exactement comme Joseph l'avait dit ! Joseph continua d'attendre patiemment en faisant confiance à Dieu. ✨"
+    ],
+    "scenes": [
+      {"id": "s16_1", "title": "Joseph console ses compagnons de cellule", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "PRISONER", "moodEmoji": "💬", "propEmoji": "🍇", "expression": "PEACEFUL"},
+      {"id": "s16_2", "title": "Les rêves de raisin et de pain", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🥖", "propEmoji": "🍷", "expression": "SURPRISED"},
+      {"id": "s16_3", "title": "L'espérance derrière les barreaux", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "ANGEL", "moodEmoji": "✨", "propEmoji": "☀️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui étaient les deux compagnons de prison de Joseph ?", "options": ["L'échanson et le boulanger du roi", "Deux marins", "Deux musiciens"], "correctIndex": 0, "explanation": "Oui ! L'un servait les boissons, l'autre faisait le pain du Pharaon. 🥖"},
+      {"question": "Pourquoi les deux hommes étaient-ils tristes ?", "options": ["Ils ne comprenaient pas leurs rêves", "Ils avaient froid", "Ils avaient perdu leur clé"], "correctIndex": 0, "explanation": "Exact ! Leurs rêves de la nuit les inquiétaient beaucoup. 😟"},
+      {"question": "Qui donnait à Joseph l'intelligence pour expliquer les rêves ?", "options": ["Dieu", "Un livre secret", "La chance"], "correctIndex": 0, "explanation": "Bravo ! Joseph a toujours dit que la sagesse vient de Dieu. ✨"},
+      {"question": "Qu'est-ce que l'échanson avait vu dans son rêve ?", "options": ["Une vigne avec trois grappes de raisin", "Un dragon", "Un bateau"], "correctIndex": 0, "explanation": "Super ! Il pressait les raisins dans la coupe du roi. 🍇"},
+      {"question": "Comment Joseph traitait-il les autres prisonniers ?", "options": ["Avec attention et gentillesse", "En les ignorant", "En se moquant"], "correctIndex": 0, "explanation": "Très bien ! S'intéresser aux autres réchauffe les cœurs. 💛"}
+    ]
+  },
+  {
+    "id": 17, "moduleId": 2, "title": "Les Étranges Rêves de Pharaon", "reference": "Genèse 41:1–36", "testament": "ANCIEN", "emoji": "🐄", "durationMinutes": 4,
+    "moral": "Dieu agit toujours au moment parfait.",
+    "paragraphs": [
+      "Deux ans plus tard, le grand roi d'Égypte, Pharaon, fit deux rêves si bizarres qu'il se réveilla tout agité. 👑",
+      "Il avait vu sept vaches bien grasses mangées par sept vaches toutes maigres, puis sept beaux épis de blé avalés par sept épis secs !",
+      "Aucun sage du palais ne comprenait le sens. Soudain, l'échanson se souvint de son ami : « Sire ! En prison, un jeune homme nommé Joseph explique les rêves grâce à Dieu ! »",
+      "On sortit aussitôt Joseph de sa cellule, on lui donna de beaux habits propres et on l'amena devant Pharaon.",
+      "Joseph expliqua calmement : « Dieu annonce sept années de grandes récoltes, suivies de sept années sans pluie. Il faut garder des réserves de blé ! » 🌾"
+    ],
+    "scenes": [
+      {"id": "s17_1", "title": "Pharaon troublé par ses rêves", "backdrop": "EGYPT_PALACE", "primaryChar": "PHARAOH", "secondaryChar": "NONE", "moodEmoji": "🐄", "propEmoji": "🌾", "expression": "WORRIED"},
+      {"id": "s17_2", "title": "Joseph sort de sa cellule", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "ANGEL", "moodEmoji": "🔓", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s17_3", "title": "Joseph explique le plan de Dieu au roi", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "PHARAOH", "moodEmoji": "🌾", "propEmoji": "👑", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Qu'a vu Pharaon dans son premier rêve ?", "options": ["7 vaches grasses et 7 vaches maigres", "7 éléphants bleus", "7 voitures"], "correctIndex": 0, "explanation": "Oui ! Les vaches maigres ont mangé les vaches grasses. 🐄"},
+      {"question": "Qui a parlé de Joseph à Pharaon ?", "options": ["L'échanson qui était sorti de prison", "Le lion", "Un soldat romain"], "correctIndex": 0, "explanation": "Bravo ! L'échanson s'est enfin souvenu de Joseph. 😊"},
+      {"question": "Que signifiaient les 7 années grasses ?", "options": ["7 années de très bonnes récoltes", "7 jours de fête", "7 mois de pluie"], "correctIndex": 0, "explanation": "Exact ! L'Égypte allait avoir plein de blé pendant 7 ans. 🌾"},
+      {"question": "Quel sage conseil Joseph donna-t-il au roi ?", "options": ["Mettre de la nourriture de côté", "Tout dépenser tout de suite", "Partir en vacances"], "correctIndex": 0, "explanation": "Très bien ! Faire des réserves allait sauver le pays. 🥖"},
+      {"question": "D'où venait l'intelligence de Joseph ?", "options": ["De Dieu", "D'une potion", "Du hasard"], "correctIndex": 0, "explanation": "Oui ! Joseph rendait toujours gloire à Dieu. ✨"}
+    ]
+  },
+  {
+    "id": 18, "moduleId": 2, "title": "Joseph Gouverneur d'Égypte", "reference": "Genèse 41:37–57", "testament": "ANCIEN", "emoji": "👑", "durationMinutes": 3,
+    "moral": "La fidélité dans les petites choses prépare à de grandes missions.",
+    "paragraphs": [
+      "Pharaon fut émerveillé par la sagesse de Joseph : « Personne n'est aussi rempli de l'Esprit de Dieu que toi ! » 👑",
+      "Le roi retira sa belle bague en or et la mit au doigt de Joseph, lui offrit un collier doré et le nomma gouverneur de toute l'Égypte !",
+      "Pendant sept ans, les champs donnèrent du blé doré en abondance. Joseph fit construire de grands greniers dans chaque ville pour tout garder précieusement.",
+      "Puis la sécheresse arriva, mais personne n'eut faim en Égypte grâce à la prévoyance de Joseph ! 🌾",
+      "Des voyageurs de tous les pays voisins vinrent même acheter du blé auprès du sage gouverneur Joseph. 🌍"
+    ],
+    "scenes": [
+      {"id": "s18_1", "title": "Pharaon honore Joseph", "backdrop": "EGYPT_PALACE", "primaryChar": "PHARAOH", "secondaryChar": "JOSEPH_COAT", "moodEmoji": "👑", "propEmoji": "💍", "expression": "HAPPY"},
+      {"id": "s18_2", "title": "Les grands greniers remplis de blé", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JOSEPH_COAT", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌾", "propEmoji": "🍞", "expression": "HAPPY"},
+      {"id": "s18_3", "title": "Joseph partage le blé avec tous", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "SHEPHERD", "moodEmoji": "🤝", "propEmoji": "🥖", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel poste Pharaon confia-t-il à Joseph ?", "options": ["Gouverneur de toute l'Égypte", "Jardinier", "Trompettiste"], "correctIndex": 0, "explanation": "Bravo ! Joseph devint le numéro 2 du royaume ! 👑"},
+      {"question": "Qu'offrit Pharaon à Joseph comme signe de confiance ?", "options": ["Sa bague royale et un collier d'or", "Un chapeau vert", "Une canne à pêche"], "correctIndex": 0, "explanation": "Oui ! C'était un très grand honneur. 💍"},
+      {"question": "Où Joseph rangeait-il les récoltes ?", "options": ["Dans d'immenses greniers", "Sous son lit", "Dans le fleuve"], "correctIndex": 0, "explanation": "Exact ! Des greniers pleins de blé pour nourrir tout le monde. 🌾"},
+      {"question": "Que se passa-t-il pendant les 7 années de sécheresse ?", "options": ["Tout le monde avait à manger grâce aux réserves", "Tout le monde partit sur la lune", "Les greniers étaient vides"], "correctIndex": 0, "explanation": "Super ! L'Égypte put même aider les pays voisins. 🥖"},
+      {"question": "Comment Joseph est-il passé de la prison au palais ?", "options": ["En restant fidèle à Dieu", "En trichant", "Par magie"], "correctIndex": 0, "explanation": "Très bien ! Dieu récompense la persévérance et la bonté. 💛"}
+    ]
+  },
+  {
+    "id": 19, "moduleId": 2, "title": "Les Frères Devant Joseph", "reference": "Genèse 42–44", "testament": "ANCIEN", "emoji": "🌾", "durationMinutes": 3,
+    "moral": "Avant de retrouver la paix, il est important de regretter le mal qu'on a fait.",
+    "paragraphs": [
+      "Au pays de Canaan, la famille de Jacob commençait aussi à manquer de pain. Le vieux papa envoya ses fils en Égypte pour acheter du blé. 🐪",
+      "Arrivés au grand palais, les dix frères s'inclinèrent bien bas devant le gouverneur… sans reconnaître leur petit frère Joseph !",
+      "Joseph les reconnut tout de suite ! Son cœur battit très fort, mais il voulut vérifier si ses frères étaient devenus plus gentils qu'avant.",
+      "Il vit bientôt combien ils protégeaient leur plus jeune frère Benjamin et combien ils regrettaient ce qu'ils avaient fait autrefois.",
+      "Joseph dut même se détourner pour essuyer une petite larme de joie et d'émotion ! 💧"
+    ],
+    "scenes": [
+      {"id": "s19_1", "title": "Les frères arrivent en Égypte", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "SHEPHERD", "moodEmoji": "🙇", "propEmoji": "🌾", "expression": "SURPRISED"},
+      {"id": "s19_2", "title": "L'amour pour le petit Benjamin", "backdrop": "EGYPT_PALACE", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤝", "propEmoji": "🥖", "expression": "WORRIED"},
+      {"id": "s19_3", "title": "Le cœur ému de Joseph", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💧", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Pourquoi les frères de Joseph sont-ils venus en Égypte ?", "options": ["Pour acheter du blé", "Pour voir les pyramides", "Pour jouer au foot"], "correctIndex": 0, "explanation": "Oui ! Il n'y avait plus de nourriture dans leur pays. 🌾"},
+      {"question": "Les frères ont-ils reconnu Joseph tout de suite ?", "options": ["Non, il avait grandi et portait des habits égyptiens", "Oui, immédiatement", "Ils ne l'ont jamais vu"], "correctIndex": 0, "explanation": "Exact ! Cela faisait de longues années qu'ils ne l'avaient pas vu. 👑"},
+      {"question": "Que faisait Joseph en voyant ses frères s'incliner ?", "options": ["Il se souvint de ses rêves et fut très ému", "Il leur cria dessus", "Il ferma les volets"], "correctIndex": 0, "explanation": "Bravo ! Les rêves de son enfance s'accomplissaient ! ✨"},
+      {"question": "Que voulut vérifier Joseph ?", "options": ["Si ses frères avaient changé en bien", "S'ils savaient nager", "Leur taille"], "correctIndex": 0, "explanation": "Oui ! Il vit qu'ils aimaient et protégeaient Benjamin. 🤝"},
+      {"question": "Quel sentiment monta dans le cœur de Joseph ?", "options": ["De la tendresse et des larmes de joie", "De la vengeance", "De l'indifférence"], "correctIndex": 0, "explanation": "Merveilleux ! Le pardon préparait un beau moment. 💛"}
+    ]
+  },
+  {
+    "id": 20, "moduleId": 2, "title": "Le Grand Pardon en Famille", "reference": "Genèse 45–50", "testament": "ANCIEN", "emoji": "🤗", "durationMinutes": 4,
+    "moral": "Pardonner de tout son cœur guérit les blessures et rassemble les familles.",
+    "paragraphs": [
+      "Joseph ne put plus garder son secret. Il s'écria avec une voix douce : « Je suis Joseph, votre frère ! Est-ce que papa va bien ? » 🤗",
+      "Ses frères ouvrirent de grands yeux tout effrayés ! Ils avaient peur que Joseph se venge d'eux.",
+      "Mais Joseph ouvrit grands les bras et les serra fort contre lui en pleurant de joie : « Ne soyez pas tristes ! Dieu m'a envoyé ici pour sauver toute notre famille ! »",
+      "Il envoya vite des chariots confortables pour faire venir son vieux papa Jacob en Égypte. Quelle fête merveilleuse quand Jacob serra Joseph dans ses bras ! 💛",
+      "À travers toutes ces aventures, de la tunique à la prison jusqu'au palais, Dieu avait tout transformé en bénédiction grâce au pardon."
+    ],
+    "scenes": [
+      {"id": "s20_1", "title": "« Je suis Joseph, votre frère ! »", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "SHEPHERD", "moodEmoji": "😲", "propEmoji": "💛", "expression": "SURPRISED"},
+      {"id": "s20_2", "title": "Le câlin du pardon", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "🕊️", "expression": "HAPPY"},
+      {"id": "s20_3", "title": "Les retrouvailles avec papa Jacob", "backdrop": "GARDEN_EDEN", "primaryChar": "JOSEPH_COAT", "secondaryChar": "ABRAHAM", "moodEmoji": "🎉", "propEmoji": "🌈", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment Joseph a-t-il accueilli ses frères ?", "options": ["Il leur a pardonné et les a serrés dans ses bras", "Il les a mis en prison", "Il les a chassés"], "correctIndex": 0, "explanation": "Bravo ! Joseph a choisi le pardon plutôt que la vengeance. 🤗"},
+      {"question": "Pourquoi les frères ont-ils eu peur au début ?", "options": ["Ils craignaient que Joseph se venge", "Ils avaient peur du chien", "Ils avaient faim"], "correctIndex": 0, "explanation": "Oui, ils se souvenaient du mal qu'ils avaient fait, mais Joseph les a rassurés ! 💛"},
+      {"question": "Qui est venu vivre en Égypte pour retrouver Joseph ?", "options": ["Son papa Jacob et toute la famille", "Goliath", "Le roi David"], "correctIndex": 0, "explanation": "Exact ! Quel bonheur pour le vieux Jacob de revoir son fils ! 🎉"},
+      {"question": "Selon Joseph, qui avait transformé ce mal en bien ?", "options": ["Dieu", "Le pharaon", "Les marchands"], "correctIndex": 0, "explanation": "Oui ! Dieu avait préparé de quoi nourrir toute la famille. ✨"},
+      {"question": "Quel est le plus beau message de l'histoire de Joseph ?", "options": ["Le pardon et la foi triomphent toujours", "Il faut être jaloux", "Il ne faut jamais voyager"], "correctIndex": 0, "explanation": "Superbe ! Pardonner rend le cœur libre et joyeux. 🕊️"}
+    ]
+  }
+]

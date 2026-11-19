@@ -1,0 +1,119 @@
+[
+  {
+    "id": 46, "moduleId": 5, "title": "Job, la Patience et la Fidélité", "reference": "Job 1–42", "testament": "ANCIEN", "emoji": "🌈", "durationMinutes": 3,
+    "moral": "Même quand les jours sont difficiles, Dieu reste notre ami fidèle.",
+    "paragraphs": [
+      "Job était un homme très bon qui aimait Dieu et aidait toujours les pauvres et les orphelins de sa ville. 💛",
+      "Un jour, de grandes épreuves arrivèrent sur Job : il perdit ses troupeaux, ses maisons et tomba même très malade.",
+      "Ses amis vinrent s'asseoir près de lui, mais ne comprenaient pas pourquoi tout cela arrivait. Job resta honnête : il dit ses questions à Dieu sans L'abandonner.",
+      "Alors Dieu lui montra la beauté des montagnes, des étoiles, des cerfs et de la mer pour lui rappeler combien Il veille sur chaque créature. 🌟",
+      "Job pria même avec bonté pour ses amis, et Dieu guérit Job et remplit sa maison d'encore plus de joie et d'amour qu'avant ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s46_1", "title": "Job aide tout le monde avec bonté", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🐑", "expression": "HAPPY"},
+      {"id": "s46_2", "title": "Job garde confiance dans l'épreuve", "backdrop": "DESERT_NIGHT", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "🌟", "expression": "WORRIED"},
+      {"id": "s46_3", "title": "La guérison et la nouvelle joie", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌈", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment Job traitait-il les gens autour de lui ?", "options": ["Avec grande bonté et aide aux pauvres", "Avec dureté", "En les ignorant"], "correctIndex": 0, "explanation": "Oui ! Job avait un cœur généreux et droit. 💛"},
+      {"question": "Job a-t-il cessé d'aimer Dieu dans la difficulté ?", "options": ["Non, il est resté fidèle", "Oui, tout de suite", "Il a changé de planète"], "correctIndex": 0, "explanation": "Bravo ! Job a gardé sa confiance même quand tout allait mal. 🙏"},
+      {"question": "De quoi Dieu a-t-Il parlé à Job ?", "options": ["Des merveilles de la nature qu'Il garde", "De voitures de course", "De recettes de cuisine"], "correctIndex": 0, "explanation": "Exact ! Celui qui veille sur les étoiles veille aussi sur nous. 🌟"},
+      {"question": "Qu'a fait Job pour ses amis à la fin ?", "options": ["Il a prié pour eux", "Il leur a fermé la porte", "Il s'est fâché"], "correctIndex": 0, "explanation": "Super ! Prier pour les autres adoucit tous les cœurs. 🕊️"},
+      {"question": "Comment l'histoire de Job se termine-t-elle ?", "options": ["Par la guérison et beaucoup de joie", "Dans la tristesse", "Sans fin"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu a béni la patience de Job au centuple. 🌈"}
+    ]
+  },
+  {
+    "id": 47, "moduleId": 5, "title": "Daniel dans la Fosse aux Lions", "reference": "Daniel 6", "testament": "ANCIEN", "emoji": "🦁", "durationMinutes": 4,
+    "moral": "Prier Dieu avec courage nous garde en paix, même face aux lions !",
+    "paragraphs": [
+      "Daniel était un homme sage et honnête qui priait Dieu trois fois par jour à sa fenêtre ouverte. 🙏",
+      "Des ministres jaloux piégèrent le roi Darius pour signer une loi injuste : « Pendant trente jours, interdit de prier quelqu'un d'autre que le roi ! »",
+      "Daniel continua de prier Dieu tranquillement comme chaque jour. Alors les jaloux le dénoncèrent, et le roi triste dut le faire jeter dans la fosse aux lions ! 🦁",
+      "Toute la nuit, le roi ne put dormir. Mais au fond de la fosse sombre, un ange vint fermer doucement la bouche des grands lions qui se couchèrent comme de gros chatons !",
+      "Au matin, Daniel sortit sans une seule égratignure ! Le roi dansa de joie et loua le Dieu vivant qui protège Ses amis. ✨"
+    ],
+    "scenes": [
+      {"id": "s47_1", "title": "Daniel prie fidèlement à sa fenêtre", "backdrop": "EGYPT_PALACE", "primaryChar": "DANIEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "🪟", "expression": "PEACEFUL"},
+      {"id": "s47_2", "title": "Daniel face aux grands lions", "backdrop": "LION_DEN", "primaryChar": "DANIEL", "secondaryChar": "LION", "moodEmoji": "🦁", "propEmoji": "🌙", "expression": "BRAVE"},
+      {"id": "s47_3", "title": "L'ange protège Daniel toute la nuit", "backdrop": "LION_DEN", "primaryChar": "DANIEL", "secondaryChar": "ANGEL", "moodEmoji": "😇", "propEmoji": "🦁", "expression": "PEACEFUL"},
+      {"id": "s47_4", "title": "Daniel sort sain et sauf au matin !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "DANIEL", "secondaryChar": "PHARAOH", "moodEmoji": "🎉", "propEmoji": "✨", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Combien de fois par jour Daniel priait-il Dieu ?", "options": ["Trois fois par jour", "Une fois par an", "Jamais"], "correctIndex": 0, "explanation": "Bravo ! Matin, midi et soir, Daniel parlait à Dieu. 🙏"},
+      {"question": "Où Daniel a-t-il été jeté pour être resté fidèle ?", "options": ["Dans la fosse aux lions", "Dans une piscine", "Dans un arbre"], "correctIndex": 0, "explanation": "Oui ! Au milieu de lions affamés. 🦁"},
+      {"question": "Qui a fermé la bouche des lions pendant la nuit ?", "options": ["Un ange envoyé par Dieu", "Un dompteur", "Le gardien"], "correctIndex": 0, "explanation": "Exact ! L'ange a gardé Daniel en parfaite paix. 👼"},
+      {"question": "Comment était Daniel le lendemain matin ?", "options": ["Intact et sans aucune blessure", "Tout griffé", "Très en colère"], "correctIndex": 0, "explanation": "Super ! Aucun lion ne lui avait fait de mal. ✨"},
+      {"question": "Quel courage montre Daniel ?", "options": ["Rester fidèle à Dieu même quand c'est difficile", "Changer d'avis par peur", "Mentir"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu honore toujours ceux qui L'aiment. 💛"}
+    ]
+  },
+  {
+    "id": 48, "moduleId": 5, "title": "Les Trois Amis dans la Fournaise", "reference": "Daniel 3", "testament": "ANCIEN", "emoji": "🔥", "durationMinutes": 3,
+    "moral": "Rester droits avec nos amis et avec Dieu nous rend libres à l'intérieur.",
+    "paragraphs": [
+      "Schadrac, Méschac et Abed-Négo étaient trois amis de Daniel qui aimaient Dieu de tout leur cœur. 🤝",
+      "Le roi Nebucadnetsar fit dresser une immense statue en or et ordonna à tout le monde de se prosterner devant elle dès que la musique sonnerait.",
+      "Les trois amis restèrent debout ! « Nous n'adorons que le vrai Dieu, dirent-ils calmement. Il peut nous sauver du feu ! » 🔥",
+      "Furieux, le roi les fit jeter dans un four brûlant ! Mais en regardant dedans, le roi n'en crut pas ses yeux : il y avait quatre personnes qui marchaient tranquillement !",
+      "Un ange de Dieu marchait avec eux dans les flammes ! Ils sortirent sans même sentir la fumée, et le roi reconnut la grandeur de Dieu. ✨"
+    ],
+    "scenes": [
+      {"id": "s48_1", "title": "Les trois amis restent fidèles debout", "backdrop": "EGYPT_PALACE", "primaryChar": "KID_FRIEND", "secondaryChar": "DANIEL", "moodEmoji": "🛡️", "propEmoji": "👑", "expression": "BRAVE"},
+      {"id": "s48_2", "title": "Quatre silhouettes paisibles dans les flammes", "backdrop": "LION_DEN", "primaryChar": "DANIEL", "secondaryChar": "ANGEL", "moodEmoji": "🔥", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s48_3", "title": "Sortis indemnes et joyeux !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🎉", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que refusaient de faire les trois amis ?", "options": ["Adorer une statue en or", "Manger des fruits", "Chanter"], "correctIndex": 0, "explanation": "Bravo ! Ils voulaient adorer Dieu seul. 🛡️"},
+      {"question": "Où le roi furieux les a-t-il fait jeter ?", "options": ["Dans une fournaise ardente", "Dans un jardin", "Dans un bateau"], "correctIndex": 0, "explanation": "Oui ! Un immense four rempli de flammes. 🔥"},
+      {"question": "Combien de personnes le roi a-t-il vues marcher dans le feu ?", "options": ["Quatre ! (avec un ange de Dieu)", "Une seule", "Aucune"], "correctIndex": 0, "explanation": "Exact ! Dieu a envoyé Son ange marcher au milieu d'eux ! 👼"},
+      {"question": "Le feu a-t-il brûlé leurs habits ?", "options": ["Non, pas même une odeur de fumée !", "Oui, un peu", "Ils ont perdu leurs chaussures"], "correctIndex": 0, "explanation": "Super ! Ils étaient complètement protégés par Dieu. ✨"},
+      {"question": "Quelle est la force des trois amis ?", "options": ["Se soutenir ensemble pour faire le bien", "Suivre la foule sans réfléchir", "Avoir peur"], "correctIndex": 0, "explanation": "Très bien ! De vrais amis s'encouragent vers le bien. 🤝"}
+    ]
+  },
+  {
+    "id": 49, "moduleId": 5, "title": "Jonas et le Grand Poisson", "reference": "Jonas 1–4", "testament": "ANCIEN", "emoji": "🐋", "durationMinutes": 4,
+    "moral": "On ne peut pas fuir loin de Dieu, et Son pardon est ouvert à tous !",
+    "paragraphs": [
+      "Dieu demanda au prophète Jonas : « Va à la grande ville de Ninive dire aux habitants de devenir gentils et de revenir vers Moi. »",
+      "Mais Jonas ne voulait pas ! Il courut au port et monta sur un grand bateau qui partait dans la direction complètement opposée. ⛵",
+      "Bientôt, une terrible tempête secoua les vagues ! Jonas comprit sa faute et demanda aux marins de le jeter à la mer pour calmer les flots.",
+      "PLOUF ! Aussitôt la mer devint calme, et Dieu envoya un immense poisson gentil qui avala Jonas tout entier sans le blesser ! 🐋",
+      "Dans le ventre du poisson pendant trois jours, Jonas pria Dieu sincèrement. Le poisson le déposa sur la plage, et Jonas alla enfin partager l'amour et le pardon de Dieu à Ninive ! 🌊"
+    ],
+    "scenes": [
+      {"id": "s49_1", "title": "Jonas s'enfuit sur un navire dans la tempête", "backdrop": "ARK_OCEAN", "primaryChar": "JONAH", "secondaryChar": "FISHERMAN", "moodEmoji": "⛈️", "propEmoji": "⛵", "expression": "WORRIED"},
+      {"id": "s49_2", "title": "Avalé par le grand poisson dans la mer", "backdrop": "WHALE_SEA", "primaryChar": "JONAH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🐋", "propEmoji": "🌊", "expression": "SURPRISED"},
+      {"id": "s49_3", "title": "Jonas prie et retrouve la plage", "backdrop": "RED_SEA", "primaryChar": "JONAH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "☀️", "expression": "PEACEFUL"},
+      {"id": "s49_4", "title": "Toute la ville de Ninive pardonnée", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JONAH", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🕊️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Où Dieu avait-Il envoyé Jonas au début ?", "options": ["À Ninive", "En Égypte", "Sur la lune"], "correctIndex": 0, "explanation": "Oui ! Pour apporter un message de paix aux habitants de Ninive. 🏙️"},
+      {"question": "Qu'a fait Jonas au lieu d'obéir ?", "options": ["Il est monté sur un bateau pour fuir", "Il a pris un vélo", "Il a obéi tout de suite"], "correctIndex": 0, "explanation": "Exact ! Il a essayé de partir le plus loin possible. ⛵"},
+      {"question": "Quel animal géant a gardé Jonas en vie dans la mer ?", "options": ["Un immense poisson", "Un ours polaire", "Un aigle"], "correctIndex": 0, "explanation": "Bravo ! Un très grand poisson envoyé par Dieu. 🐋"},
+      {"question": "Combien de jours Jonas est-il resté dans le poisson ?", "options": ["Trois jours et trois nuits", "Dix ans", "Cinq minutes"], "correctIndex": 0, "explanation": "Oui ! Trois jours pour réfléchir et prier Dieu. 🙏"},
+      {"question": "Comment Dieu a-t-Il réagi quand les gens de Ninive ont regretté ?", "options": ["Il leur a pardonné avec amour", "Il a détruit la ville", "Il a fermé les oreilles"], "correctIndex": 0, "explanation": "Super ! La miséricorde de Dieu est immense pour tout le monde. 💛"}
+    ]
+  },
+  {
+    "id": 50, "moduleId": 5, "title": "La Promesse d'un Prince de Paix", "reference": "Ésaïe 9 & 11", "testament": "ANCIEN", "emoji": "🕊️", "durationMinutes": 3,
+    "moral": "Les prophètes annonçaient avec joie la venue de Jésus, Lumière du monde.",
+    "paragraphs": [
+      "Pendant de longs siècles, les prophètes comme Ésaïe et Michée ont consolé le peuple avec des promesses merveilleuses venues du ciel. ✨",
+      "Ésaïe écrivit comme une chanson : « Un grand jour, un Enfant va naître pour nous ! On L'appellera Merveilleux Conseiller, Prince de la Paix ! » 🕊️",
+      "Il expliqua qu'avec Lui, même le loup et le petit agneau vivraient ensemble sans peur, et qu'un petit enfant pourrait les guider.",
+      "Le prophète Michée ajouta même un indice précieux : ce Roi plein d'amour naîtrait dans la toute petite ville de Bethléem !",
+      "Comme une belle lueur d'aurore avant le lever du soleil, tout l'Ancien Testament préparait la venue joyeuse de Jésus ! 🌅"
+    ],
+    "scenes": [
+      {"id": "s50_1", "title": "Ésaïe écrit les promesses d'espoir", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "ABRAHAM", "secondaryChar": "ANGEL", "moodEmoji": "📜", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s50_2", "title": "Le rêve du monde en paix", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "LION", "moodEmoji": "🐑", "propEmoji": "🕊️", "expression": "HAPPY"},
+      {"id": "s50_3", "title": "L'étoile annoncée sur Bethléem", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ANGEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌟", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel beau titre Ésaïe donna-t-il au futur Sauveur ?", "options": ["Prince de la Paix", "Roi des Tempêtes", "Géant de Fer"], "correctIndex": 0, "explanation": "Bravo ! Jésus est venu apporter la vraie paix dans les cœurs. 🕊️"},
+      {"question": "Dans quelle petite ville Michée annonça-t-il Sa naissance ?", "options": ["Bethléem", "Jéricho", "Ninive"], "correctIndex": 0, "explanation": "Oui ! La toute petite ville de Bethléem. ⭐"},
+      {"question": "Quels animaux vivront en paix dans l'image d'Ésaïe ?", "options": ["Le loup et l'agneau", "Le requin et le vélo", "Aucun"], "correctIndex": 0, "explanation": "Exact ! Une image merveilleuse d'un monde sans peur. 🐑"},
+      {"question": "À quoi ressemblent les prophéties de l'Ancien Testament ?", "options": ["À des promesses préparant la venue de Jésus", "À une liste de courses", "À un jeu vidéo"], "correctIndex": 0, "explanation": "Super ! Toute la Bible raconte une seule grande histoire d'amour. 📖"},
+      {"question": "Quelle saison de l'histoire commence juste après ?", "options": ["Le Nouveau Testament avec Jésus !", "La fin du livre", "Rien"], "correctIndex": 0, "explanation": "Merveilleux ! En route vers les belles aventures du Nouveau Testament ! ✨"}
+    ]
+  }
+]

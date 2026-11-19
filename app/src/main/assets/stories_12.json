@@ -1,0 +1,117 @@
+[
+  {
+    "id": 56, "moduleId": 6, "title": "La Bénédiction de Siméon au Temple", "reference": "Luc 2:22–40", "testament": "NOUVEAU", "emoji": "🕊️", "durationMinutes": 3,
+    "moral": "Attendre les promesses de Dieu avec patience rend nos yeux remplis d'émerveillement.",
+    "paragraphs": [
+      "Quand bébé Jésus eut quelques semaines, Marie et Joseph L'emmenèrent au grand Temple de Jérusalem pour remercier Dieu. 🏛️",
+      "Là vivait un gentil grand-père nommé Siméon, qui attendait depuis toute sa vie de voir le Sauveur promis par Dieu.",
+      "Dès que Siméon vit le petit Jésus dans les bras de Marie, son cœur bondit ! Il prit doucement le bébé dans ses bras ridés et sourit jusqu'aux oreilles. 😊",
+      "« Maintenant, Seigneur, mes yeux ont vu Ta lumière qui éclairera tous les peuples du monde ! » pria Siméon avec émotion.",
+      "La douce grand-mère Anne vint aussi remercier Dieu et raconta à tout le monde que l'Enfant Jésus apportait la paix ! 🕊️"
+    ],
+    "scenes": [
+      {"id": "s56_1", "title": "Marie et Joseph arrivent au Temple", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "🏛️", "propEmoji": "🕊️", "expression": "PEACEFUL"},
+      {"id": "s56_2", "title": "Le vieux Siméon berce bébé Jésus", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "ABRAHAM", "secondaryChar": "BABY_JESUS", "moodEmoji": "😊", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s56_3", "title": "Anne partage la bonne nouvelle", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🌟", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Où Marie et Joseph ont-ils emmené bébé Jésus ?", "options": ["Au Temple de Jérusalem", "À la plage", "Dans une forêt"], "correctIndex": 0, "explanation": "Oui ! Pour présenter Jésus à Dieu et Lui dire merci. 🏛️"},
+      {"question": "Qui attendait depuis longtemps de voir le Sauveur ?", "options": ["Le vieux Siméon (et Anne)", "Pharaon", "Goliath"], "correctIndex": 0, "explanation": "Bravo ! Siméon et Anne étaient très fidèles à Dieu. 😊"},
+      {"question": "Comment Siméon a-t-il appelé Jésus ?", "options": ["« La lumière qui éclaire tous les peuples »", "« Un petit nuage »", "« Un guerrier »"], "correctIndex": 0, "explanation": "Exact ! Jésus est venu apporter Sa lumière à chacun. ✨"},
+      {"question": "Qui a aussi loué Dieu en voyant le bébé ?", "options": ["Anne, la vieille dame fidèle", "Un soldat", "Un marchand"], "correctIndex": 0, "explanation": "Oui ! Anne était remplie de joie et en parlait partout. 💛"},
+      {"question": "Que ressent Siméon en tenant Jésus ?", "options": ["Une paix profonde et de la gratitude", "De la peur", "De l'ennui"], "correctIndex": 0, "explanation": "Super ! La patience de toute sa vie a été récompensée. 🕊️"}
+    ]
+  },
+  {
+    "id": 57, "moduleId": 6, "title": "La Fuite et le Retour d'Égypte", "reference": "Matthieu 2:13–23", "testament": "NOUVEAU", "emoji": "🫏", "durationMinutes": 3,
+    "moral": "Dieu guide et protège notre famille à chaque étape du chemin.",
+    "paragraphs": [
+      "Un roi jaloux nommé Hérode voulait faire du mal au petit Jésus. Mais Dieu veillait ! Un ange apparut en rêve à Joseph pendant la nuit. 🌙",
+      "« Lève-toi vite ! dit l'ange. Prends l'Enfant et Marie, et partez en Égypte jusqu'à ce que Je te rappelle ! »",
+      "Sans attendre le matin, Joseph prépara le petit âne, et la petite famille voyagea sous la douce lumière des étoiles jusqu'en Égypte. 🫏",
+      "Ils restèrent là bien en sécurité pendant quelque temps, entourés par la protection invisible des anges de Dieu.",
+      "Puis l'ange revint avertir Joseph qu'il n'y avait plus aucun danger : ils rentrèrent joyeusement vivre à Nazareth ! 🏡"
+    ],
+    "scenes": [
+      {"id": "s57_1", "title": "L'ange avertit Joseph pendant la nuit", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "ANGEL", "moodEmoji": "🌙", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s57_2", "title": "Le voyage protégé vers l'Égypte", "backdrop": "EGYPT_PALACE", "primaryChar": "MARY", "secondaryChar": "BABY_JESUS", "moodEmoji": "🫏", "propEmoji": "🛡️", "expression": "BRAVE"},
+      {"id": "s57_3", "title": "Retour paisible à la maison de Nazareth", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🏡", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment Dieu a-t-Il prévenu Joseph du danger ?", "options": ["Par un ange dans un rêve", "Par une lettre", "Par un tambour"], "correctIndex": 0, "explanation": "Oui ! L'ange a réveillé Joseph avec un message clair. 🌙"},
+      {"question": "Dans quel pays la famille s'est-elle mise à l'abri ?", "options": ["En Égypte", "En Grèce", "En Espagne"], "correctIndex": 0, "explanation": "Bravo ! L'Égypte les a accueillis en sécurité. 🏜️"},
+      {"question": "Joseph a-t-il attendu longtemps avant de partir ?", "options": ["Non, il a obéi tout de suite dans la nuit", "Il a attendu un mois", "Il n'est pas parti"], "correctIndex": 0, "explanation": "Exact ! Sa prompte obéissance a protégé Jésus. 🫏"},
+      {"question": "Où la famille est-elle revenue habiter ensuite ?", "options": ["À Nazareth", "À Babylone", "À Ninive"], "correctIndex": 0, "explanation": "Oui ! Jésus a grandi heureux à Nazareth. 🏡"},
+      {"question": "Qui veillait sur le petit Jésus à chaque instant ?", "options": ["Dieu", "Personne", "Le hasard"], "correctIndex": 0, "explanation": "Super ! Dieu protège Ses enfants avec amour. 🛡️"}
+    ]
+  },
+  {
+    "id": 58, "moduleId": 6, "title": "Jésus à Douze Ans au Temple", "reference": "Luc 2:41–52", "testament": "NOUVEAU", "emoji": "📜", "durationMinutes": 3,
+    "moral": "Être curieux d'apprendre la Parole de Dieu fait grandir en sagesse.",
+    "paragraphs": [
+      "Quand Jésus eut douze ans, Il alla à Jérusalem avec Marie et Joseph pour une grande fête joyeuse avec plein de cousins et d'amis. 🎉",
+      "Sur le chemin du retour, Marie et Joseph cherchèrent Jésus dans le groupe des voyageurs… mais Jésus n'était plus là ! Quel souci !",
+      "Ils revinrent vite à Jérusalem et cherchèrent partout pendant trois jours. Finalement, où L'ont-ils retrouvé ? Dans le grand Temple ! 🏛️",
+      "Jésus était assis au milieu des vieux professeurs, les écoutant attentivement et leur posant de très belles questions. Tout le monde était admiratif ! 📜",
+      "« Ne saviez-vous pas que Je devais être dans la maison de Mon Père ? » dit doucement Jésus. Puis Il rentra obéissant avec Ses parents et grandit en sagesse. 💛"
+    ],
+    "scenes": [
+      {"id": "s58_1", "title": "La grande fête joyeuse à Jérusalem", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "MARY", "moodEmoji": "🎉", "propEmoji": "🏛️", "expression": "HAPPY"},
+      {"id": "s58_2", "title": "Jésus dialogue avec les sages au Temple", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "KID_FRIEND", "secondaryChar": "ABRAHAM", "moodEmoji": "📜", "propEmoji": "💡", "expression": "BRAVE"},
+      {"id": "s58_3", "title": "Les retrouvailles tendres avec Marie", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel âge avait Jésus dans cette histoire ?", "options": ["Douze ans", "Deux ans", "Trente ans"], "correctIndex": 0, "explanation": "Oui ! Il avait douze ans. 👦"},
+      {"question": "Où Marie et Joseph ont-ils retrouvé Jésus ?", "options": ["Dans le Temple de Jérusalem", "Au bord d'un lac", "Dans une grotte"], "correctIndex": 0, "explanation": "Bravo ! Il était dans la maison de Son Père céleste. 🏛️"},
+      {"question": "Que faisait Jésus avec les professeurs du Temple ?", "options": ["Il écoutait et posait des questions intelligentes", "Il jouait aux billes", "Il dormait"], "correctIndex": 0, "explanation": "Exact ! Sa sagesse étonnait tous les adultes. 📜"},
+      {"question": "Comment Jésus a-t-Il agi ensuite avec Marie et Joseph ?", "options": ["Il est rentré avec eux et leur a obéi", "Il a refusé de partir", "Il s'est fâché"], "correctIndex": 0, "explanation": "Super ! Jésus aimait et respectait Ses parents. 💛"},
+      {"question": "Est-ce bien de poser des questions pour mieux comprendre la Bible ?", "options": ["Oui ! C'est comme ça qu'on grandit en sagesse", "Non, c'est interdit", "Seulement à l'école"], "correctIndex": 0, "explanation": "Très bien ! La curiosité bienveillante fait grandir le cœur. ✨"}
+    ]
+  },
+  {
+    "id": 59, "moduleId": 6, "title": "Jean-Baptiste Prépare le Chemin", "reference": "Marc 1:1–8", "testament": "NOUVEAU", "emoji": "🍯", "durationMinutes": 3,
+    "moral": "Aider nos amis à découvrir Jésus est la plus belle des missions.",
+    "paragraphs": [
+      "Le cousin de Jésus, Jean, avait bien grandi ! Il vivait simplement dans le désert, mangeant du miel sauvage et portant un manteau en poil de chameau. 🍯",
+      "Beaucoup de gens venaient de partout près de la rivière du Jourdain pour écouter ce messager plein d'énergie !",
+      "« Préparez votre cœur ! disait Jean avec enthousiasme. Partagez avec ceux qui n'ont rien, soyez honnêtes, car Quelqu'un de merveilleux arrive ! »",
+      "Ceux qui voulaient changer de vie et repartir à neuf étaient baptisés par Jean dans l'eau fraîche du Jourdain. 💧",
+      "Jean disait humblement : « Moi je vous baptise dans l'eau, mais Celui qui vient après moi est bien plus grand : c'est Jésus ! » ✨"
+    ],
+    "scenes": [
+      {"id": "s59_1", "title": "Jean vit simplement dans le désert", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "NONE", "moodEmoji": "🍯", "propEmoji": "🌿", "expression": "BRAVE"},
+      {"id": "s59_2", "title": "Le message joyeux au bord du Jourdain", "backdrop": "RED_SEA", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "💧", "propEmoji": "🗣️", "expression": "HAPPY"},
+      {"id": "s59_3", "title": "Préparer les cœurs pour Jésus", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Que mangeait Jean-Baptiste dans le désert ?", "options": ["Du miel sauvage et des sauterelles", "Des hamburgers", "Des glaces"], "correctIndex": 0, "explanation": "Oui ! Il vivait très simplement dans la nature. 🍯"},
+      {"question": "Où Jean baptisait-il les gens ?", "options": ["Dans la rivière du Jourdain", "Dans une baignoire", "Dans la mer Rouge"], "correctIndex": 0, "explanation": "Bravo ! Dans l'eau claire du Jourdain. 💧"},
+      {"question": "Que conseillait Jean pour préparer son cœur ?", "options": ["Partager, être juste et regretter le mal", "Garder ses jouets pour soi", "Ne rien changer"], "correctIndex": 0, "explanation": "Exact ! Un cœur prêt aime partager et dire la vérité. 💛"},
+      {"question": "Qui Jean annonçait-il avec joie ?", "options": ["Jésus, le Fils de Dieu", "Le roi Hérode", "Lui-même"], "correctIndex": 0, "explanation": "Super ! Jean savait rester humble et montrer Jésus. ✨"},
+      {"question": "Comment pouvons-nous préparer notre cœur aujourd'hui ?", "options": ["En étant doux et généreux chaque jour", "En boudant", "En criant"], "correctIndex": 0, "explanation": "Merveilleux ! Chaque geste gentil prépare la place à Jésus. 🕊️"}
+    ]
+  },
+  {
+    "id": 60, "moduleId": 6, "title": "Le Baptême de Jésus et la Colombe", "reference": "Matthieu 3:13–17", "testament": "NOUVEAU", "emoji": "🕊️", "durationMinutes": 3,
+    "moral": "Dieu nous aime tendrement et se réjouit de chacun de Ses enfants.",
+    "paragraphs": [
+      "Un beau jour ensoleillé, Jésus arriva au bord du Jourdain et demanda gentiment à Jean de Le baptiser dans l'eau. 💧",
+      "Jean fut surpris : « C'est plutôt moi qui aurais besoin d'être baptisé par Toi, Jésus ! » Mais Jésus sourit : « Faisons ce qui est juste ! »",
+      "Quand Jésus sortit de l'eau brillante, quelque chose d'extraordinaire se passa juste au-dessus de Sa tête !",
+      "Le ciel bleu s'ouvrit et l'Esprit de Dieu descendit doucement sur Lui sous la forme d'une belle colombe blanche ! 🕊️",
+      "Et une voix tendre venue du ciel dit à tout le monde : « Voici Mon Fils bien-aimé, en qui J'ai mis toute Ma joie ! » ✨"
+    ],
+    "scenes": [
+      {"id": "s60_1", "title": "Jésus rejoint Jean au Jourdain", "backdrop": "RED_SEA", "primaryChar": "JESUS", "secondaryChar": "SHEPHERD", "moodEmoji": "💧", "propEmoji": "☀️", "expression": "PEACEFUL"},
+      {"id": "s60_2", "title": "Le ciel s'ouvre avec la colombe blanche", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🕊️", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s60_3", "title": "La voix d'amour du Père céleste", "backdrop": "HEAVEN_CITY", "primaryChar": "JESUS", "secondaryChar": "ANGEL", "moodEmoji": "💛", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Qui a baptisé Jésus dans le Jourdain ?", "options": ["Jean-Baptiste", "Pierre", "Moïse"], "correctIndex": 0, "explanation": "Oui ! Son cousin Jean a baptisé Jésus avec respect. 💧"},
+      {"question": "Sous quelle forme l'Esprit de Dieu est-Il descendu ?", "options": ["Une douce colombe blanche", "Un aigle noir", "Un nuage de pluie"], "correctIndex": 0, "explanation": "Bravo ! Une colombe toute blanche, symbole de paix. 🕊️"},
+      {"question": "Que dit la voix du Père venue du ciel ?", "options": ["« Voici Mon Fils bien-aimé, en qui J'ai mis toute Ma joie ! »", "« Dépêchez-vous ! »", "« Il fait beau »"], "correctIndex": 0, "explanation": "Exact ! Quelle merveilleuse parole d'amour du Père ! 💛"},
+      {"question": "Pourquoi Jean a-t-il hésité au début ?", "options": ["Parce qu'il savait que Jésus était sans péché et très grand", "Parce que l'eau était froide", "Parce qu'il partait"], "correctIndex": 0, "explanation": "Oui ! Jean montrait beaucoup de respect pour Jésus. ✨"},
+      {"question": "Que débute Jésus juste après son baptême ?", "options": ["Sa belle mission d'amour et de miracles", "Un long voyage en train", "Sa retraite"], "correctIndex": 0, "explanation": "Super ! En route pour découvrir les beaux miracles de Jésus ! 🌟"}
+    ]
+  }
+]

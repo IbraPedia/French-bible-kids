@@ -1,0 +1,117 @@
+[
+  {
+    "id": 91, "moduleId": 10, "title": "La Pentecôte, le Souffle et les Flammes", "reference": "Actes 2", "testament": "NOUVEAU", "emoji": "🔥", "durationMinutes": 3,
+    "moral": "L'Esprit Saint remplit nos cœurs de joie, de paix et d'audace pour parler d'amour.",
+    "paragraphs": [
+      "Dix jours après l'Ascension, tous les amis de Jésus priaient ensemble dans une grande maison à Jérusalem. 🙏",
+      "Soudain, un bruit comme un grand vent joyeux remplit toute la maison, et de jolies petites flammes douces comme des lumières se posèrent au-dessus de chacun sans brûler ! 🔥",
+      "C'était l'Esprit Saint promis par Jésus ! Aussitôt, tous furent remplis de courage et commencèrent à louer Dieu dans toutes les langues ! 🗣️",
+      "Dehors, les voyageurs venus de nombreux pays étaient émerveillés : chacun entendait parler des merveilles de Dieu dans sa propre langue maternelle ! 🌍",
+      "Pierre parla avec courage à tout le monde : trois mille personnes crurent en Jésus ce jour-là et formèrent une belle famille qui partageait tout avec joie ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s91_1", "title": "Les amis prient unis dans la chambre", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "FISHERMAN", "secondaryChar": "MARY", "moodEmoji": "🙏", "propEmoji": "💛", "expression": "PEACEFUL"},
+      {"id": "s91_2", "title": "Le souffle et les douces flammes de l'Esprit", "backdrop": "HEAVEN_CITY", "primaryChar": "GOD_LIGHT", "secondaryChar": "ANGEL", "moodEmoji": "🔥", "propEmoji": "🕊️", "expression": "SURPRISED"},
+      {"id": "s91_3", "title": "La fête de la grande famille de l'Église !", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "FISHERMAN", "secondaryChar": "KID_FRIEND", "moodEmoji": "🎉", "propEmoji": "🌍", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que faisaient les disciples quand l'Esprit Saint est venu ?", "options": ["Ils priaient ensemble dans l'unité", "Ils se disputaient", "Ils dormaient"], "correctIndex": 0, "explanation": "Oui ! Ils priaient tous d'un même cœur. 🙏"},
+      {"question": "Quel signe doux est apparu au-dessus de leurs têtes ?", "options": ["De petites flammes de lumière qui ne brûlaient pas", "Des chapeaux", "Des nuages gris"], "correctIndex": 0, "explanation": "Bravo ! C'est la belle fête de la Pentecôte ! 🔥"},
+      {"question": "Quel miracle étonna les voyageurs dehors ?", "options": ["Chacun entendait parler de Dieu dans sa propre langue", "La pluie tombait à l'envers", "Les arbres dansaient"], "correctIndex": 0, "explanation": "Exact ! L'amour de Dieu parle toutes les langues du monde ! 🌍"},
+      {"question": "Qui a pris la parole avec beaucoup de courage ?", "options": ["Pierre", "Goliath", "Caïn"], "correctIndex": 0, "explanation": "Oui ! Pierre était devenu si courageux grâce à l'Esprit Saint ! 💪"},
+      {"question": "Comment vivaient les premiers chrétiens ensuite ?", "options": ["En partageant tout avec joie et bonté", "Chacun pour soi", "En se cachant"], "correctIndex": 0, "explanation": "Super ! Ils s'aimaient comme une vraie grande famille. 💛"}
+    ]
+  },
+  {
+    "id": 92, "moduleId": 10, "title": "Pierre Guérit à la Belle Porte", "reference": "Actes 3", "testament": "NOUVEAU", "emoji": "🤸", "durationMinutes": 3,
+    "moral": "Partager l'amour et l'espoir de Jésus vaut mieux que toutes les pièces d'or.",
+    "paragraphs": [
+      "Un après-midi, Pierre et Jean montaient prier au Temple en passant par une magnifique porte dorée appelée la Belle Porte. 🏛️",
+      "Là était assis un homme qui n'avait jamais pu marcher depuis sa naissance. Il demandait gentiment quelques pièces aux passants.",
+      "Pierre et Jean s'arrêtèrent et le regardèrent avec amitié : « Je n'ai ni or ni argent, dit Pierre… mais ce que j'ai, je te le donne ! » ✨",
+      "« Au nom de Jésus de Nazareth, lève-toi et marche ! » Pierre lui prit la main et l'aida à se dresser.",
+      "Aussitôt ses pieds devinrent tout forts ! L'homme entra dans le Temple en sautant et bondissant de joie pour louer Dieu ! 🤸"
+    ],
+    "scenes": [
+      {"id": "s92_1", "title": "Pierre et Jean s'arrêtent près de la Belle Porte", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "FISHERMAN", "secondaryChar": "SHEPHERD", "moodEmoji": "🏛️", "propEmoji": "🤝", "expression": "PEACEFUL"},
+      {"id": "s92_2", "title": "« Au nom de Jésus, lève-toi et marche ! »", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "FISHERMAN", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "💛", "expression": "BRAVE"},
+      {"id": "s92_3", "title": "Il saute et danse de joie dans le Temple !", "backdrop": "RESURRECTION_DAWN", "primaryChar": "KID_FRIEND", "secondaryChar": "FISHERMAN", "moodEmoji": "🤸", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qui marchait ensemble vers le Temple ?", "options": ["Pierre et Jean", "Moïse et Aaron", "David et Jonathan"], "correctIndex": 0, "explanation": "Oui ! Pierre et Jean étaient très bons amis. 🤝"},
+      {"question": "Pourquoi l'homme était-il assis à la Belle Porte ?", "options": ["Il ne pouvait pas marcher et demandait de l'aide", "Il vendait des fleurs", "Il attendait le bus"], "correctIndex": 0, "explanation": "Exact ! Il n'avait jamais marché de toute sa vie. 😔"},
+      {"question": "Pierre lui a-t-il donné des pièces d'or ?", "options": ["Non, il lui a donné la guérison au nom de Jésus !", "Oui, un sac d'or", "Non, il est passé vite"], "correctIndex": 0, "explanation": "Bravo ! La guérison et l'amitié valaient bien plus que l'or ! ✨"},
+      {"question": "Qu'a fait l'homme dès que ses jambes ont été guéries ?", "options": ["Il a sauté de joie et loué Dieu", "Il s'est rassis", "Il est parti sans rien dire"], "correctIndex": 0, "explanation": "Super ! Il bondissait de bonheur partout ! 🤸"},
+      {"question": "Que montre ce beau geste ?", "options": ["Qu'on peut toujours offrir notre attention et la paix de Dieu", "Qu'il faut être riche pour aider", "Rien"], "correctIndex": 0, "explanation": "Merveilleux ! Même sans argent, on peut faire tant de bien. 💛"}
+    ]
+  },
+  {
+    "id": 93, "moduleId": 10, "title": "Philippe Explique la Bible en Chariot", "reference": "Actes 8:26–40", "testament": "NOUVEAU", "emoji": "📜", "durationMinutes": 3,
+    "moral": "Comprendre les histoires de la Bible devient facile quand on les lit ensemble !",
+    "paragraphs": [
+      "Un ange dit à Philippe : « Va sur la route tranquille qui descend vers le sud ! » Philippe obéit aussitôt sans poser de questions. 🧭",
+      "Sur la route, il vit un beau chariot dans lequel voyageait un important ministre venu d'Éthiopie. L'homme lisait un grand rouleau d'Ésaïe à voix haute ! 📜",
+      "Philippe courut à côté du chariot et demanda gentiment : « Est-ce que vous comprenez ce que vous lisez ? »",
+      "« Comment le pourrais-je si personne ne me l'explique ? Monte avec moi ! » sourit le voyageur. Philippe s'assit à côté de lui et lui raconta la belle histoire de Jésus ! ✨",
+      "Tout heureux, le voyageur vit un petit point d'eau, se fit baptiser et reprit sa route vers son pays le cœur débordant de joie ! 💧"
+    ],
+    "scenes": [
+      {"id": "s93_1", "title": "Le voyageur lit un rouleau dans son chariot", "backdrop": "DESERT_NIGHT", "primaryChar": "PHARAOH", "secondaryChar": "NONE", "moodEmoji": "📜", "propEmoji": "🐴", "expression": "PEACEFUL"},
+      {"id": "s93_2", "title": "Philippe partage la bonne nouvelle de Jésus", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "PAUL", "secondaryChar": "PHARAOH", "moodEmoji": "💬", "propEmoji": "📖", "expression": "HAPPY"},
+      {"id": "s93_3", "title": "Baptisé dans la joie au bord de l'eau", "backdrop": "RED_SEA", "primaryChar": "PHARAOH", "secondaryChar": "PAUL", "moodEmoji": "💧", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Que faisait le voyageur éthiopien dans son chariot ?", "options": ["Il lisait le livre du prophète Ésaïe", "Il jouait de la flûte", "Il dormait"], "correctIndex": 0, "explanation": "Oui ! Il cherchait à mieux connaître Dieu en lisant. 📜"},
+      {"question": "Comment Philippe l'a-t-il aidé ?", "options": ["Il lui a expliqué que le texte parlait de Jésus", "Il lui a pris le livre", "Il a ri"], "correctIndex": 0, "explanation": "Bravo ! Il est si précieux de partager ce qu'on comprend ! 📖"},
+      {"question": "Le voyageur a-t-il été gêné de demander de l'aide ?", "options": ["Non, il a invité Philippe avec humilité", "Oui, il a refusé", "Il est parti"], "correctIndex": 0, "explanation": "Exact ! Poser des questions est une grande sagesse. 😊"},
+      {"question": "Que demanda le voyageur près du point d'eau ?", "options": ["À être baptisé sur-le-champ", "À laver ses roues", "À boire un thé"], "correctIndex": 0, "explanation": "Super ! Il voulait suivre Jésus dès ce jour-là ! 💧"},
+      {"question": "Comment le voyageur repartit-il chez lui ?", "options": ["Tout joyeux !", "Tout inquiet", "En colère"], "correctIndex": 0, "explanation": "Merveilleux ! Connaître Jésus apporte une joie durable. ✨"}
+    ]
+  },
+  {
+    "id": 94, "moduleId": 10, "title": "La Lumière sur la Route de Damas", "reference": "Actes 9:1–20", "testament": "NOUVEAU", "emoji": "⚡", "durationMinutes": 4,
+    "moral": "Personne n'est trop loin pour être transformé par la lumière et l'amour de Jésus.",
+    "paragraphs": [
+      "Saul était un homme très sérieux qui ne connaissait pas encore l'amour de Jésus et pourchassait même les chrétiens jusqu'à la ville de Damas ! 😠",
+      "En chemin sous le soleil de midi, une lumière plus brillante que mille soleils l'entoura tout à coup ! Saul tomba par terre tout ébloui ! ✨",
+      "Une voix douce mais puissante lui parla : « Saul, pourquoi Me fais-tu du mal ? Je suis Jésus ! »",
+      "Saul comprit son erreur ! Pendant trois jours il ne vit plus rien et pria avec humilité. Alors Jésus envoya un brave ami nommé Ananias poser les mains sur lui. 🤝",
+      "Aussitôt, Saul retrouva la vue, changea son nom en Paul, et devint le plus grand voyageur annonçant partout l'amour de Jésus ! 🌍"
+    ],
+    "scenes": [
+      {"id": "s94_1", "title": "Une lumière éclatante sur la route de Damas", "backdrop": "RESURRECTION_DAWN", "primaryChar": "PAUL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "⚡", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s94_2", "title": "Ananias prie avec gentillesse pour Saul", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "ABRAHAM", "secondaryChar": "PAUL", "moodEmoji": "🤝", "propEmoji": "🙏", "expression": "PEACEFUL"},
+      {"id": "s94_3", "title": "Paul devient messager de l'amour de Dieu", "backdrop": "GALILEE_BOAT", "primaryChar": "PAUL", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌍", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Vers quelle ville marchait Saul au début ?", "options": ["Damas", "Jéricho", "Bethléem"], "correctIndex": 0, "explanation": "Oui ! Il était en route vers Damas. 🚶"},
+      {"question": "Qu'est-ce qui a arrêté Saul sur le chemin ?", "options": ["Une grande lumière du ciel et la voix de Jésus", "Une barrière en bois", "Un orage"], "correctIndex": 0, "explanation": "Bravo ! Jésus Lui-même lui a parlé avec lumière ! ✨"},
+      {"question": "Quel ami courageux est venu prier pour que Saul voie à nouveau ?", "options": ["Ananias", "Pharaon", "Jonas"], "correctIndex": 0, "explanation": "Exact ! Ananias l'a appelé « mon frère » avec bonté ! 🤝"},
+      {"question": "Quel nouveau nom Saul a-t-il utilisé pour voyager partout ?", "options": ["Paul", "Pierre", "Josué"], "correctIndex": 0, "explanation": "Super ! L'apôtre Paul a partagé l'amour de Dieu dans plein de pays ! 🌍"},
+      {"question": "Que prouve l'histoire de Paul ?", "options": ["Qu'on peut toujours changer en bien avec Jésus", "Que les gens ne changent jamais", "Qu'il faut rester en colère"], "correctIndex": 0, "explanation": "Merveilleux ! Jésus croit toujours en ce qu'on peut devenir de beau ! 💛"}
+    ]
+  },
+  {
+    "id": 95, "moduleId": 10, "title": "Tabitha, la Fée aux Mains Généreuses", "reference": "Actes 9:36–42", "testament": "NOUVEAU", "emoji": "🧵", "durationMinutes": 3,
+    "moral": "Chaque petit vêtement ou dessin fait pour aider les autres est un trésor aux yeux de Dieu.",
+    "paragraphs": [
+      "Dans la ville côtière de Joppé vivait une dame merveilleuse appelée Tabitha (ou Dorcas). Tout le monde l'adorait pour sa grande bonté ! 🧵",
+      "De ses mains habiles, Tabitha cousait de chauds manteaux et de jolies tuniques pour les mamans seules et les familles qui avaient besoin d'aide.",
+      "Un jour, Tabitha tomba très malade et mourut ! Toute la ville pleurait en montrant les beaux habits qu'elle avait cousus avec tant d'amour. 💧",
+      "Les amis appelèrent vite l'apôtre Pierre ! Pierre pria Dieu humblement à genoux près d'elle puis lui dit doucement : « Tabitha, lève-toi ! » ✨",
+      "Tabitha ouvrit les yeux, sourit et s'assit ! Quelle fête dans toute la ville de voir leur gentille amie de retour en pleine santé ! 🎉"
+    ],
+    "scenes": [
+      {"id": "s95_1", "title": "Tabitha coud de beaux habits avec amour", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "🧵", "propEmoji": "🧥", "expression": "HAPPY"},
+      {"id": "s95_2", "title": "Pierre prie avec foi pour Tabitha", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "FISHERMAN", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "✨", "expression": "PEACEFUL"},
+      {"id": "s95_3", "title": "Tabitha se relève dans la joie de tous !", "backdrop": "GARDEN_EDEN", "primaryChar": "MARY", "secondaryChar": "FISHERMAN", "moodEmoji": "🎉", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment Tabitha aidait-elle les autres dans sa ville ?", "options": ["En cousant de beaux vêtements pour les pauvres", "En construisant des fusées", "En jouant du tambour"], "correctIndex": 0, "explanation": "Oui ! Ses mains généreuses fabriquaient des tuniques et manteaux ! 🧵"},
+      {"question": "Pourquoi les habitants montraient-ils les vêtements à Pierre ?", "options": ["Pour montrer combien Tabitha était aimante et généreuse", "Pour les vendre", "Pour les laver"], "correctIndex": 0, "explanation": "Bravo ! Chaque couture était une preuve de son cœur en or. 🧥"},
+      {"question": "Qu'a fait Pierre avant de dire « Tabitha, lève-toi » ?", "options": ["Il s'est mis à genoux et a prié Dieu", "Il a chanté", "Il est sorti"], "correctIndex": 0, "explanation": "Exact ! Pierre savait que la vie vient de Dieu. 🙏"},
+      {"question": "Que s'est-il passé après la prière de Pierre ?", "options": ["Tabitha a ouvert les yeux et s'est relevée vivante !", "Rien", "Il a plu"], "correctIndex": 0, "explanation": "Super ! Tout le village a cru en Jésus grâce à ce miracle ! 🎉"},
+      {"question": "Comment ressembler à Tabitha ?", "options": ["En utilisant nos mains pour bricoler ou aider quelqu'un", "En ne rien faire", "En gardant tout"], "correctIndex": 0, "explanation": "Merveilleux ! Même un joli dessin offert fait très plaisir ! 🎨"}
+    ]
+  }
+]

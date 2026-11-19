@@ -1,0 +1,117 @@
+[
+  {
+    "id": 26, "moduleId": 3, "title": "La Traversée de la Mer Rouge", "reference": "Exode 14", "testament": "ANCIEN", "emoji": "🌊", "durationMinutes": 4,
+    "moral": "Quand tout semble bloqué devant nous, Dieu peut ouvrir un chemin !",
+    "paragraphs": [
+      "Le peuple d'Israël marchait joyeusement vers la liberté quand soudain… devant eux s'étendait la grande Mer Rouge, et derrière eux arrivaient les chars de Pharaon ! 🌊",
+      "Les enfants et les parents eurent très peur : « Comment allons-nous passer ? » s'écrièrent-ils.",
+      "Moïse leva son bâton et rassura tout le monde : « N'ayez pas peur ! Regardez comment Dieu va nous sauver aujourd'hui ! »",
+      "Alors un grand vent puissant souffla toute la nuit et sépara la mer en deux hauts murs d'eau bleue, laissant un chemin tout sec au milieu ! ✨",
+      "Tout le peuple traversa la mer à pied sec entre les poissons curieux, et de l'autre côté, Myriam chanta et dansa avec son tambourin pour remercier Dieu ! 🎶"
+    ],
+    "scenes": [
+      {"id": "s26_1", "title": "Bloqués devant la grande Mer Rouge", "backdrop": "RED_SEA", "primaryChar": "MOSES", "secondaryChar": "KID_FRIEND", "moodEmoji": "😟", "propEmoji": "🌊", "expression": "WORRIED"},
+      {"id": "s26_2", "title": "La mer s'ouvre en deux murailles", "backdrop": "RED_SEA", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌊", "propEmoji": "🪄", "expression": "BRAVE"},
+      {"id": "s26_3", "title": "Chants et danses de joie sur la rive", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MARY", "secondaryChar": "MOSES", "moodEmoji": "🎶", "propEmoji": "🥁", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel obstacle bloquait le peuple devant lui ?", "options": ["La Mer Rouge", "Une forêt de glace", "Un mur de briques"], "correctIndex": 0, "explanation": "Oui ! La grande Mer Rouge était devant eux. 🌊"},
+      {"question": "Qu'a fait Moïse avec son bâton sur ordre de Dieu ?", "options": ["Il l'a tendu vers la mer", "Il l'a cassé", "Il l'a jeté loin"], "correctIndex": 0, "explanation": "Bravo ! Dieu a ouvert la mer en deux. 🪄"},
+      {"question": "Comment était le fond de la mer pour traverser ?", "options": ["Sec comme un sentier", "Plein de boue", "Gelé"], "correctIndex": 0, "explanation": "Exact ! Ils ont marché sur la terre ferme entre deux murs d'eau. ✨"},
+      {"question": "Qui a mené les chants et les danses après la traversée ?", "options": ["Myriam avec son tambourin", "Pharaon", "Un soldat"], "correctIndex": 0, "explanation": "Oui ! Myriam a chanté un beau chant de reconnaissance. 🎶"},
+      {"question": "Que nous apprend ce miracle ?", "options": ["Dieu ouvre toujours un chemin pour les Siens", "Il faut rebrousser chemin", "Dieu dort parfois"], "correctIndex": 0, "explanation": "Super ! Avec Dieu, il y a toujours de l'espérance. 💛"}
+    ]
+  },
+  {
+    "id": 27, "moduleId": 3, "title": "La Manne Venue du Ciel", "reference": "Exode 16", "testament": "ANCIEN", "emoji": "🍯", "durationMinutes": 3,
+    "moral": "Chaque matin, Dieu prend soin de nos besoins quotidiens.",
+    "paragraphs": [
+      "Dans le grand désert tout chaud, le peuple marcha plusieurs jours et leurs paniers à provisions devinrent tout vides. 🧺",
+      "Les ventres commençaient à gargouiller ! Moïse pria Dieu avec confiance : « Seigneur, Tes enfants ont faim. »",
+      "Le lendemain matin, à la place de la rosée, le sable était couvert de jolis petits flocons blancs tout sucrés, comme des gaufrettes au miel ! 🍯",
+      "« Man hou ? Qu'est-ce que c'est ? » demandèrent les enfants émerveillés. C'était la manne, le pain du ciel envoyé par Dieu !",
+      "Chaque matin, chacun ramassait juste ce qu'il fallait pour la journée, et le sixième jour le double pour se reposer le sabbat en famille. ✨"
+    ],
+    "scenes": [
+      {"id": "s27_1", "title": "Les paniers vides dans le désert", "backdrop": "DESERT_NIGHT", "primaryChar": "MOSES", "secondaryChar": "KID_FRIEND", "moodEmoji": "🧺", "propEmoji": "🏜️", "expression": "WORRIED"},
+      {"id": "s27_2", "title": "Les flocons de manne sucrée au matin", "backdrop": "RESURRECTION_DAWN", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🍯", "propEmoji": "✨", "expression": "SURPRISED"},
+      {"id": "s27_3", "title": "Le partage heureux en famille", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MOSES", "secondaryChar": "SHEPHERD", "moodEmoji": "🥖", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quel goût avait la manne du ciel ?", "options": ["Un goût sucré de gâteau au miel", "Un goût de citron amer", "Un goût de sel"], "correctIndex": 0, "explanation": "Miam ! Elle était douce comme des gaufrettes au miel ! 🍯"},
+      {"question": "Quand la manne apparaissait-elle sur le sol ?", "options": ["Chaque matin avec la rosée", "À minuit pile", "Une fois par an"], "correctIndex": 0, "explanation": "Oui ! Chaque matin, Dieu donnait du pain frais. ☀️"},
+      {"question": "Pourquoi ramassait-on le double le sixième jour ?", "options": ["Pour se reposer le septième jour (sabbat)", "Pour la vendre", "Pour jouer"], "correctIndex": 0, "explanation": "Bravo ! Le septième jour était un doux jour de repos en famille. 💛"},
+      {"question": "Que signifie le mot « Manne » ?", "options": ["« Qu'est-ce que c'est ? »", "« Super bon »", "« Nuage blanc »"], "correctIndex": 0, "explanation": "Exact ! Ils étaient si surpris le premier matin ! ✨"},
+      {"question": "Que montre Dieu en envoyant la manne ?", "options": ["Qu'Il nourrit et prend soin de nous chaque jour", "Qu'Il aime le sable", "Rien du tout"], "correctIndex": 0, "explanation": "Très bien ! On peut remercier Dieu avant chaque repas. 🙏"}
+    ]
+  },
+  {
+    "id": 28, "moduleId": 3, "title": "Les Dix Commandements", "reference": "Exode 19–20", "testament": "ANCIEN", "emoji": "📜", "durationMinutes": 3,
+    "moral": "Les règles de Dieu sont des repères d'amour pour vivre heureux ensemble.",
+    "paragraphs": [
+      "Trois mois après avoir quitté l'Égypte, le peuple installa ses tentes au pied du majestueux Mont Sinaï. ⛰️",
+      "Un beau nuage brillant descendit sur le sommet de la montagne. Moïse y monta pour parler avec Dieu.",
+      "Dieu grava sur deux tablettes de pierre dix règles d'amour et de sagesse : les Dix Commandements ! 📜",
+      "Ces règles disent d'aimer Dieu de tout son cœur, de respecter papa et maman, de dire toujours la vérité, de ne rien voler et d'aimer ses voisins.",
+      "Ce ne sont pas des règles tristes : ce sont comme les feux verts et les panneaux d'une belle route qui protègent notre joie ! 💛"
+    ],
+    "scenes": [
+      {"id": "s28_1", "title": "Le camp au pied du Mont Sinaï", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "MOSES", "secondaryChar": "KID_FRIEND", "moodEmoji": "⛰️", "propEmoji": "⛺", "expression": "PEACEFUL"},
+      {"id": "s28_2", "title": "Dieu remet les deux tablettes", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "📜", "propEmoji": "✨", "expression": "BRAVE"},
+      {"id": "s28_3", "title": "Des règles d'amour pour vivre ensemble", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MOSES", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🕊️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Sur quelle montagne Moïse reçut-il les tablettes ?", "options": ["Le Mont Sinaï", "Le Mont Blanc", "L'Everest"], "correctIndex": 0, "explanation": "Bravo ! C'était sur le Mont Sinaï. ⛰️"},
+      {"question": "Combien y a-t-il de commandements ?", "options": ["Dix", "Trois", "Mille"], "correctIndex": 0, "explanation": "Oui ! Les Dix Commandements gravés sur deux tablettes. 📜"},
+      {"question": "Que dit un des commandements sur les parents ?", "options": ["Respecte et honore ton papa et ta maman", "Ne les écoute jamais", "Cache leurs affaires"], "correctIndex": 0, "explanation": "Exact ! Aimer et respecter ses parents plaît beaucoup à Dieu. 👨‍👩‍👧"},
+      {"question": "Pourquoi Dieu donne-t-Il ces règles ?", "options": ["Pour nous protéger et vivre en paix", "Pour nous punir sans raison", "Pour compliquer la vie"], "correctIndex": 0, "explanation": "Super ! Les règles d'amour gardent nos cœurs heureux. 💛"},
+      {"question": "Que demande Dieu concernant la vérité ?", "options": ["De ne pas mentir", "De raconter des mensonges", "De crier"], "correctIndex": 0, "explanation": "Oui ! La vérité crée la confiance entre amis. ✨"}
+    ]
+  },
+  {
+    "id": 29, "moduleId": 3, "title": "La Prière de Pardon de Moïse", "reference": "Exode 32–34", "testament": "ANCIEN", "emoji": "🙏", "durationMinutes": 3,
+    "moral": "Même quand on fait une grosse bêtise, Dieu pardonne à celui qui revient vers Lui.",
+    "paragraphs": [
+      "Pendant que Moïse était longtemps sur la montagne, le peuple devint impatient. Ils fabriquèrent une statue de veau en or au lieu d'attendre Dieu ! 🐮",
+      "En descendant avec les tablettes, Moïse fut si triste de voir le peuple oublier Dieu qu'il lâcha les pierres par terre.",
+      "Les gens regrettèrent vite leur erreur. Alors Moïse remonta prier Dieu avec tout son cœur : « Seigneur, s'il Te plaît, pardonne-leur ! » 🙏",
+      "Dieu montra à Moïse combien Son cœur est rempli de miséricorde : Il est lent à la colère et très riche en bonté.",
+      "Dieu grava de nouvelles tablettes et continua d'accompagner Son peuple avec amour et patience. 💛"
+    ],
+    "scenes": [
+      {"id": "s29_1", "title": "L'impatience au campement", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "😟", "propEmoji": "🐮", "expression": "WORRIED"},
+      {"id": "s29_2", "title": "Moïse prie pour le pardon", "backdrop": "MOUNTAIN_SINAI", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🙏", "propEmoji": "💧", "expression": "PEACEFUL"},
+      {"id": "s29_3", "title": "Les nouvelles tablettes de paix", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MOSES", "secondaryChar": "ANGEL", "moodEmoji": "📜", "propEmoji": "💛", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Quelle erreur le peuple a-t-il commise par impatience ?", "options": ["Ils ont fabriqué un veau en or à adorer", "Ils ont perdu leurs sandales", "Ils ont mangé tout le miel"], "correctIndex": 0, "explanation": "Oui ! Ils n'ont pas su attendre patiemment Moïse et Dieu. 🐮"},
+      {"question": "Qu'a fait Moïse pour aider le peuple après leur faute ?", "options": ["Il a prié Dieu de leur pardonner", "Il est parti sans eux", "Il s'est moqué"], "correctIndex": 0, "explanation": "Bravo ! Moïse aimait beaucoup son peuple et a prié pour lui. 🙏"},
+      {"question": "Comment Dieu a-t-Il réagi à la prière de Moïse ?", "options": ["Avec bonté et pardon", "Avec méchanceté", "Il n'a rien entendu"], "correctIndex": 0, "explanation": "Exact ! Dieu est plein de bonté et aime pardonner. 💛"},
+      {"question": "Que fit Dieu ensuite sur deux nouvelles pierres ?", "options": ["Il réécrivit les Dix Commandements", "Il dessina une maison", "Il ne fit rien"], "correctIndex": 0, "explanation": "Super ! Une nouvelle chance pour tout le peuple. 📜"},
+      {"question": "Que pouvons-nous faire quand nous faisons une erreur ?", "options": ["Demander pardon sincèrement", "Cacher la vérité", "Accuser le voisin"], "correctIndex": 0, "explanation": "Très bien ! Demander pardon libère le cœur. 🕊️"}
+    ]
+  },
+  {
+    "id": 30, "moduleId": 3, "title": "La Belle Tente de la Rencontre", "reference": "Exode 35–40", "testament": "ANCIEN", "emoji": "⛺", "durationMinutes": 3,
+    "moral": "Chacun peut offrir ses talents et sa joie pour embellir le monde.",
+    "paragraphs": [
+      "Dieu invita le peuple à construire un magnifique sanctuaire démontable, la Tente de la Rencontre, pour se souvenir qu'Il voyageait avec eux. ⛺",
+      "Quel élan de générosité ! Tous les parents et même les enfants apportèrent de beaux tissus bleus, violets et rouges, du bois d'acacia et de petits bijoux.",
+      "Les artisans les plus habiles, guidés par Betsaleel, cousirent des rideaux brodés d'anges et fabriquèrent un beau chandelier doré à sept branches. 🕯️",
+      "Quand tout fut terminé, un nuage lumineux remplit la tente : c'était le signe doux de la présence de Dieu au milieu du camp !",
+      "Chaque matin, tout le monde souriait en voyant le nuage brillant, sûr que Dieu veillait sur chaque famille. ✨"
+    ],
+    "scenes": [
+      {"id": "s30_1", "title": "Chacun partage ses trésors avec joie", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "MARY", "moodEmoji": "🎁", "propEmoji": "🧵", "expression": "HAPPY"},
+      {"id": "s30_2", "title": "Les artisans tissent la belle tente", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "MOSES", "secondaryChar": "ANGEL", "moodEmoji": "🕯️", "propEmoji": "⛺", "expression": "HAPPY"},
+      {"id": "s30_3", "title": "La lumière de Dieu remplit la tente", "backdrop": "RESURRECTION_DAWN", "primaryChar": "MOSES", "secondaryChar": "GOD_LIGHT", "moodEmoji": "✨", "propEmoji": "☁️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelait le sanctuaire voyageur du désert ?", "options": ["La Tente de la Rencontre", "Le Château d'or", "La Tour bleue"], "correctIndex": 0, "explanation": "Bravo ! C'était la Tente de la Rencontre (le Tabernacle). ⛺"},
+      {"question": "Comment le peuple a-t-il aidé à la fabriquer ?", "options": ["En offrant avec joie tissus, bois et talents", "En dormant", "En achetant dans un magasin"], "correctIndex": 0, "explanation": "Oui ! Tout le monde a participé de bon cœur. 🎁"},
+      {"question": "Combien de branches avait le beau chandelier doré ?", "options": ["Sept branches", "Deux branches", "Cent branches"], "correctIndex": 0, "explanation": "Exact ! La belle Menorah à sept lumières. 🕯️"},
+      {"question": "Quel signe montra que Dieu était heureux de la tente ?", "options": ["Une nuée lumineuse la remplit", "Un tremblement de terre", "La pluie"], "correctIndex": 0, "explanation": "Super ! Dieu était présent tout près de leurs tentes. ✨"},
+      {"question": "Peux-tu aussi utiliser tes talents pour faire du bien ?", "options": ["Oui, chacun a un don précieux !", "Non, c'est réservé aux adultes", "Seulement pour soi"], "correctIndex": 0, "explanation": "Merveilleux ! Tes dessins, tes chants et ta gentillesse comptent beaucoup. 💛"}
+    ]
+  }
+]

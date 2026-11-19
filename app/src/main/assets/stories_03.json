@@ -1,0 +1,120 @@
+[
+  {
+    "id": 11, "moduleId": 2, "title": "Ésaü, Jacob et le Bol de Lentilles", "reference": "Genèse 25–27", "testament": "ANCIEN", "emoji": "🍲", "durationMinutes": 3,
+    "moral": "Être honnête et patient vaut mieux qu'un échange précipité.",
+    "paragraphs": [
+      "Isaac et Rébecca eurent deux fils jumeaux très différents : Ésaü aimait chasser dans les forêts, et Jacob aimait rester près des tentes à cuisiner. 🍲",
+      "Un jour, Ésaü rentra affamé et sentit une délicieuse soupe de lentilles rouges que Jacob préparait sur le feu.",
+      "« Donne-moi vite de ta soupe ! » supplia Ésaü. Jacob lui demanda en échange son privilège de grand frère, et Ésaü accepta sans réfléchir.",
+      "Plus tard, Jacob regretta ses ruses et dut partir loin de chez lui pour apprendre à écouter Dieu avec un cœur vrai.",
+      "Dieu ne les abandonna jamais et prépara pour chacun un chemin de réconciliation et de paix. 🕊️"
+    ],
+    "scenes": [
+      {"id": "s11_1", "title": "La soupe chaude sous la tente", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "SHEPHERD", "moodEmoji": "🍲", "propEmoji": "🔥", "expression": "HAPPY"},
+      {"id": "s11_2", "title": "Un échange trop rapide", "backdrop": "DESERT_NIGHT", "primaryChar": "KID_FRIEND", "secondaryChar": "NONE", "moodEmoji": "😟", "propEmoji": "🥣", "expression": "WORRIED"},
+      {"id": "s11_3", "title": "Apprendre l'honnêteté", "backdrop": "GARDEN_EDEN", "primaryChar": "ABRAHAM", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🕊️", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelaient les deux frères jumeaux ?", "options": ["Ésaü et Jacob", "Pierre et Paul", "Moïse et Aaron"], "correctIndex": 0, "explanation": "Bravo ! Ésaü et Jacob étaient les fils d'Isaac et Rébecca. 👦"},
+      {"question": "Quel plat délicieux Jacob préparait-il ?", "options": ["Une soupe de lentilles", "Une pizza", "Des crêpes"], "correctIndex": 0, "explanation": "Oui ! Une bonne soupe chaude de lentilles rouges. 🍲"},
+      {"question": "Quelle erreur fit Ésaü par impatience ?", "options": ["Il échangea son droit d'aîné pour un bol", "Il renversa la marmite", "Il s'endormit"], "correctIndex": 0, "explanation": "Exact ! Agir trop vite sans réfléchir apporte des regrets. 😟"},
+      {"question": "Que devait apprendre Jacob ?", "options": ["L'honnêteté et la vérité", "À courir plus vite", "À cuisiner plus salé"], "correctIndex": 0, "explanation": "Très bien ! La vérité rend le cœur léger. ✨"},
+      {"question": "Dieu aide-t-Il les frères à se réconcilier ?", "options": ["Oui, toujours", "Jamais", "Seulement l'été"], "correctIndex": 0, "explanation": "Merveilleux ! Dieu aime ramener la paix dans les familles. 🕊️"}
+    ]
+  },
+  {
+    "id": 12, "moduleId": 2, "title": "L'Échelle Lumineuse de Jacob", "reference": "Genèse 28", "testament": "ANCIEN", "emoji": "🪜", "durationMinutes": 3,
+    "moral": "Même loin de la maison, Dieu veille sur nous toute la nuit.",
+    "paragraphs": [
+      "Jacob voyageait tout seul dans la grande campagne. Quand le soir arriva, il choisit une pierre lisse comme oreiller et s'endormit sous les étoiles. 🌙",
+      "Soudain, dans son rêve, il vit une immense échelle de lumière qui reliait la terre jusqu'au ciel !",
+      "Des anges joyeux montaient et descendaient le long de cette échelle étincelante comme des messagers de paix. 👼",
+      "Au sommet, Dieu lui parla tendrement : « N'aie pas peur, Jacob. Je suis avec toi et Je te garderai partout où tu iras ! »",
+      "Au réveil, Jacob s'écria : « Dieu est vraiment ici ! » Il reprit sa route avec courage et le cœur plein d'espérance. ✨"
+    ],
+    "scenes": [
+      {"id": "s12_1", "title": "Jacob s'endort sous les étoiles", "backdrop": "DESERT_NIGHT", "primaryChar": "SHEPHERD", "secondaryChar": "NONE", "moodEmoji": "🌙", "propEmoji": "🪨", "expression": "PEACEFUL"},
+      {"id": "s12_2", "title": "L'échelle d'or et les anges", "backdrop": "HEAVEN_CITY", "primaryChar": "ANGEL", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🪜", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s12_3", "title": "Le réveil plein de courage", "backdrop": "RESURRECTION_DAWN", "primaryChar": "SHEPHERD", "secondaryChar": "GOD_LIGHT", "moodEmoji": "☀️", "propEmoji": "💛", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Qu'a utilisé Jacob comme oreiller ?", "options": ["Une pierre", "Un nuage", "Un livre"], "correctIndex": 0, "explanation": "Oui ! Une pierre au milieu du désert. 🪨"},
+      {"question": "Qu'a vu Jacob dans son rêve merveilleux ?", "options": ["Une échelle reliant la terre au ciel", "Un train volant", "Une île de bonbons"], "correctIndex": 0, "explanation": "Bravo ! Une grande échelle de lumière jusqu'au ciel. 🪜"},
+      {"question": "Qui montait et descendait sur l'échelle ?", "options": ["Les anges de Dieu", "Des éléphants", "Des robots"], "correctIndex": 0, "explanation": "Exact ! Les anges veillaient sur Jacob. 👼"},
+      {"question": "Que promit Dieu à Jacob ?", "options": ["« Je suis avec toi partout »", "« Tu vas te perdre »", "« Rentre immédiatement »"], "correctIndex": 0, "explanation": "Super ! Dieu est toujours avec nous, même loin de chez nous. 💛"},
+      {"question": "Comment Jacob s'est-il senti au réveil ?", "options": ["Rassuré et plein de courage", "Toujours effrayé", "Endormi"], "correctIndex": 0, "explanation": "Oui ! Il savait que Dieu veillait sur lui. ✨"}
+    ]
+  },
+  {
+    "id": 13, "moduleId": 2, "title": "La Tunique Multicolore de Joseph", "reference": "Genèse 37:1–11", "testament": "ANCIEN", "emoji": "🧥", "durationMinutes": 3,
+    "moral": "Les talents sont faits pour encourager les autres, jamais pour se vanter.",
+    "paragraphs": [
+      "Jacob eut douze fils, et l'un des plus jeunes s'appelait Joseph. C'était un garçon gentil, rêveur et très proche de son papa. 🧥",
+      "Pour lui montrer son affection, Jacob offrit à Joseph une magnifique tunique tissée de toutes les couleurs de l'arc-en-ciel !",
+      "Joseph était si content de son beau manteau rayé rouge, bleu, vert et or. Mais ses grands frères commencèrent à être jaloux.",
+      "Une nuit, Joseph fit des rêves étonnants où des gerbes de blé et même des étoiles s'inclinaient devant lui.",
+      "Quand il raconta ses rêves avec enthousiasme, ses frères se fâchèrent encore plus, sans savoir que Dieu préparait un grand plan d'amour. 🌟"
+    ],
+    "scenes": [
+      {"id": "s13_1", "title": "Le beau manteau arc-en-ciel", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JOSEPH_COAT", "secondaryChar": "ABRAHAM", "moodEmoji": "🧥", "propEmoji": "🌈", "expression": "HAPPY"},
+      {"id": "s13_2", "title": "La jalousie des grands frères", "backdrop": "DESERT_NIGHT", "primaryChar": "JOSEPH_COAT", "secondaryChar": "SHEPHERD", "moodEmoji": "😠", "propEmoji": "🌾", "expression": "WORRIED"},
+      {"id": "s13_3", "title": "Les rêves d'étoiles dans la nuit", "backdrop": "DESERT_NIGHT", "primaryChar": "JOSEPH_COAT", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌟", "propEmoji": "✨", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel beau cadeau Jacob offrit-il à Joseph ?", "options": ["Une tunique multicolore", "Une épée en fer", "Un chariot"], "correctIndex": 0, "explanation": "Bravo ! Une magnifique tunique de toutes les couleurs. 🧥"},
+      {"question": "Combien de frères Joseph avait-il au total ?", "options": ["11 frères (12 fils au total)", "2 frères", "1 seul frère"], "correctIndex": 0, "explanation": "Oui ! Jacob avait douze fils en tout. 👨‍👦‍👦"},
+      {"question": "Comment réagirent les frères face à ce cadeau ?", "options": ["Ils devinrent jaloux", "Ils dansèrent de joie", "Ils fabriquèrent la même"], "correctIndex": 0, "explanation": "Exact ! La jalousie a abîmé leur entente. 😔"},
+      {"question": "Qu'y avait-il dans les rêves de Joseph ?", "options": ["Des gerbes de blé et des étoiles", "Des voitures rouges", "Des glaces"], "correctIndex": 0, "explanation": "Super ! Dieu parlait à Joseph à travers ces rêves. 🌟"},
+      {"question": "Pourquoi Dieu donnait-Il ces rêves à Joseph ?", "options": ["Pour préparer un futur plan de secours", "Pour rien", "Pour le faire pleurer"], "correctIndex": 0, "explanation": "Oui ! Un jour, Joseph sauvera toute sa famille. 💛"}
+    ]
+  },
+  {
+    "id": 14, "moduleId": 2, "title": "Joseph Vendu en Égypte", "reference": "Genèse 37:12–36", "testament": "ANCIEN", "emoji": "🐪", "durationMinutes": 4,
+    "moral": "Même dans les moments difficiles, Dieu ne nous abandonne jamais.",
+    "paragraphs": [
+      "Un jour, Jacob envoya Joseph prendre des nouvelles de ses frères qui gardaient les troupeaux loin dans la plaine.",
+      "En le voyant approcher avec sa tunique colorée, ses frères lui arrachèrent son manteau et le jetèrent dans une vieille citerne sèche !",
+      "Pendant que Joseph pleurait au fond du puits, une caravane de marchands passa avec ses chameaux en route vers l'Égypte. 🐪",
+      "Les frères vendirent Joseph aux marchands pour vingt pièces d'argent, puis ils ramenèrent la tunique tachée à leur pauvre père.",
+      "Joseph traversa le grand désert tout triste, loin de son papa. Mais dans son cœur, Dieu murmurait : « Courage Joseph, Je suis avec toi ! » 💛"
+    ],
+    "scenes": [
+      {"id": "s14_1", "title": "Joseph retrouve ses frères dans la plaine", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JOSEPH_COAT", "secondaryChar": "SHEPHERD", "moodEmoji": "🌾", "propEmoji": "🧥", "expression": "HAPPY"},
+      {"id": "s14_2", "title": "Au fond de la citerne sèche", "backdrop": "DESERT_NIGHT", "primaryChar": "PRISONER", "secondaryChar": "NONE", "moodEmoji": "😢", "propEmoji": "🕳️", "expression": "SAD_CELL"},
+      {"id": "s14_3", "title": "La caravane vers l'Égypte", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🐪", "propEmoji": "💛", "expression": "BRAVE"}
+    ],
+    "questions": [
+      {"question": "Où les frères jetèrent-ils d'abord Joseph ?", "options": ["Dans une citerne sèche", "Dans une rivière", "Dans un arbre"], "correctIndex": 0, "explanation": "Oui ! C'était un vieux puits sec sans eau. 😔"},
+      {"question": "À qui les frères ont-ils vendu Joseph ?", "options": ["À des marchands voyageant vers l'Égypte", "À des pêcheurs", "À un boulanger"], "correctIndex": 0, "explanation": "Exact ! Une caravane de chameaux allait en Égypte. 🐪"},
+      {"question": "Dans quel pays Joseph fut-il emmené ?", "options": ["En Égypte", "En France", "Au Japon"], "correctIndex": 0, "explanation": "Bravo ! Il arriva en Égypte, un grand pays ancien. 🏜️"},
+      {"question": "Comment se sentait Joseph en partant loin ?", "options": ["Triste, mais rassuré par Dieu", "Ravi de quitter son papa", "Amusé"], "correctIndex": 0, "explanation": "Oui ! Même dans la tristesse, Dieu était tout près de lui. 💛"},
+      {"question": "Qui veillait secrètement sur Joseph ?", "options": ["Dieu", "Personne", "Le vent"], "correctIndex": 0, "explanation": "Très bien ! Dieu n'abandonne jamais Ses enfants. ✨"}
+    ]
+  },
+  {
+    "id": 15, "moduleId": 2, "title": "Joseph, la Femme de Potiphar et la Prison", "reference": "Genèse 39", "testament": "ANCIEN", "emoji": "🔒", "durationMinutes": 4,
+    "moral": "Rester honnête et fidèle à Dieu donne une force intérieure invincible.",
+    "paragraphs": [
+      "En Égypte, Joseph travaillait dans le beau palais de Potiphar, un chef important. Comme Joseph était sérieux et gentil, Potiphar lui confia toute sa maison ! 🏛️",
+      "Mais un jour, la femme de Potiphar voulut entraîner Joseph dans une mauvaise action et le tira par son manteau. « Non ! dit Joseph, je ne trahirai jamais mon maître ni Dieu ! »",
+      "Joseph s'enfuit en courant pour rester pur et honnête, laissant son manteau entre les mains de la femme de Potiphar.",
+      "Furieuse, la femme de Potiphar mentit à son mari et accusa injustement Joseph ! Potiphar crut au mensonge et fit jeter Joseph en prison. 🔒",
+      "Derrière les gros barreaux de la cellule sombre, Joseph se retrouva assis avec d'autres prisonniers. On voyait sur son visage de la peine, mais aussi une grande paix.",
+      "Même en prison, Joseph restait si serviable et rempli de l'amour de Dieu que le gardien lui confia le soin de tous les autres prisonniers ! 🌟"
+    ],
+    "scenes": [
+      {"id": "s15_1", "title": "Joseph travaille fidèlement au palais", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "PHARAOH", "moodEmoji": "🏛️", "propEmoji": "📜", "expression": "HAPPY"},
+      {"id": "s15_2", "title": "La femme de Potiphar tente Joseph", "backdrop": "EGYPT_PALACE", "primaryChar": "POTIPHAR_WIFE", "secondaryChar": "JOSEPH_COAT", "moodEmoji": "✋", "propEmoji": "🧥", "expression": "TEMPTATION"},
+      {"id": "s15_3", "title": "Joseph refuse et s'enfuit loyalement", "backdrop": "EGYPT_PALACE", "primaryChar": "JOSEPH_COAT", "secondaryChar": "POTIPHAR_WIFE", "moodEmoji": "🏃", "propEmoji": "💨", "expression": "BRAVE"},
+      {"id": "s15_4", "title": "Le visage de Joseph en cellule avec les prisonniers", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "PRISONER", "moodEmoji": "🔒", "propEmoji": "⛓️", "expression": "SAD_CELL"},
+      {"id": "s15_5", "title": "La lumière de Dieu dans la prison", "backdrop": "PRISON_CELL", "primaryChar": "PRISONER", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌟", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Chez qui Joseph travaillait-il en Égypte ?", "options": ["Chez Potiphar dans son palais", "Chez un pêcheur", "Chez un berger"], "correctIndex": 0, "explanation": "Bravo ! Potiphar avait confié toute sa maison à Joseph. 🏛️"},
+      {"question": "Qu'a fait Joseph quand la femme de Potiphar lui a demandé une mauvaise chose ?", "options": ["Il a dit non et s'est enfui", "Il a accepté", "Il a crié sur son père"], "correctIndex": 0, "explanation": "Exact ! Joseph voulait rester fidèle à Dieu et honnête. 🛡️"},
+      {"question": "Pourquoi Joseph a-t-il été envoyé en prison ?", "options": ["À cause d'un mensonge de la femme de Potiphar", "Parce qu'il avait volé du pain", "Parce qu'il était en retard"], "correctIndex": 0, "explanation": "Oui ! Il fut accusé injustement malgré son innocence. 🔒"},
+      {"question": "Avec qui Joseph se trouvait-il dans la cellule ?", "options": ["Avec d'autres prisonniers derrière les barreaux", "Tout seul dans un jardin", "Avec des éléphants"], "correctIndex": 0, "explanation": "Exact ! Joseph partageait la cellule avec d'autres prisonniers et les aidait. 🤝"},
+      {"question": "Comment Joseph se comportait-il en prison ?", "options": ["Avec bonté et confiance en Dieu", "En cassant les barreaux", "En refusant d'aider"], "correctIndex": 0, "explanation": "Merveilleux ! Même dans l'épreuve, la lumière de Dieu brillait en lui. 🌟"}
+    ]
+  }
+]

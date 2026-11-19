@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1, "moduleId": 1, "title": "La Création du Monde", "reference": "Genèse 1", "testament": "ANCIEN", "emoji": "🌍", "durationMinutes": 3,
+    "moral": "Dieu a créé chaque étoile, chaque fleur et chaque enfant avec amour.",
+    "paragraphs": [
+      "Au tout début, il n'y avait ni soleil, ni mer, ni montagnes : seulement un grand calme dans l'obscurité. Alors Dieu sourit et dit doucement : « Que la lumière soit ! » ✨",
+      "Aussitôt, une lumière dorée illumina l'univers. Dieu sépara le jour brillant de la nuit étoilée, et Il trouva que c'était très beau.",
+      "Le deuxième et le troisième jour, Dieu dessina le grand ciel bleu, rassembla les océans et fit pousser des arbres fruitiers, des herbes tendres et mille fleurs colorées. 🌸",
+      "Ensuite, Il accrocha le soleil radieux pour réchauffer le jour, et la lune argentée entourée de millions d'étoiles pour veiller sur la nuit. 🌟",
+      "Bientôt, les océans se remplirent de poissons joueurs, le ciel d'oiseaux chanteurs, et les prairies de lions doux, de lapins et de girafes. 🦁",
+      "Enfin, Dieu créa le premier homme et la première femme pour prendre soin de ce jardin merveilleux. Il contempla toute Sa création et se reposa dans la joie."
+    ],
+    "scenes": [
+      {"id": "s1_1", "title": "La première lumière dorée", "backdrop": "DESERT_NIGHT", "primaryChar": "GOD_LIGHT", "secondaryChar": "ANGEL", "moodEmoji": "✨", "propEmoji": "🌟", "expression": "PEACEFUL"},
+      {"id": "s1_2", "title": "Les fleurs et les arbres du jardin", "backdrop": "GARDEN_EDEN", "primaryChar": "GOD_LIGHT", "secondaryChar": "NONE", "moodEmoji": "🌸", "propEmoji": "🌳", "expression": "HAPPY"},
+      {"id": "s1_3", "title": "Les animaux dans la prairie", "backdrop": "GARDEN_EDEN", "primaryChar": "LION", "secondaryChar": "ADAM_EVE", "moodEmoji": "🦁", "propEmoji": "🦋", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Qu'est-ce que Dieu a créé en tout premier ?", "options": ["La lumière", "Les voitures", "Les maisons"], "correctIndex": 0, "explanation": "Bravo ! Dieu a dit « Que la lumière soit ! » dès le premier jour. ✨"},
+      {"question": "Qu'a placé Dieu dans le ciel pour éclairer la nuit ?", "options": ["Un phare", "La lune et les étoiles", "Des ballons"], "correctIndex": 1, "explanation": "Exact ! La lune et les étoiles brillent doucement la nuit. 🌙"},
+      {"question": "Où vivent les poissons et les baleines créés par Dieu ?", "options": ["Dans le désert", "Dans les océans", "Sur les nuages"], "correctIndex": 1, "explanation": "Oui ! Dieu a rempli les mers et les océans de vie. 🐠"},
+      {"question": "Qui devait prendre soin du jardin merveilleux ?", "options": ["L'homme et la femme", "Les rochers", "Personne"], "correctIndex": 0, "explanation": "Très bien ! Dieu a confié la nature à l'homme et à la femme. 🌿"},
+      {"question": "Que pensa Dieu en voyant toute Sa création ?", "options": ["Que c'était très bon", "Que c'était ennuyeux", "Qu'il fallait tout effacer"], "correctIndex": 0, "explanation": "Oui ! Dieu vit que tout ce qu'Il avait fait était très bon. 💛"}
+    ]
+  },
+  {
+    "id": 2, "moduleId": 1, "title": "Adam et Ève en Éden", "reference": "Genèse 2–3", "testament": "ANCIEN", "emoji": "🌳", "durationMinutes": 3,
+    "moral": "Écouter Dieu avec confiance protège notre cœur.",
+    "paragraphs": [
+      "Dieu planta un jardin magnifique appelé Éden, rempli de rivières cristallines et d'arbres chargés de fruits sucrés. 🍎",
+      "Adam et Ève y vivaient heureux. Chaque matin, Adam donnait un joli nom à tous les animaux, tandis que les oiseaux chantaient autour d'eux.",
+      "Dieu leur dit : « Vous pouvez manger de tous les fruits du jardin, sauf ceux de l'arbre au milieu, pour rester toujours en sécurité. »",
+      "Un jour, un serpent rusé murmura à Ève de désobéir. Ève et Adam goûtèrent au fruit défendu et se sentirent tout tristes et gênés.",
+      "Le soir, Dieu les appela avec douceur. Même s'ils durent quitter le jardin pour grandir ailleurs, Dieu promit de toujours veiller sur eux et de les aimer. 💛"
+    ],
+    "scenes": [
+      {"id": "s2_1", "title": "La joie dans le jardin d'Éden", "backdrop": "GARDEN_EDEN", "primaryChar": "ADAM_EVE", "secondaryChar": "LION", "moodEmoji": "🌺", "propEmoji": "🍎", "expression": "HAPPY"},
+      {"id": "s2_2", "title": "La tentation près de l'arbre", "backdrop": "GARDEN_EDEN", "primaryChar": "ADAM_EVE", "secondaryChar": "NONE", "moodEmoji": "😟", "propEmoji": "🍏", "expression": "WORRIED"},
+      {"id": "s2_3", "title": "La promesse d'amour de Dieu", "backdrop": "RESURRECTION_DAWN", "primaryChar": "ADAM_EVE", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💛", "propEmoji": "🌿", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelait le beau jardin d'Adam et Ève ?", "options": ["Le jardin d'Éden", "Le jardin de Paris", "La forêt sombre"], "correctIndex": 0, "explanation": "Bravo ! Ils vivaient dans le magnifique jardin d'Éden. 🌳"},
+      {"question": "Quel travail joyeux Adam faisait-il avec les animaux ?", "options": ["Il leur donnait des noms", "Il les enfermait", "Il les ignorait"], "correctIndex": 0, "explanation": "Oui ! Adam nomma chaque animal avec tendresse. 🐾"},
+      {"question": "Qui a poussé Ève à désobéir à Dieu ?", "options": ["Une colombe", "Un serpent rusé", "Un agneau"], "correctIndex": 1, "explanation": "C'est ça ! Le serpent a trompé Ève. 🐍"},
+      {"question": "Comment Adam et Ève se sont-ils sentis après avoir désobéi ?", "options": ["Gênés et tristes", "Très fiers", "Amusés"], "correctIndex": 0, "explanation": "Exact ! Ils se sont cachés parce qu'ils regrettaient. 😟"},
+      {"question": "Est-ce que Dieu a cessé d'aimer Adam et Ève ?", "options": ["Non, Dieu les aime toujours", "Oui, pour toujours", "Il les a oubliés"], "correctIndex": 0, "explanation": "Merveilleux ! L'amour et la promesse de Dieu demeurent toujours. 💛"}
+    ]
+  },
+  {
+    "id": 3, "moduleId": 1, "title": "Caïn et Abel, les Deux Frères", "reference": "Genèse 4", "testament": "ANCIEN", "emoji": "🌾", "durationMinutes": 3,
+    "moral": "La gentillesse et le pardon remplacent la jalousie par la paix.",
+    "paragraphs": [
+      "Adam et Ève eurent deux fils : Caïn, qui cultivait de beaux champs de blé doré, et Abel, qui gardait de doux petits moutons blancs. 🐑",
+      "Un jour, tous deux offrirent un cadeau à Dieu pour Lui dire merci. Abel offrit le meilleur agneau de son troupeau avec un cœur plein d'amour.",
+      "Dieu sourit devant l'offrande sincère d'Abel. Alors Caïn devint jaloux et son visage devint tout sombre et fâché.",
+      "Dieu conseilla doucement à Caïn : « Ne laisse pas la colère entrer dans ton cœur, choisis plutôt le bien ! »",
+      "Mais Caïn n'écouta pas ce sage conseil et blessa son frère. Cette histoire nous apprend combien il est précieux d'aimer nos frères et sœurs et de calmer notre colère. 🕊️"
+    ],
+    "scenes": [
+      {"id": "s3_1", "title": "Les champs de Caïn et les moutons d'Abel", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "SHEPHERD", "secondaryChar": "KID_FRIEND", "moodEmoji": "🌾", "propEmoji": "🐑", "expression": "HAPPY"},
+      {"id": "s3_2", "title": "La jalousie dans le cœur", "backdrop": "DESERT_NIGHT", "primaryChar": "KID_FRIEND", "secondaryChar": "GOD_LIGHT", "moodEmoji": "😠", "propEmoji": "🔥", "expression": "WORRIED"},
+      {"id": "s3_3", "title": "Choisir la paix et l'amour", "backdrop": "GARDEN_EDEN", "primaryChar": "SHEPHERD", "secondaryChar": "ANGEL", "moodEmoji": "🕊️", "propEmoji": "💛", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel était le métier d'Abel ?", "options": ["Berger de moutons", "Pêcheur", "Charpentier"], "correctIndex": 0, "explanation": "Exact ! Abel prenait soin des petits moutons. 🐑"},
+      {"question": "Que cultivait son frère Caïn ?", "options": ["La terre et les plantes", "Des bijoux", "Des bateaux"], "correctIndex": 0, "explanation": "Oui ! Caïn était cultivateur dans les champs. 🌾"},
+      {"question": "Pourquoi Caïn s'est-il fâché ?", "options": ["Parce qu'il était jaloux", "Parce qu'il avait perdu ses chaussures", "Parce qu'il pleuvait"], "correctIndex": 0, "explanation": "Bravo ! La jalousie a rendu Caïn triste et en colère. 😔"},
+      {"question": "Que nous conseille Dieu quand la colère arrive ?", "options": ["De choisir le bien et la paix", "De crier très fort", "De casser des objets"], "correctIndex": 0, "explanation": "Super ! Dieu nous aide à maîtriser la colère avec douceur. 🕊️"},
+      {"question": "Quelle leçon gardons-nous de cette histoire ?", "options": ["Aimer et pardonner aux autres", "Être jaloux", "Ne rien partager"], "correctIndex": 0, "explanation": "Exactement ! L'amour fraternel rend Dieu heureux. 💛"}
+    ]
+  },
+  {
+    "id": 4, "moduleId": 1, "title": "Noé et la Grande Arche", "reference": "Genèse 6–7", "testament": "ANCIEN", "emoji": "🚢", "durationMinutes": 4,
+    "moral": "Obéir avec patience protège toute la famille.",
+    "paragraphs": [
+      "Beaucoup de gens avaient oublié d'être gentils sur la terre. Mais Noé aimait Dieu et faisait toujours le bien avec sa famille. 🔨",
+      "Dieu dit à Noé : « Construis un immense bateau en bois, une arche, car une grande pluie va nettoyer la terre. »",
+      "Noé et ses fils scièrent des planches et clouèrent pendant longtemps, même quand les voisins se moquaient d'eux sous le grand soleil.",
+      "Puis les animaux arrivèrent deux par deux : éléphants, lions, lapins, tortues et oiseaux colorés montèrent dans l'arche ! 🦒",
+      "La pluie tomba pendant quarante jours et quarante nuits. À l'intérieur de l'arche, Noé, sa famille et tous les animaux étaient bien au sec et en paix. 🌧️"
+    ],
+    "scenes": [
+      {"id": "s4_1", "title": "Noé construit l'arche en bois", "backdrop": "GARDEN_EDEN", "primaryChar": "NOAH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🔨", "propEmoji": "🪵", "expression": "BRAVE"},
+      {"id": "s4_2", "title": "Les animaux montent deux par deux", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "NOAH", "secondaryChar": "LION", "moodEmoji": "🦒", "propEmoji": "🐘", "expression": "HAPPY"},
+      {"id": "s4_3", "title": "L'arche flotte sur l'océan", "backdrop": "ARK_OCEAN", "primaryChar": "NOAH", "secondaryChar": "NONE", "moodEmoji": "🌊", "propEmoji": "⛵", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Que demanda Dieu à Noé de construire ?", "options": ["Un immense bateau (une arche)", "Une fusée", "Un château"], "correctIndex": 0, "explanation": "Bravo ! Noé a construit une grande arche en bois. 🚢"},
+      {"question": "Comment les animaux sont-ils entrés dans l'arche ?", "options": ["Deux par deux", "En courant tout seuls", "En avion"], "correctIndex": 0, "explanation": "Oui ! Chaque espèce est entrée par couple. 🦁"},
+      {"question": "Combien de jours a-t-il plu ?", "options": ["40 jours et 40 nuits", "2 heures", "100 ans"], "correctIndex": 0, "explanation": "Exact ! La pluie a duré quarante jours et quarante nuits. 🌧️"},
+      {"question": "Comment était la famille de Noé dans l'arche ?", "options": ["En sécurité et au sec", "Gelée de froid", "Perdue"], "correctIndex": 0, "explanation": "Dieu a veillé sur eux tout au long du voyage ! 🛡️"},
+      {"question": "Pourquoi Noé a-t-il réussi ?", "options": ["Parce qu'il a obéi avec patience", "Parce qu'il était magicien", "Parce qu'il a dormi"], "correctIndex": 0, "explanation": "Très bien ! La fidélité de Noé est un bel exemple. 💛"}
+    ]
+  },
+  {
+    "id": 5, "moduleId": 1, "title": "La Colombe et l'Arc-en-Ciel", "reference": "Genèse 8–9", "testament": "ANCIEN", "emoji": "🌈", "durationMinutes": 3,
+    "moral": "L'arc-en-ciel nous rappelle que Dieu tient toujours Ses promesses.",
+    "paragraphs": [
+      "Après la grande pluie, l'arche de Noé se posa doucement sur le sommet d'une haute montagne. Le soleil brilla de nouveau ! ☀️",
+      "Noé ouvrit la fenêtre et envoya une petite colombe blanche pour voir si la terre était sèche.",
+      "La première fois, la colombe revint fatiguée. Sept jours plus tard, elle revint avec un joli rameau d'olivier tout vert dans son bec ! 🕊️",
+      "Noé comprit que les arbres poussaient déjà ! Tous sortirent de l'arche en sautant de joie sur l'herbe fraîche.",
+      "Alors Dieu dessina dans les nuages un magnifique arc-en-ciel multicolore : c'était Sa promesse d'amour et de paix pour toute la terre. 🌈"
+    ],
+    "scenes": [
+      {"id": "s5_1", "title": "La colombe part explorer", "backdrop": "ARK_OCEAN", "primaryChar": "NOAH", "secondaryChar": "ANGEL", "moodEmoji": "🕊️", "propEmoji": "🌿", "expression": "HAPPY"},
+      {"id": "s5_2", "title": "Retour avec le rameau d'olivier", "backdrop": "GARDEN_EDEN", "primaryChar": "NOAH", "secondaryChar": "LION", "moodEmoji": "🌿", "propEmoji": "☀️", "expression": "HAPPY"},
+      {"id": "s5_3", "title": "Le grand arc-en-ciel de promesse", "backdrop": "RESURRECTION_DAWN", "primaryChar": "NOAH", "secondaryChar": "GOD_LIGHT", "moodEmoji": "🌈", "propEmoji": "✨", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel oiseau a rapporté un rameau d'olivier à Noé ?", "options": ["Une colombe blanche", "Un pingouin", "Un hibou"], "correctIndex": 0, "explanation": "Oui ! La colombe a apporté un rameau d'olivier vert. 🕊️"},
+      {"question": "Que signifiait la feuille verte d'olivier ?", "options": ["Que la terre séchait et la vie revenait", "Qu'il allait neiger", "Que c'était la nuit"], "correctIndex": 0, "explanation": "Bravo ! Les plantes poussaient de nouveau sur la terre. 🌿"},
+      {"question": "Quel signe magnifique Dieu mit-Il dans le ciel ?", "options": ["Un arc-en-ciel", "Un feu d'artifice", "Un nuage noir"], "correctIndex": 0, "explanation": "Super ! L'arc-en-ciel brille de toutes les couleurs. 🌈"},
+      {"question": "Que rappelle l'arc-en-ciel ?", "options": ["La promesse fidèle de Dieu", "L'heure du dîner", "Le début de l'hiver"], "correctIndex": 0, "explanation": "Exact ! Dieu tient toujours Ses promesses d'amour. 💛"},
+      {"question": "Comment Noé a-t-il remercié Dieu ?", "options": ["Avec joie et reconnaissance", "En pleurant de colère", "En repartant dormir"], "correctIndex": 0, "explanation": "Oui ! Dire merci à Dieu remplit le cœur de paix. ✨"}
+    ]
+  }
+]

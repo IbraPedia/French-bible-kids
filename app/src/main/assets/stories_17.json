@@ -1,0 +1,117 @@
+[
+  {
+    "id": 81, "moduleId": 9, "title": "Zachée grimpe dans le Sycomore", "reference": "Luc 19:1–10", "testament": "NOUVEAU", "emoji": "🌳", "durationMinutes": 4,
+    "moral": "Jésus remarque toujours ceux qui Le cherchent et transforme leur cœur !",
+    "paragraphs": [
+      "Dans la ville de Jéricho vivait Zachée. Il était tout petit de taille, très riche, mais personne ne l'aimait parce qu'il prenait parfois trop d'argent aux gens. 😟",
+      "Un jour, il apprit que Jésus passait dans sa rue ! Zachée voulait absolument Le voir, mais il était trop petit derrière les grands adultes.",
+      "Alors il eut une idée rigolote : il courut devant tout le monde et grimpa tout en haut des branches d'un grand arbre sycomore ! 🌳",
+      "En passant sous l'arbre, Jésus s'arrêta, leva les yeux et sourit : « Zachée, descends vite ! Aujourd'hui, Je veux venir dîner chez toi ! » 😊",
+      "Zachée descendit fou de joie ! Touché par la gentillesse de Jésus, il promit de rendre quatre fois plus à ceux qu'il avait trompés et de partager la moitié de ses biens avec les pauvres ! 💛"
+    ],
+    "scenes": [
+      {"id": "s81_1", "title": "Zachée tout petit ne voit pas au-dessus de la foule", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "KID_FRIEND", "secondaryChar": "SHEPHERD", "moodEmoji": "😟", "propEmoji": "🪙", "expression": "WORRIED"},
+      {"id": "s81_2", "title": "Zachée perché dans l'arbre sycomore", "backdrop": "GARDEN_EDEN", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🌳", "propEmoji": "👀", "expression": "SURPRISED"},
+      {"id": "s81_3", "title": "Jésus dîne chez Zachée au cœur transformé", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "🎉", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Pourquoi Zachée ne voyait-il pas Jésus dans la foule ?", "options": ["Parce qu'il était tout petit de taille", "Parce qu'il avait les yeux fermés", "Il faisait nuit"], "correctIndex": 0, "explanation": "Oui ! Il n'arrivait pas à voir par-dessus les autres personnes. 😊"},
+      {"question": "Où Zachée a-t-il grimpé pour voir Jésus ?", "options": ["Dans un arbre sycomore", "Sur un chameau", "Sur un toit"], "correctIndex": 0, "explanation": "Bravo ! Il est monté sur une belle branche pour bien voir ! 🌳"},
+      {"question": "Qu'a dit Jésus en levant les yeux vers Zachée ?", "options": ["« Descends vite, Je viens chez toi aujourd'hui ! »", "« Va-t'en ! »", "« Reste là-haut ! »"], "correctIndex": 0, "explanation": "Exact ! Jésus connaissait déjà son prénom et voulait être son ami ! 💛"},
+      {"question": "Comment Zachée a-t-il changé après la visite de Jésus ?", "options": ["Il est devenu honnête et très généreux", "Il s'est caché", "Il n'a rien changé"], "correctIndex": 0, "explanation": "Super ! L'amour de Jésus change les cœurs en profondeur. ✨"},
+      {"question": "Que ressentons-nous quand Jésus nous invite à être Son ami ?", "options": ["Une grande joie qui donne envie de partager", "De la peur", "De l'ennui"], "correctIndex": 0, "explanation": "Merveilleux ! Jésus accueille toujours chacun avec amour. 🎉"}
+    ]
+  },
+  {
+    "id": 82, "moduleId": 9, "title": "Jésus Bénit les Petits Enfants", "reference": "Marc 10:13–16", "testament": "NOUVEAU", "emoji": "🧒", "durationMinutes": 3,
+    "moral": "Les enfants ont une place spéciale tout près du cœur de Jésus !",
+    "paragraphs": [
+      "Un après-midi, des mamans et des papas amenèrent leurs petits enfants et leurs bébés pour que Jésus les touche et les bénisse. 👶",
+      "Les disciples pensaient que Jésus était fatigué et trop occupé : « N'embêtez pas le Maître ! » dirent-ils d'un air sévère.",
+      "Mais quand Jésus entendit cela, Il ne fut pas d'accord du tout ! Il appela les petits avec un sourire lumineux : « Laissez venir à Moi les petits enfants ! » 💛",
+      "« Ne les empêchez jamais ! Car le Royaume de Dieu appartient à ceux qui ont un cœur confiant comme eux ! »",
+      "Alors Jésus prit les enfants sur Ses genoux, posa doucement Ses mains sur leurs têtes et les bénit tous avec tendresse ! 🤗"
+    ],
+    "scenes": [
+      {"id": "s82_1", "title": "Les parents amènent joyeusement leurs enfants", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "KID_FRIEND", "moodEmoji": "👶", "propEmoji": "🌸", "expression": "HAPPY"},
+      {"id": "s82_2", "title": "« Laissez venir à Moi les petits enfants ! »", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "💛", "propEmoji": "✨", "expression": "HAPPY"},
+      {"id": "s82_3", "title": "Jésus bénit chaque enfant avec amour", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🤗", "propEmoji": "🕊️", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Que voulaient les disciples quand les enfants sont arrivés ?", "options": ["Les renvoyer pour ne pas déranger Jésus", "Chanter avec eux", "Jouer au ballon"], "correctIndex": 0, "explanation": "Oui, les disciples pensaient que Jésus était trop occupé. 😟"},
+      {"question": "Comment Jésus a-t-Il réagi ?", "options": ["Il a appelé tous les enfants avec amour", "Il était d'accord avec les disciples", "Il est parti"], "correctIndex": 0, "explanation": "Bravo ! Jésus adore passer du temps avec les enfants ! 💛"},
+      {"question": "Quelle célèbre phrase Jésus a-t-Il prononcée ?", "options": ["« Laissez venir à Moi les petits enfants ! »", "« Silence les petits ! »", "« Revenez plus tard ! »"], "correctIndex": 0, "explanation": "Exact ! Les portes de Jésus sont toujours grandes ouvertes pour les enfants ! 🤗"},
+      {"question": "Pourquoi Jésus aime-t-Il le cœur des enfants ?", "options": ["Parce qu'il est simple, joyeux et confiant", "Parce qu'ils courent vite", "Sans raison"], "correctIndex": 0, "explanation": "Super ! La confiance simple plaît infiniment à Dieu. ✨"},
+      {"question": "Qu'a fait Jésus pour chaque enfant ?", "options": ["Il les a pris dans Ses bras et bénis", "Il leur a fait un discours long", "Rien"], "correctIndex": 0, "explanation": "Merveilleux ! Jésus t'aime et te bénit toi aussi aujourd'hui ! 🌟"}
+    ]
+  },
+  {
+    "id": 83, "moduleId": 9, "title": "Marthe et Marie Accueillent Jésus", "reference": "Luc 10:38–42", "testament": "NOUVEAU", "emoji": "🍵", "durationMinutes": 3,
+    "moral": "C'est bien d'aider à la maison, et encore plus précieux de prendre le temps d'écouter Jésus !",
+    "paragraphs": [
+      "Quand Jésus visitait le village de Béthanie, Il aimait beaucoup se reposer chez Ses amies Marthe et Marie. 🏡",
+      "Marthe voulait préparer un repas extraordinaire ! Elle courait partout dans la cuisine avec ses casseroles, tout agitée pour que tout soit parfait. 🍲",
+      "Pendant ce temps, sa sœur Marie était assise tranquillement aux pieds de Jésus pour écouter chaque mot plein d'amour qu'Il disait.",
+      "Marthe soupira : « Seigneur, dis à Marie de venir m'aider à la cuisine ! »",
+      "Jésus répondit avec beaucoup de douceur : « Marthe, Marthe, tu t'inquiètes pour beaucoup de choses… Marie a choisi la meilleure part : prendre le temps d'être avec Moi ! » 💛"
+    ],
+    "scenes": [
+      {"id": "s83_1", "title": "Marthe s'agite beaucoup pour le repas", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "MARY", "secondaryChar": "NONE", "moodEmoji": "🍲", "propEmoji": "🧹", "expression": "WORRIED"},
+      {"id": "s83_2", "title": "Marie écoute paisiblement les histoires de Jésus", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "MARY", "moodEmoji": "👂", "propEmoji": "💛", "expression": "PEACEFUL"},
+      {"id": "s83_3", "title": "La joie d'être ensemble dans la paix", "backdrop": "GARDEN_EDEN", "primaryChar": "JESUS", "secondaryChar": "MARY", "moodEmoji": "🍵", "propEmoji": "✨", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Comment s'appelaient les deux sœurs qui accueillaient Jésus ?", "options": ["Marthe et Marie", "Ruth et Naomi", "Sara et Rébecca"], "correctIndex": 0, "explanation": "Oui ! Marthe et Marie étaient de très bonnes amies de Jésus. 🏡"},
+      {"question": "Que faisait Marthe pendant la visite ?", "options": ["Elle s'affairait tout agitée pour le repas", "Elle dormait", "Elle lisait"], "correctIndex": 0, "explanation": "Exact ! Elle voulait bien faire, mais elle était trop stressée. 🍲"},
+      {"question": "Que faisait Marie ?", "options": ["Elle était assise calme à écouter Jésus", "Elle jouait dehors", "Elle se cachait"], "correctIndex": 0, "explanation": "Bravo ! Marie profitait de la présence précieuse de Jésus. 👂"},
+      {"question": "Qu'a dit Jésus avec tendresse à Marthe ?", "options": ["Que Marie avait choisi la meilleure part", "De cuisiner plus vite", "De se fâcher"], "correctIndex": 0, "explanation": "Super ! Prendre un moment calme avec Dieu passe en premier. 💛"},
+      {"question": "Comment équilibrer notre journée comme Marthe et Marie ?", "options": ["Aider avec joie ET garder un moment calme pour prier", "Ne jamais aider", "Courir sans arrêt"], "correctIndex": 0, "explanation": "Très bien ! Les deux sont importants, dans la paix ! ✨"}
+    ]
+  },
+  {
+    "id": 84, "moduleId": 9, "title": "L'Entrée Joyeuse à Jérusalem", "reference": "Matthieu 21:1–11", "testament": "NOUVEAU", "emoji": "🌿", "durationMinutes": 3,
+    "moral": "Jésus est un Roi de paix et de joie, pas de guerre !",
+    "paragraphs": [
+      "Un dimanche printanier, Jésus arriva près de la grande ville de Jérusalem. Au lieu d'un grand cheval de guerre, Il demanda un tout gentil petit âne ! 🫏",
+      "Des centaines de familles et d'enfants sortirent dans la rue pour L'accueillir comme un Roi plein d'amour !",
+      "Les gens étendirent leurs beaux manteaux colorés sur le sol comme un tapis d'honneur et agitèrent de grandes branches vertes de palmiers ! 🌿",
+      "Les enfants chantaient à tue-tête : « Hosanna ! Béni soit Celui qui vient au nom du Seigneur ! » 🎶",
+      "C'était une fête lumineuse où chacun sentait que Jésus apportait la paix dans la ville ! ✨"
+    ],
+    "scenes": [
+      {"id": "s84_1", "title": "Jésus arrive humblement sur un petit âne", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🫏", "propEmoji": "🌿", "expression": "PEACEFUL"},
+      {"id": "s84_2", "title": "Les rameaux verts et les chants des enfants !", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "KID_FRIEND", "secondaryChar": "JESUS", "moodEmoji": "🌿", "propEmoji": "🎶", "expression": "HAPPY"},
+      {"id": "s84_3", "title": "« Hosanna au Roi de Paix ! »", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "ANGEL", "moodEmoji": "👑", "propEmoji": "🕊️", "expression": "HAPPY"}
+    ],
+    "questions": [
+      {"question": "Sur quel animal Jésus est-Il entré à Jérusalem ?", "options": ["Un petit âne doux", "Un éléphant", "Un cheval de bataille"], "correctIndex": 0, "explanation": "Oui ! Un petit âne montre qu'Il est un Roi de paix. 🫏"},
+      {"question": "Qu'est-ce que les gens agitaient joyeusement dans leurs mains ?", "options": ["Des branches vertes de palmiers", "Des épées", "Des parapluies"], "correctIndex": 0, "explanation": "Bravo ! C'est pour cela qu'on l'appelle le dimanche des Rameaux ! 🌿"},
+      {"question": "Que chantaient les enfants avec enthousiasme ?", "options": ["« Hosanna ! »", "« Au revoir ! »", "« Silence ! »"], "correctIndex": 0, "explanation": "Exact ! « Hosanna » est un joyeux cri de louange à Dieu ! 🎶"},
+      {"question": "Qu'ont posé les gens sur le chemin devant le petit âne ?", "options": ["Leurs manteaux comme un tapis d'honneur", "Des cailloux", "Des barrières"], "correctIndex": 0, "explanation": "Oui ! C'était un accueil royal plein de respect. 🧥"},
+      {"question": "Quel genre de Roi est Jésus ?", "options": ["Un Roi humble, doux et rempli d'amour", "Un roi effrayant", "Un roi égoïste"], "correctIndex": 0, "explanation": "Super ! Son royaume est fait de bonté et de paix. 👑"}
+    ]
+  },
+  {
+    "id": 85, "moduleId": 9, "title": "Le Dernier Repas et le Lavement des Pieds", "reference": "Jean 13 & Luc 22", "testament": "NOUVEAU", "emoji": "🍞", "durationMinutes": 4,
+    "moral": "Le vrai amour se montre en servant les autres avec humilité.",
+    "paragraphs": [
+      "Le jeudi soir, Jésus partagea un grand repas spécial avec Ses douze amis dans une grande chambre à l'étage. 🕯️",
+      "Avant de manger, Jésus fit un geste qui étonna tout le monde : Il prit une bassine d'eau fraîche et une serviette pour laver Lui-même les pieds poussiéreux de Ses amis ! 💧",
+      "« Je vous donne un exemple, dit Jésus avec douceur : aimez-vous et servez-vous les uns les autres comme Je viens de le faire ! »",
+      "Puis pendant le repas, Jésus prit du pain, remercia Dieu, le partagea et leur dit de toujours se souvenir de Lui avec amour. 🍞",
+      "« À ceci tous reconnaîtront que vous êtes Mes amis : si vous vous aimez les uns les autres ! » murmura Jésus. 💛"
+    ],
+    "scenes": [
+      {"id": "s85_1", "title": "Jésus lave humblement les pieds de Ses amis", "backdrop": "TEMPLE_COURTYARD", "primaryChar": "JESUS", "secondaryChar": "FISHERMAN", "moodEmoji": "💧", "propEmoji": "🧺", "expression": "PEACEFUL"},
+      {"id": "s85_2", "title": "Le partage du pain et de l'amitié", "backdrop": "VILLAGE_SUNLIT", "primaryChar": "JESUS", "secondaryChar": "KID_FRIEND", "moodEmoji": "🍞", "propEmoji": "🕯️", "expression": "HAPPY"},
+      {"id": "s85_3", "title": "Le commandement nouveau : s'aimer les uns les autres", "backdrop": "RESURRECTION_DAWN", "primaryChar": "JESUS", "secondaryChar": "GOD_LIGHT", "moodEmoji": "💛", "propEmoji": "✨", "expression": "PEACEFUL"}
+    ],
+    "questions": [
+      {"question": "Quel geste surprenant de service Jésus a-t-Il fait avant le repas ?", "options": ["Il a lavé les pieds de Ses disciples", "Il a préparé des pizzas", "Il a fermé les fenêtres"], "correctIndex": 0, "explanation": "Oui ! Même en étant leur Maître, Il a montré comment servir avec humilité. 💧"},
+      {"question": "Qu'a partagé Jésus pendant ce repas d'adieu ?", "options": ["Du pain et la coupe en disant merci à Dieu", "Des jouets", "Des cartes"], "correctIndex": 0, "explanation": "Bravo ! Pour que Ses amis se souviennent toujours de Son amour. 🍞"},
+      {"question": "Comment reconnaît-on les amis de Jésus ?", "options": ["À leur amour les uns pour les autres", "À leur taille", "À leurs habits neufs"], "correctIndex": 0, "explanation": "Exact ! L'amour sincère est le plus beau signe ! 💛"},
+      {"question": "Que nous enseigne le lavement des pieds ?", "options": ["Aider même pour les petites tâches sans se croire supérieur", "Attendre d'être servi", "Râler"], "correctIndex": 0, "explanation": "Super ! Aider à ranger ou servir à table, c'est imiter Jésus ! 🤝"},
+      {"question": "Combien d'amis étaient à table avec Jésus ?", "options": ["Douze disciples", "Deux", "Cent"], "correctIndex": 0, "explanation": "Oui ! Ses douze proches disciples étaient réunis autour de Lui. ✨"}
+    ]
+  }
+]
